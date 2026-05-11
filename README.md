@@ -12,7 +12,7 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 **REFERENCE SITE**
 
-[seansbox.github.io/daggerheart-srd](https://seansbox.github.io/daggerheart-srd/)
+[litusb.github.io/corferida-drs/](https://litusb.github.io/corferida-drs/)
 
 ## CONTENTS
 
