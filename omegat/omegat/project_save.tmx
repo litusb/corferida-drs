@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your character's &lt;g1&gt;heritage&lt;/g1&gt; combines two elements: &lt;g2&gt;ancestry&lt;/g2&gt; and &lt;g3&gt;community.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260512T081145Z" creationid="Carlos" creationdate="20260512T081145Z">
+        <seg>L'&lt;g1&gt;herència&lt;/g1&gt; del teu personatge combina dos elements: &lt;g2&gt;llinatge&lt;/g2&gt; i &lt;g3&gt;comunitat&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>| Producers: Dani Gage and Madigan Hunt</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201356Z" creationid="litus" creationdate="20260511T201356Z">
