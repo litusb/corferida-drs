@@ -1,14 +1,14 @@
-12/5/26 10:13
+12/5/26 20:43
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
-Total:         	    8142	   83509	                  450849	                526437	      1	
-Restants:      	    8073	   82449	                  445098	                519699	      1	
-Únics:         	    6398	   78431	                  421865	                494165	      1	
-Únics restants:	    6330	   77372	                  416126	                487439	      1	
+Total:         	    8776	   83509	                  450215	                525803	      1	
+Restants:      	    8705	   82392	                  444116	                518662	      1	
+Únics:         	    6692	   77423	                  413341	                484922	      1	
+Únics restants:	    6622	   76307	                  407254	                477793	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8142	             8073	          6398	                   6330	          83509	            82449	           78431	                    77372	                         450849	                           445098	                        421865	                                 416126	                       526437	                         519699	                      494165	                               487439	
+DH-SRD-2025-09-09.md	           8776	             8705	          6692	                   6622	          83509	            82392	           77423	                    76307	                         450215	                           444116	                        413341	                                 407254	                       525803	                         518662	                      484922	                               477793	

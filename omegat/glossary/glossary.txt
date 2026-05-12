@@ -1,0 +1,25 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Daggerheart	Corferida	Nom del joc adaptat al català.
+SYSTEM REFERENCE DOCUMENT	DOCUMENT DE REFERÈNCIA DEL SISTEMA	SRD, DRS
+SRD	DRS	Document de referència del sistema
+Campaign Frame	Marc de campanya
+Public Game Content	Public Game Content (Contingut de joc públic)
+Darrington Press Community Gaming License	Darrington Press Community Gaming License (Llicència de joc col·lectiva de Darrington Press)
+core rulebook	manual bàsic
+Game Master	Directora de joc
+the GM	la DJ
+player	jugadora
+a player	una jugadora
+the player	la jugadora
+adversaries	adversaris
+adversary	adversari
+PC	PJ
+action roll	tirada d'acció
+Duality Dice	Daus de dualitat
+Hope	Esperança
+Fear	Por
+roll	tirar
+Difficulty	Dificultat
+target	objectiu
+weapon	arma
+death move	jugada definitiva
