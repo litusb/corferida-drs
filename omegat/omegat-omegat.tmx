@@ -32,32 +32,40 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Classes&lt;/g1&gt; are role-based archetypes that determine which class features and &lt;g2&gt;domain cards&lt;/g2&gt; a PC gains access to throughout the campaign.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234122Z" creationid="litus" creationdate="20260511T234122Z">
-        <seg>Les &lt;g1&gt;classes&lt;/g1&gt; són arquetips basats en el rol que determinen a quines habilitats de classe i &lt;g2&gt;cartes de domini&lt;/g2&gt; pot accedir un PJ al llarg de la campanya.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T105747Z" creationid="litus" creationdate="20260511T234122Z">
+        <seg>Les &lt;g1&gt;Classes&lt;/g1&gt; són arquetips de personatge que determinen a quins atributs de classe i &lt;g2&gt;cartes de domini&lt;/g2&gt; pot accedir un PJ al llarg de la campanya.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234051Z" creationid="litus" creationdate="20260511T233945Z">
-        <seg>&lt;g1&gt;**Nota:** pots emplenar el nom, els pronoms i la descripció del teu personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102758Z" creationid="litus" creationdate="20260511T233945Z">
+        <seg>&lt;g1&gt;**Nota:** pots escriure el nom, els pronoms i la descripció del teu personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;SYSTEM REFERENCE DOCUMENT 1.0 (VER SEP-09-2025)&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T201042Z" creationid="litus" creationdate="20260511T201042Z">
-        <seg>&lt;g1&gt;DOCUMENT DE REFERÈNCIA DEL SISTEMA 1.0 (ver. 09 Sep 2025)&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T103251Z" creationid="litus" creationdate="20260511T201042Z">
+        <seg>&lt;g1&gt;DOCUMENT DE REFERÈNCIA DEL SISTEMA 1.0 (versió 09 Set. 2025)&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Welcome to DAGGERHEART,&lt;/g1&gt; &lt;g2&gt;a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.&lt;/g2&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203145Z" creationid="litus" creationdate="20260511T201906Z">
-        <seg>&lt;g1&gt;Benvinguda a CORFERIDA (Daggerheart),&lt;/g1&gt; &lt;g2&gt;un joc de rol col·laboratiu i de fantasia ple de màgia increïble i d'autèntiques aventures heroiques.&lt;/g2&gt;</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T112853Z" creationid="litus" creationdate="20260511T201906Z">
+        <seg>&lt;g1&gt;Benvinguda a CORFERIDA (Daggerheart),&lt;/g1&gt;&lt;g2&gt; un joc de rol de fantasia cooperatiu ple de màgia extraordinària i de peripècies heroiques emotives.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character's &lt;g1&gt;ancestry&lt;/g1&gt; reflects their lineage, impacting their physicality and granting them two unique &lt;g2&gt;ancestry features.&lt;/g2&gt; Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T102216Z" creationid="litus" creationdate="20260512T102216Z">
+        <seg>El &lt;g1&gt;llinatge&lt;/g1&gt; del teu personatge representa la seva ascendència: afecta els seus trets físics i li concedeix dos &lt;g2&gt;atributs únics de llinatge&lt;/g2&gt;. Agafa la carta corresponent a un dels següents llinatges i anota el seu nom a la casella d'Herència del teu full de personatge: Clank, Dracònid, Nan, Elf, Feèric, Faune, Firbolg, Fongril, Galapa, Gegant, Gòblin, Mitgerol, Humà, Infernís, Katari, Orc, Ribbet, Simiah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,16 +80,16 @@
       <tuv lang="en-US">
         <seg>As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233853Z" creationid="litus" creationdate="20260511T233853Z">
-        <seg>Com a joc centrat en la narrativa, Daggerheart no és un sistema que fomenti interpretacions tècniques o fora de context de les regles.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T182259Z" creationid="litus" creationdate="20260511T233853Z">
+        <seg>Corferida és un joc centrat en la narrativa i, per tant, no incentiva les interpretacions tècniques o fora de context de les regles.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>As long as your group agrees, everything can be adjusted to fit your play style.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215700Z" creationid="litus" creationdate="20260511T215700Z">
-        <seg>Mentre el teu grup hi estigui d'acord, tot es pot ajustar per adaptar-se al vostre estil de joc.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T162651Z" creationid="litus" creationdate="20260511T215700Z">
+        <seg>Mentre el grup hi estigui d'acord, tot es pot ajustar per adaptar-se a l'estil de joc propi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,24 +112,24 @@
       <tuv lang="en-US">
         <seg>Daggerheart is a tabletop roleplaying game for one Game Master ("GM") and 2-5 players.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203327Z" creationid="litus" creationdate="20260511T203327Z">
-        <seg>Corferida és un joc de rol de taula per a una Directora de Joc (DJ) i de 2 a 5 jugadores.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T142047Z" creationid="litus" creationdate="20260511T203327Z">
+        <seg>Corferida és un joc de rol de taula per a una Directora de joc (DJ) i de 2 a 5 jugadores.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters ("PCs") encounter.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203440Z" creationid="litus" creationdate="20260511T203440Z">
-        <seg>Durant una sessió de Corferida, la DJ descriu situacions, narra esdeveniments i controla els enemics o els obstacles que els Personatges de les Jugadores (PJs) es troben.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T145415Z" creationid="litus" creationdate="20260511T203440Z">
+        <seg>Durant una sessió de Corferida, la DJ descriu les escenes, narra els esdeveniments i controla els adversaris i els obstacles que els Personatges jugadors (PJs) es troben.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Each game session lasts about 2-4 hours, and Daggerheart can be played as a one-shot or a multi-session campaign of any length.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203421Z" creationid="litus" creationdate="20260511T203349Z">
-        <seg>Cada sessió de joc dura entre 2 i 4 hores, i Corferida es pot jugar com una partida d'una sola sessió (one-shot) o una campanya formada per múltiples sessions de la durada que vulgueu.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T160338Z" creationid="litus" creationdate="20260511T203349Z">
+        <seg>Es pot jugar una partida d'una sola sessió (one-shot) o una campanya amb tantes sessions de joc com es vulgui; cada una dura entre 2 i 4 hores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,32 +144,32 @@
       <tuv lang="en-US">
         <seg>Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233906Z" creationid="litus" creationdate="20260511T233906Z">
-        <seg>Tot ha de fluir des de i cap a la ficció, i la DJ té l'autoritat i la responsabilitat de decidir com s'apliquen les regles per reforçar aquesta ficció.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T182948Z" creationid="litus" creationdate="20260511T233906Z">
+        <seg>La DJ té l'autoritat i la responsabilitat de decidir com aplicar-les per reforçar la història: tot ha de fluir cap a la ficció.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233755Z" creationid="litus" creationdate="20260511T233755Z">
-        <seg>Per exemple, Daggerheart inclou una arma anomenada garfi que et permet atreure un objectiu cap a tu.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T165454Z" creationid="litus" creationdate="20260511T233755Z">
+        <seg>Per exemple, hi ha una arma anomenada garfi que permet arrossegar un objectiu cap a un mateix.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>For more information, please visit www.darringtonpress.com/license.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T201755Z" creationid="litus" creationdate="20260511T201755Z">
-        <seg>Per a més informació, visiteu www.darringtonpress.com/license.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T160412Z" creationid="litus" creationdate="20260511T201755Z">
+        <seg>Es pot trobar més informació a www.darringtonpress.com/license.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Happy adventuring!</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T202242Z" creationid="litus" creationdate="20260511T202242Z">
-        <seg>Feliç aventura!</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T141052Z" creationid="litus" creationdate="20260511T202242Z">
+        <seg>Bones aventures!</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,16 +192,16 @@
       <tuv lang="en-US">
         <seg>If there's a rule you'd rather ignore or modify, feel free to implement any change with your table's consent.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215711Z" creationid="litus" creationdate="20260511T215711Z">
-        <seg>Si hi ha una regla que prefereixes ignorar o modificar, no dubtis a implementar qualsevol canvi amb el consentiment de la teva taula.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T161808Z" creationid="litus" creationdate="20260511T215711Z">
+        <seg>Si hi ha cap regla que es vulgui ignorar o modificar, no s'ha de dubtar a implementar qualsevol canvi amb el consentiment de la taula.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If you try to use it to pull an entire castle, the weapon text doesn't forbid you from doing that—but it doesn't make sense within the narrative.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233805Z" creationid="litus" creationdate="20260511T233805Z">
-        <seg>Si intentes usar-la per arrossegar un castell sencer, el text de l'arma no ho prohibeix explícitament, però no té cap sentit dins de la narrativa.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T170155Z" creationid="litus" creationdate="20260511T233805Z">
+        <seg>La seva descripció no exclou explícitament intentar utilitzar-la per arrossegar tot un castell, però aquest efecte no tindria cap sentit dins de la narrativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,32 +216,34 @@
       <tuv lang="en-US">
         <seg>In addition, the situation changes based on which Duality Die rolls higher, either giving the player helpful Hope tokens or generating terrifying Fear tokens for the GM.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215610Z" creationid="litus" creationdate="20260511T215610Z">
-        <seg>A més, la situació canvia en funció de quin Dau de Dualitat treu el resultat més alt, ja sigui donant a la jugadora útils punts d'Esperança o generant terrorífics punts de Por per a la DJ.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T153817Z" creationid="litus" creationdate="20260511T215610Z">
+        <seg>A més, la situació varia en funció de quin Dau de dualitat treu el resultat més alt, sigui proporcionant útils punts d'Esperança a la jugadora o generant terrorífics punts de Por per a la DJ.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>«tens a les teves mans», m'encanta aquesta expressió. Gràcies, Víctor.</note>
       <tuv lang="en-US">
         <seg>In short, it is Daggerheart, the system, boiled down to the bones—a lean and clean offering without all the flavor, style, and supporting material that makes the core rulebook such an evocative and enjoyable read.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203304Z" creationid="litus" creationdate="20260511T202219Z">
-        <seg>En resum, això és el sistema de Corferida (Daggerheart) reduït a l'essencial: una versió clara i austera, sense tot el sabor, l'estil i el material complementari que fan del llibre bàsic una lectura tan evocadora i agradable.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T140304Z" creationid="litus" creationdate="20260511T202219Z">
+        <seg>En resum, tens a les teves mans el sistema de Corferida reduït a l'essencial: una versió minimalista i ben definida, sense tot el sabor, l'estil i el material complementari que fan tan inspiradora i entretinguda la lectura del manual bàsic.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Instead, the GM might rule that you pull a few bricks out, or pull yourself toward the wall instead.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233822Z" creationid="litus" creationdate="20260511T233822Z">
-        <seg>En lloc d’això, la DJ podria decidir que treus alguns maons o que t'impulses cap a la paret.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T170504Z" creationid="litus" creationdate="20260511T233822Z">
+        <seg>En lloc d’això, la DJ podria decidir que s'arrenquin alguns maons o que l'usuari s'impulsi cap a la paret.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>https://www.parlament.cat/document/intrade/16885</note>
       <tuv lang="en-US">
         <seg>It is a repository of the mechanical elements of the Daggerheart system, edited and organized for clarity, conciseness, and quick reference.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203208Z" creationid="litus" creationdate="20260511T202040Z">
-        <seg>és un recull dels elements mecànics del sistema Corferida (Daggerheart), editat i organitzat per a una millor claredat, concisió i facilitat de consulta.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T120851Z" creationid="litus" creationdate="20260511T202040Z">
+        <seg>és un recull dels elements que conformen la mecànica de joc, editat i organitzat d'una manera clara, concisa i fàcil de consultar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,16 +258,16 @@
       <tuv lang="en-US">
         <seg>Please read the Darrington Press Community Gaming License before using this material.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T201709Z" creationid="litus" creationdate="20260511T201709Z">
-        <seg>Si us plau, llegiu la Llicència de jocs comunitaris de Darrington Press abans de fer servir aquest material.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T110804Z" creationid="litus" creationdate="20260511T201709Z">
+        <seg>Es recomana llegir la Darrington Press Community Gaming License (Llicència de joc col·lectiva de Darrington Press) abans de fer servir el contingut d'aquest document.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>RULINGS OVER RULES</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215721Z" creationid="litus" creationdate="20260511T215721Z">
-        <seg>LA INTERPRETACIÓ ABANS QUE LA NORMA</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T163622Z" creationid="litus" creationdate="20260511T215721Z">
+        <seg>EL RAONAMENT ABANS QUE EL REGLAMENT</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +296,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STEP 3</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T115701Z" creationid="litus" creationdate="20260512T115701Z">
+        <seg>[parcial]SEGON PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a class and take its corresponding &lt;g1&gt;character sheet&lt;/g1&gt; and &lt;g2&gt;character guide&lt;/g2&gt; printouts.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T234217Z" creationid="litus" creationdate="20260511T234217Z">
@@ -304,24 +322,24 @@
       <tuv lang="en-US">
         <seg>Similarly, if your character does something that would logically result in immediate death—such as diving into an active volcano without protection—you might not get to make one of Daggerheart's death moves, which normally give you control of your character's fate in their final moments.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233832Z" creationid="litus" creationdate="20260511T233832Z">
-        <seg>De la mateixa manera, si el teu personatge fa alguna cosa que lògicament donaria com a resultat una mort immediata, com ara llançar-se dins un volcà actiu sense protecció, és possible que no puguis realitzar una de les jugades de mort de Daggerheart, que normalment et permeten controlar el destí del teu personatge en els seus moments finals.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T181618Z" creationid="litus" creationdate="20260511T233832Z">
+        <seg>De la mateixa manera, si un personatge fa alguna cosa que lògicament donaria com a resultat una mort immediata, com ara llançar-se dins un volcà actiu sense protecció, és possible que no pugui fer una de les jugades definitives de Corferida, que permeten controlar el destí del personatge en el seu darrer instant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233934Z" creationid="litus" creationdate="20260511T233934Z">
-        <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només apareixen en el joc o l'afecten a través de la interpretació), però altres són eleccions mecàniques que determinen quines coses pot fer el teu PJ i en quines accions té més (o menys) probabilitats de tenir èxit en fer jugades i actuar.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102640Z" creationid="litus" creationdate="20260511T233934Z">
+        <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només fan aparició dins el joc o l'afecten a través de la interpretació), però altres són eleccions de mecàniques que determinen quines coses pot fer el PJ i en quines accions té més (o menys) probabilitats de tenir èxit al realitzar jugades i accions.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>THE BASICS</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203035Z" creationid="litus" creationdate="20260511T203035Z">
-        <seg>Els fonaments</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T141105Z" creationid="litus" creationdate="20260511T203035Z">
+        <seg>ELS FONAMENTS</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,56 +354,56 @@
       <tuv lang="en-US">
         <seg>The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203251Z" creationid="litus" creationdate="20260511T202206Z">
-        <seg>El DRS de Corferida no reemplaça el llibre bàsic de regles, que conté informació d'ambientació, exemples addicionals de diverses mecàniques de joc i un munt de consells útils per jugar a Corferida (per no esmentar el seu magnífic art i maquetació).</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T134936Z" creationid="litus" creationdate="20260511T202206Z">
+        <seg>El DRS de Corferida no substitueix el manual bàsic, que inclou detalls d'ambientació, exemples de regles suplementaris i una gran quantitat de consells útils per jugar a Corferida, així com una maquetació i material gràfic imponents.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The Duality Dice are rolled, relevant modifiers are added to the results, and the total is compared to a Difficulty set by the GM. If the total meets or beats the Difficulty, the player succeeds.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215553Z" creationid="litus" creationdate="20260511T215553Z">
-        <seg>Es llencen els Daus de Dualitat, se sumen els modificadors corresponents al resultat i el total es compara amb una Dificultat establerta per la DJ. Si el total iguala o supera la dificultat, la jugadora té èxit;</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T151414Z" creationid="litus" creationdate="20260511T215553Z">
+        <seg>Es tiren els Daus de dualitat, se sumen els modificadors pertinents al resultat i es compara el total amb la Dificultat establerta per la DJ. Si el total iguala o supera la Dificultat, la jugadora té èxit;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The most important rule of Daggerheart is to make the game your own.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215631Z" creationid="litus" creationdate="20260511T215631Z">
-        <seg>La regla més important de Daggerheart és fer del joc el teu propi joc.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T160954Z" creationid="litus" creationdate="20260511T215631Z">
+        <seg>La regla més important de Corferida és fer-se propi el joc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The players, in turn, roleplay their PCs' reactions to the scenario presented by the GM. If the outcome of a player's action depends on fate or fortune, the GM calls for an action roll.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203449Z" creationid="litus" creationdate="20260511T203449Z">
-        <seg>Les jugadores, al seu torn, interpreten les reaccions dels seus PJs davant l'escenari presentat per la DJ. Si el resultat de l'acció d'una jugadora depèn de l'atzar o de la fortuna, la DJ demanarà una tirada d'acció.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T145906Z" creationid="litus" creationdate="20260511T203449Z">
+        <seg>Les jugadores, al seu torn, interpreten com reaccionen els seus PJs davant l'escenari que presenta la DJ. Si el resultat de l'acció d'una jugadora depèn de l'atzar o de la fortuna, la DJ demanarà una tirada d'acció.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215639Z" creationid="litus" creationdate="20260511T215639Z">
-        <seg>Les regles incloses en aquest DRS estan dissenyades per ajudar-te a gaudir de l'experiència a la taula, però cadascú té una manera diferent d’interpretar les regles i d’explicar històries.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T161026Z" creationid="litus" creationdate="20260511T215639Z">
+        <seg>Les regles d'aquest DRS s'han dissenyat per ajudar a gaudir de l'experiència a la taula, però cadascú té una manera diferent d’interpretar les regles i d’explicar històries.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215652Z" creationid="litus" creationdate="20260511T215652Z">
-        <seg>Les regles no haurien d'interferir mai en la història que vulguis explicar, en els personatges que vulguis interpretar o en les aventures que vulguis viure.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T161238Z" creationid="litus" creationdate="20260511T215652Z">
+        <seg>Les regles no haurien d'interferir mai en la història que es vulgui explicar, en els personatges que es vulguin interpretar o en les aventures que es vulguin viure.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234130Z" creationid="litus" creationdate="20260511T234130Z">
-        <seg>En aquest SRD hi ha nou classes: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri, Seràfic.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T110452Z" creationid="litus" creationdate="20260511T234130Z">
+        <seg>En aquest manual hi ha nou classes: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri, Serafí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,24 +418,24 @@
       <tuv lang="en-US">
         <seg>This SRD offers answers for many questions your table may have about the game, but it won't answer all of them.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215756Z" creationid="litus" creationdate="20260511T215756Z">
-        <seg>Aquest DRS ofereix respostes a moltes de les preguntes que puguin sorgir a la teva taula sobre el joc, però no les respondrà totes.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T165030Z" creationid="litus" creationdate="20260511T215756Z">
+        <seg>Aquest document dona resposta a moltes de les preguntes que puguin sorgir sobre el joc, però no les respondrà totes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This document, including the Witherwild Campaign Frame, is considered Public Game Content per the Darrington Press Community Gaming License.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T201646Z" creationid="litus" creationdate="20260511T201646Z">
-        <seg>Aquest document, inclòs el marc de campanya de «L’erm marcit» (Witherwild), es considera contingut de joc públic segons la Llicència de joc comunitari de Darrington Press.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T110415Z" creationid="litus" creationdate="20260511T201646Z">
+        <seg>Aquest document, inclòs el Marc de campanya de «L’erm marcit» (Witherwild), es considera Public Game Content (Contingut de joc públic) segons la Darrington Press Community Gaming License (Llicència de joc col·lectiva de Darrington Press).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This is the Daggerheart SRD (System Reference Document).</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203151Z" creationid="litus" creationdate="20260511T202036Z">
-        <seg>El Document de Referència del Sistema (DRS) de Corferida </seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T114010Z" creationid="litus" creationdate="20260511T202036Z">
+        <seg>El Document de referència del sistema (DRS) de Corferida </seg>
       </tuv>
     </tu>
     <tu>
@@ -432,72 +450,74 @@
       <tuv lang="en-US">
         <seg>To better understand the mechanics of Daggerheart, absent the flavor and setting information, so you can bend or break them in the process of making your own content.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203233Z" creationid="litus" creationdate="20260511T202153Z">
-        <seg>Per comprendre millor les mecàniques de Corferida sense el contingut narratiu ni d'ambientació, i així poder adaptar-les o modificar-les en crear el teu propi contingut.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T133106Z" creationid="litus" creationdate="20260511T202153Z">
+        <seg>entendre millor les regles de joc de Corferida, sense el contingut narratiu ni d'ambientació, de manera que les puguis adaptar o modificar per crear material propi.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Cal indicar casola?</note>
       <tuv lang="en-US">
         <seg>To ensure any homebrew content you create or publish conforms with Daggerheart's core ruleset.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T202145Z" creationid="litus" creationdate="20260511T202115Z">
-        <seg>Per assegurar-te que qualsevol contingut casolà que creïs o publiquis s'ajusta al conjunt de regles de Daggerheart.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T133243Z" creationid="litus" creationdate="20260511T202115Z">
+        <seg>garantir que el material propi s'ajusta al conjunt de regles de Corferida,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To provide copy text made available by Darrington Press for your own publications under their Community Gaming License (www.darringtonpress.com/license).</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T202142Z" creationid="litus" creationdate="20260511T202142Z">
-        <seg>Per utilitzar el text proporcionat per Darrington Press per a les teves pròpies publicacions sota la seva «Llicència de joc comunitari». ([www.darringtonpress.com/license]).</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T133118Z" creationid="litus" creationdate="20260511T202142Z">
+        <seg>incloure al teu contingut fragments del text que Darrington Press facilita a l'empara de la Darrington Press Community Gaming License (Llicència de joc col·lectiva de Darrington Press) (www.darringtonpress.com/license),</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>To quickly look up Daggerheart's rules-as-written during gameplay sessions.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203218Z" creationid="litus" creationdate="20260511T202105Z">
-        <seg>Per consultar ràpidament les regles oficials de Corferida durant les sessions de joc.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T133130Z" creationid="litus" creationdate="20260511T202105Z">
+        <seg>consultar ràpidament les regles de Corferida durant les sessions de joc,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233925Z" creationid="litus" creationdate="20260511T233925Z">
-        <seg>Llevat que la teva taula decideixi fer servir personatges generats prèviament, cada jugadora crea el seu propi PJ prenent una sèrie de decisions guiades.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T101816Z" creationid="litus" creationdate="20260511T233925Z">
+        <seg>Cada jugadora crea el seu PJ mitjançant una sèrie de decisions guiades, o també pot fer servir personatges pregenerats.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>WHAT IS DAGGERHEART?</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T203107Z" creationid="litus" creationdate="20260511T203107Z">
-        <seg>Què és Corferida?</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T141228Z" creationid="litus" creationdate="20260511T203107Z">
+        <seg>QUÈ ÉS CORFERIDA?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>WHAT IS THIS?</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T201953Z" creationid="litus" creationdate="20260511T201953Z">
-        <seg>Què és això?</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T120234Z" creationid="litus" creationdate="20260511T201953Z">
+        <seg>QUÈ ÉS AQUEST DOCUMENT?</seg>
       </tuv>
     </tu>
     <tu>
+      <note>sia?</note>
       <tuv lang="en-US">
         <seg>We hope this document proves useful to your table.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T202240Z" creationid="litus" creationdate="20260511T202240Z">
-        <seg>Esperem que aquest document sigui útil per a la teva taula de joc.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T140700Z" creationid="litus" creationdate="20260511T202240Z">
+        <seg>Tant de bo aquest document sigui útil per a la teva taula de joc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>When a player makes an action roll, they utilize Duality Dice—two differently colored 12-sided dice ("d12s") representing Hope and Fear.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215526Z" creationid="litus" creationdate="20260511T215526Z">
-        <seg>Quan una jugadora fa una tirada d'acció, fa servir els Daus de Dualitat: dos daus de 12 cares (d12) de diferents colors que representen l'Esperança i la Por.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T150328Z" creationid="litus" creationdate="20260511T215526Z">
+        <seg>Quan una jugadora fa una tirada d'acció, fa servir els Daus de dualitat: dos daus de 12 cares (d12) de diferents colors que representen l'Esperança i la Por.</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,16 +532,24 @@
       <tuv lang="en-US">
         <seg>While playing Daggerheart, the GM and players should always prioritize rulings over rules.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T215746Z" creationid="litus" creationdate="20260511T215746Z">
-        <seg>Mentre es juga a Daggerheart, la DJ i les jugadores sempre han de prioritzar les decisions per sobre de les regles.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T163958Z" creationid="litus" creationdate="20260511T215746Z">
+        <seg>La DJ i les jugadores haurien de donar prioritat a les decisions per sobre de les regles quan juguin a Corferida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>You can use this SRD in several ways:</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T202047Z" creationid="litus" creationdate="20260511T202047Z">
-        <seg>Pots fer servir aquest DRS de diverses maneres:</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260512T160614Z" creationid="litus" creationdate="20260511T202047Z">
+        <seg>Pots fer servir el manual de joc per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your character's &lt;g1&gt;heritage&lt;/g1&gt; combines two elements: &lt;g2&gt;ancestry&lt;/g2&gt; and &lt;g3&gt;community.&lt;/g3&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260512T081145Z" creationid="Carlos" creationdate="20260512T081145Z">
+        <seg>L'&lt;g1&gt;herència&lt;/g1&gt; del teu personatge combina dos elements: &lt;g2&gt;llinatge&lt;/g2&gt; i &lt;g3&gt;comunitat&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

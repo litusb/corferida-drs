@@ -23,3 +23,27 @@ Difficulty	Dificultat
 target	objectiu
 weapon	arma
 death move	jugada definitiva
+Class	Classe
+Subclass	Subclasse
+feature	atribut
+class feature	atribut de classe
+domain card	carta de domini
+SRD	manual
+Bard	Bard
+Druid	Druida
+Guardian	Guardià
+Ranger	Muntaner
+Rogue	Murri
+Seraph	Serafí
+Sorcerer	Fetiller
+Warrior	Guerrer
+Wizard	Mag
+character	personatge
+character sheet	full de personatge
+PC	PJ
+subclass feature	atribut de subclasse
+Foundation	Fonament
+Foundation card	carta de Fonaments
+heritage	Herència
+ancestry	Llinatge
+community	Comunitat

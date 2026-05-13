@@ -8,8 +8,8 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Choose Your Heritage.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234600Z" creationid="litus" creationdate="20260511T234600Z">
-        <seg>&lt;g1&gt;Tria la teva herència.&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T114228Z" creationid="litus" creationdate="20260511T234600Z">
+        <seg>&lt;g1&gt;Tria l'herència.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24,24 +24,24 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Choose a Subclass.&lt;/g1&gt; &lt;g2&gt;Subclasses&lt;/g2&gt; further refine a class archetype and reinforce its expression by granting access to unique &lt;g3&gt;subclass features.&lt;/g3&gt; Each class comprises two subclasses.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234505Z" creationid="litus" creationdate="20260511T234505Z">
-        <seg>&lt;g1&gt;Tria una Subclasse&lt;/g1&gt; Les &lt;g2&gt;subclasses&lt;/g2&gt; afinen encara més l'arquetip d'una classe i reforcen el seu estil atorgant accés a &lt;g3&gt;habilitats úniques de subclasse&lt;/g3&gt;.Cada classe té dues subclasses.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T113318Z" creationid="litus" creationdate="20260511T234505Z">
+        <seg>&lt;g1&gt;Tria una Subclasse.&lt;/g1&gt; Les &lt;g2&gt;Subclasses&lt;/g2&gt; afinen encara més l'arquetip d'una Classe i reforcen el seu estil atorgant accés a &lt;g3&gt;atributs de subclasse&lt;/g3&gt; exclusius. Cada Classe inclou dues Subclasses.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Classes&lt;/g1&gt; are role-based archetypes that determine which class features and &lt;g2&gt;domain cards&lt;/g2&gt; a PC gains access to throughout the campaign.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234122Z" creationid="litus" creationdate="20260511T234122Z">
-        <seg>Les &lt;g1&gt;classes&lt;/g1&gt; són arquetips basats en el rol que determinen a quines habilitats de classe i &lt;g2&gt;cartes de domini&lt;/g2&gt; pot accedir un PJ al llarg de la campanya.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T105747Z" creationid="litus" creationdate="20260511T234122Z">
+        <seg>Les &lt;g1&gt;Classes&lt;/g1&gt; són arquetips de personatge que determinen a quins atributs de classe i &lt;g2&gt;cartes de domini&lt;/g2&gt; pot accedir un PJ al llarg de la campanya.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234051Z" creationid="litus" creationdate="20260511T233945Z">
-        <seg>&lt;g1&gt;**Nota:** pots emplenar el nom, els pronoms i la descripció del teu personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111314Z" creationid="litus" creationdate="20260511T233945Z">
+        <seg>&lt;g1&gt;**Nota:** pots escriure el nom, els pronoms i la descripció del personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="en-US">
         <seg>A character's &lt;g1&gt;ancestry&lt;/g1&gt; reflects their lineage, impacting their physicality and granting them two unique &lt;g2&gt;ancestry features.&lt;/g2&gt; Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260512T102216Z" creationid="litus" creationdate="20260512T102216Z">
-        <seg>El &lt;g1&gt;llinatge&lt;/g1&gt; del teu personatge representa la seva ascendència: afecta els seus trets físics i li concedeix dos &lt;g2&gt;atributs únics de llinatge&lt;/g2&gt;. Agafa la carta corresponent a un dels següents llinatges i anota el seu nom a la casella d'Herència del teu full de personatge: Clank, Dracònid, Nan, Elf, Feèric, Faune, Firbolg, Fongril, Galapa, Gegant, Gòblin, Mitgerol, Humà, Infernís, Katari, Orc, Ribbet, Simiah.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T132226Z" creationid="litus" creationdate="20260512T102216Z">
+        <seg>El &lt;g1&gt;Llinatge&lt;/g1&gt; representa l'ascendència del personatge: afecta els trets físics i concedeix dos &lt;g2&gt;atributs de Llinatge&lt;/g2&gt; únics. Agafa la carta corresponent a un dels següents Llinatges i apunta'l a la casella d'Herència del full de personatge: Clank, Dracònid, Nan, Elf, Feèric, Faune, Firbolg, Fongril, Galapa, Gegant, Gòblin, Mitgerol, Humà, Infernís, Katari, Orc, Ribbet, Simiah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en-US">
         <seg>Every class begins with one or more unique &lt;g1&gt;class feature(s),&lt;/g1&gt; described at the bottom left of each class's character sheet.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234315Z" creationid="litus" creationdate="20260511T234315Z">
-        <seg>Cada classe comença amb un o més &lt;g1&gt;atributs de classe únics&lt;/g1&gt;, que es descriuen a la part inferior esquerra de la fulla de personatge d'aquesta classe.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T112247Z" creationid="litus" creationdate="20260511T234315Z">
+        <seg>Cada Classe comença amb un o més &lt;g1&gt;atributs de classe&lt;/g1&gt; exclusius, que es descriuen a la part inferior esquerra del full de personatge de cada classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,16 +200,16 @@
       <tuv lang="en-US">
         <seg>If you try to use it to pull an entire castle, the weapon text doesn't forbid you from doing that—but it doesn't make sense within the narrative.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260512T170155Z" creationid="litus" creationdate="20260511T233805Z">
-        <seg>La seva descripció no exclou explícitament intentar utilitzar-la per arrossegar tot un castell, però aquest efecte no tindria cap sentit dins de la narrativa.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111407Z" creationid="litus" creationdate="20260511T233805Z">
+        <seg>La seva descripció no exclou explícitament intentar utilitzar-la per arrossegar tot un castell, però aquest efecte no tindria cap sentit en la narrativa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If your class feature prompts you to make a selection, do so now.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234330Z" creationid="litus" creationdate="20260511T234330Z">
-        <seg>Si el teu atribut de classe et demana que triïs alguna cosa, fes-ho ara.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T112355Z" creationid="litus" creationdate="20260511T234330Z">
+        <seg>Si l'atribut de classe requereix fer cap elecció, ara és el moment de fer-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,8 +298,8 @@
       <tuv lang="en-US">
         <seg>STEP 3</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260512T115701Z" creationid="litus" creationdate="20260512T115701Z">
-        <seg>[parcial]SEGON PAS</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T131030Z" creationid="litus" creationdate="20260512T115701Z">
+        <seg>TERCER PAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,8 +314,8 @@
       <tuv lang="en-US">
         <seg>Select one of your class's subclasses and take its &lt;g4&gt;Foundation&lt;/g4&gt; card.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234531Z" creationid="litus" creationdate="20260511T234531Z">
-        <seg>Tria una de les subclasses de la teva classe i agafa la seva carta de &lt;g4&gt;Fonaments&lt;/g4&gt;.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T113715Z" creationid="litus" creationdate="20260511T234531Z">
+        <seg>Tria una de les Subclasses de la Classe i agafa la respectiva &lt;g4&gt;carta de Fonaments&lt;/g4&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,8 +330,8 @@
       <tuv lang="en-US">
         <seg>Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T233934Z" creationid="litus" creationdate="20260511T233934Z">
-        <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només apareixen en el joc o l'afecten a través de la interpretació), però altres són eleccions mecàniques que determinen quines coses pot fer el teu PJ i en quines accions té més (o menys) probabilitats de tenir èxit en fer jugades i actuar.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102640Z" creationid="litus" creationdate="20260511T233934Z">
+        <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només fan aparició dins el joc o l'afecten a través de la interpretació), però altres són eleccions de mecàniques que determinen quines coses pot fer el PJ i en quines accions té més (o menys) probabilitats de tenir èxit al realitzar jugades i accions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,8 +386,8 @@
       <tuv lang="en-US">
         <seg>The rules included in this SRD are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260512T161026Z" creationid="litus" creationdate="20260511T215639Z">
-        <seg>Les regles d'aquest DRS s'han dissenyat per ajudar a gaudir de l'experiència a la taula, però cadascú té una manera diferent d’interpretar les regles i d’explicar històries.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T110635Z" creationid="litus" creationdate="20260511T215639Z">
+        <seg>Les regles d'aquest manual s'han dissenyat per ajudar a gaudir de l'experiència a la taula, però cadascú té una manera diferent d’interpretar les regles i d’explicar històries.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,16 +402,16 @@
       <tuv lang="en-US">
         <seg>There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234130Z" creationid="litus" creationdate="20260511T234130Z">
-        <seg>En aquest SRD hi ha nou classes: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri, Seràfic.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T110452Z" creationid="litus" creationdate="20260511T234130Z">
+        <seg>En aquest manual hi ha nou classes: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri, Serafí.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>These sheets are for recording your PC's details; you'll update and reference them throughout the campaign.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260511T234222Z" creationid="litus" creationdate="20260511T234222Z">
-        <seg>Aquests fulls són per anotar els detalls del teu PJ; les aniràs actualitzant i consultant al llarg de la campanya.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111256Z" creationid="litus" creationdate="20260511T234222Z">
+        <seg>Aquests fulls són per anotar els detalls del teu PJ; els aniràs actualitzant i consultant al llarg de la campanya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,6 +455,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T150432Z" creationid="Carlos" creationdate="20260513T150432Z">
+        <seg>Per crear un Llinatge mixt, s'ha d'agafar l'atribut superior (el primer) d'un Llinatge i l'inferior (el segon) d'un altre.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Cal indicar casola?</note>
       <tuv lang="en-US">
         <seg>To ensure any homebrew content you create or publish conforms with Daggerheart's core ruleset.</seg>
@@ -483,8 +491,8 @@
       <tuv lang="en-US">
         <seg>Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260512T184204Z" creationid="litus" creationdate="20260511T233925Z">
-        <seg>Cada jugadora crea el seu PJ mitjançant una sèrie de decisions guiades, o també pot fer servir personatges de creació prèvia.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T101816Z" creationid="litus" creationdate="20260511T233925Z">
+        <seg>Cada jugadora crea el seu PJ mitjançant una sèrie de decisions guiades, o també pot fer servir personatges pregenerats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,8 +556,8 @@
       <tuv lang="en-US">
         <seg>Your character's &lt;g1&gt;heritage&lt;/g1&gt; combines two elements: &lt;g2&gt;ancestry&lt;/g2&gt; and &lt;g3&gt;community.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260512T081145Z" creationid="Carlos" creationdate="20260512T081145Z">
-        <seg>L'&lt;g1&gt;herència&lt;/g1&gt; del teu personatge combina dos elements: &lt;g2&gt;llinatge&lt;/g2&gt; i &lt;g3&gt;comunitat&lt;/g3&gt;.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T131405Z" creationid="Carlos" creationdate="20260512T081145Z">
+        <seg>L'&lt;g1&gt;Herència&lt;/g1&gt; del personatge combina dos elements: el &lt;g2&gt;Llinatge&lt;/g2&gt; i la &lt;g3&gt;Comunitat&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

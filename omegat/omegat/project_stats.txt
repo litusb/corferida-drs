@@ -1,14 +1,14 @@
-12/5/26 20:43
+13/5/26 17:04
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
-Total:         	    8776	   83509	                  450215	                525803	      1	
-Restants:      	    8705	   82392	                  444116	                518662	      1	
-Únics:         	    6692	   77423	                  413341	                484922	      1	
-Únics restants:	    6622	   76307	                  407254	                477793	      1	
+Total:         	    8142	   83509	                  450849	                526437	      1	
+Restants:      	    8070	   82370	                  444619	                519144	      1	
+Únics:         	    6398	   78431	                  421865	                494165	      1	
+Únics restants:	    6327	   77293	                  415647	                486884	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8776	             8705	          6692	                   6622	          83509	            82392	           77423	                    76307	                         450215	                           444116	                        413341	                                 407254	                       525803	                         518662	                      484922	                               477793	
+DH-SRD-2025-09-09.md	           8142	             8070	          6398	                   6327	          83509	            82370	           78431	                    77293	                         450849	                           444619	                        421865	                                 415647	                       526437	                         519144	                      494165	                               486884	
