@@ -6,9 +6,33 @@ Escriptor del DRS: Rob Hebert | Editor tècnic del DRS: Shawn Banerjee
 
 Maquetació del DRS: Matt Paquette & Co. | Productors del DRS: Dani Gage and Madigan Hunt
 
+Revisió i correcció del text en català: Albert Gil
+
+Traducció, adaptació i maquetació posterior: Litus
+
 Aquest document, inclòs el marc de campanya de “L’erm marcit” (Witherwild), es considera contingut de joc públic segons la Llicència de joc comunitari de Darrington Press. Si us plau, llegiu la Llicència de jocs comunitaris de Darrington Press abans de fer servir aquest material.
 
 © 2025 Critical Role LLC. Tots els drets reservats. Per a més informació, visiteu [www.darringtonpress.com/license](http://www.darringtonpress.com/license).
+
+This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at [https://www.daggerheart.com](https://www.daggerheart.com). There are no previous modifications by others.
+
+Darrington Press™ and the Darrington Press authorized work logo are trademarks of Critical Role, LLC and used with permission.
+
+## Algunes notes, agraïments i desvaris del traductor
+
+Aquesta és una adaptació i traducció lliure al català del DRS de Daggerheart 1.0 feta per un fan i per a fans que desitgin gaudir d’aquest joc en aquesta llengua que ens agermana.
+
+Segons la llicència d’ús, no està permès posar el nom de Daggerheart a la portada així que, fent servir alguna neurona perduda dins el meu cap, vaig arribar a enrecordar-me que en català tenim el mot ‘corferit’. Vet aquí quina meravellosa casualitat\! I encara que el significat no tingui res a veure, trobo que és una adaptació prou original i nostrada de la paraula *Daggerheart* (daga \+ cor).
+
+Canviant radicalment de tema, he volgut tenir en consideració a l’hora de fer la traducció que estem en una societat dinàmica amb molts canvis socials i lingüístics que encara no estan recollits als manuals d’estil i obres de consulta. Sense ànim de convertir això en un discurs ideològic, he decidit fer servir el femení genèric en comptes de l’habitual i normatiu masculí genèric per a certes paraules com ara ‘la jugadora’ o ‘la DJ’ per cap motiu en concret, simplement perquè em venia de gust.
+
+Vull donar el meu agraïment a tothom que ha fet això possible: a l’Albert Gil, qui ha tingut cura amb la seva paciència infinita d’esmenar totes les puntades de peu que jo havia fet al diccionari i als manuals d’estil; a la comunitat de Tirant lo Dau, per els eterns i enriquidors debats que es generen als canals de conversa;
+
+La darrera versió del document oficial en anglès es pot trobar gratuïtament a:
+
+[https://www.daggerheart.com/DRS/](https://www.daggerheart.com/srd/)
+
+# ÍNDEX
 
 # INTRODUCCIÓ
 

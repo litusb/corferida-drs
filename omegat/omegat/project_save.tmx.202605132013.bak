@@ -6,26 +6,10 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;Agility&lt;/g1&gt; (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T212151Z" creationid="litus" creationdate="20260513T210907Z">
-        <seg>&lt;g1&gt;Agilitat&lt;/g1&gt; (Es fa servir per esprintar, saltar, maniobrar, etc.) Una bona Agilitat significa tenir els peus lleugers, ser àgil en terrenys difícils i reaccionar ràpidament al perill.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Assign Character Traits.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T203356Z" creationid="litus" creationdate="20260513T191738Z">
-        <seg>&lt;g1&gt;Assigna les Característiques de personatge.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Choose Your Heritage.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T210421Z" creationid="litus" creationdate="20260511T234600Z">
-        <seg>&lt;g1&gt;Tria un Llegat.&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T114228Z" creationid="litus" creationdate="20260511T234600Z">
+        <seg>&lt;g1&gt;Tria l'herència.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,22 +38,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;Finesse&lt;/g1&gt; (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T215907Z" creationid="litus" creationdate="20260513T215907Z">
-        <seg>&lt;g1&gt;Subtilesa&lt;/g1&gt; (Es fa servir per dominar, amagar-se, manipular, etc.) Una Subtilesa elevada vol dir ser expert en tasques que requereixen precisió, sigil o un control extrem.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Instinct&lt;/g1&gt; (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T221055Z" creationid="litus" creationdate="20260513T221055Z">
-        <seg>&lt;g1&gt;Instint&lt;/g1&gt; (Es fa servir per percebre, pressentir, orientar-se, etc.) Un bon Instint implica tenir una percepció aguda de l'entorn i una intuïció innata.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111314Z" creationid="litus" creationdate="20260511T233945Z">
@@ -86,14 +54,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;Strength&lt;/g1&gt; (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T214704Z" creationid="litus" creationdate="20260513T214704Z">
-        <seg>&lt;g1&gt;Força&lt;/g1&gt; (Es fa servir per aixecar, destrossar, forcejar, etc.) Una gran Força representa superioritat en gestes que posen a prova la resistència i la destresa física.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Welcome to DAGGERHEART,&lt;/g1&gt; &lt;g2&gt;a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T112853Z" creationid="litus" creationdate="20260511T201906Z">
@@ -104,8 +64,8 @@
       <tuv lang="en-US">
         <seg>A character's &lt;g1&gt;ancestry&lt;/g1&gt; reflects their lineage, impacting their physicality and granting them two unique &lt;g2&gt;ancestry features.&lt;/g2&gt; Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T210527Z" creationid="litus" creationdate="20260512T102216Z">
-        <seg>El &lt;g1&gt;Llinatge&lt;/g1&gt; representa l'ascendència del personatge: afecta els trets físics i concedeix dos &lt;g2&gt;atributs de Llinatge&lt;/g2&gt; únics. Agafa la carta corresponent a un dels següents Llinatges i apunta'l a la casella de Llegat del full de personatge: Clank, Dracònid, Elf, Faune, Feèric, Firbolg, Fongril, Galapa, Gegant, Gòblin, Humà, Infernís, Katari, Mitgerol, Nan, Orc, Ribbet, Simiah.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T132226Z" creationid="litus" creationdate="20260512T102216Z">
+        <seg>El &lt;g1&gt;Llinatge&lt;/g1&gt; representa l'ascendència del personatge: afecta els trets físics i concedeix dos &lt;g2&gt;atributs de Llinatge&lt;/g2&gt; únics. Agafa la carta corresponent a un dels següents Llinatges i apunta'l a la casella d'Herència del full de personatge: Clank, Dracònid, Nan, Elf, Feèric, Faune, Firbolg, Fongril, Galapa, Gegant, Gòblin, Mitgerol, Humà, Infernís, Katari, Orc, Ribbet, Simiah.</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,50 +554,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You'll make a Finesse Roll to use fine tools, escape notice, or strike with precision.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T220404Z" creationid="litus" creationdate="20260513T220404Z">
-        <seg>Cal fer una tirada de Subtilesa per emprar eines de precisió, eludir l'atenció o atacar amb precisió.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T215209Z" creationid="litus" creationdate="20260513T215209Z">
-        <seg>Cal fer una tirada de Força per trencar una porta, aixecar objectes pesats o mantenir la posició contra l'envestida d'un enemic.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You'll make an Agility Roll to scurry up a rope, sprint to cover, or bound from rooftop to rooftop.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T213957Z" creationid="litus" creationdate="20260513T213957Z">
-        <seg>Cal fer una tirada d'Agilitat per pujar una corda, arrencar a córrer per buscar cobertura o saltar de teulada en teulada.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your character has six traits that represent their physical, mental, and social aptitude:</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T210722Z" creationid="litus" creationdate="20260513T210722Z">
-        <seg>Un personatge té sis característiques que representen les seves aptituds físiques, mentals i socials:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your character's &lt;g1&gt;community&lt;/g1&gt; represents their culture or environment of origin and grants them a &lt;g2&gt;community feature.&lt;/g2&gt; Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Slyborne, Underborne, Wanderborne, Wildborne.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T210604Z" creationid="litus" creationdate="20260513T191537Z">
-        <seg>La &lt;g1&gt;Comunitat&lt;/g1&gt; representa la cultura o l'entorn de procedència d'un personatge i li concedeix un &lt;g2&gt;atribut de Comunitat&lt;/g2&gt;. Agafa la carta corresponent a una de les següents Comunitats i escriu el nom a la casella de Llegat del full de personatge: Aristòcrata, Bergant, Errant, Erudita, Marina, Muntanyenca, d’Orde, Salvatge o Subterrània.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Your character's &lt;g1&gt;heritage&lt;/g1&gt; combines two elements: &lt;g2&gt;ancestry&lt;/g2&gt; and &lt;g3&gt;community.&lt;/g3&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T210450Z" creationid="Carlos" creationdate="20260512T081145Z">
-        <seg>El &lt;g1&gt;Llegat&lt;/g1&gt; del personatge combina dos elements: el &lt;g2&gt;Llinatge&lt;/g2&gt; i la &lt;g3&gt;Comunitat&lt;/g3&gt;.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T131405Z" creationid="Carlos" creationdate="20260512T081145Z">
+        <seg>L'&lt;g1&gt;Herència&lt;/g1&gt; del personatge combina dos elements: el &lt;g2&gt;Llinatge&lt;/g2&gt; i la &lt;g3&gt;Comunitat&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

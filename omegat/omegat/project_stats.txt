@@ -1,14 +1,16 @@
-13/5/26 17:04
+14/5/26 0:17
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
-Total:         	    8142	   83509	                  450849	                526437	      1	
-Restants:      	    8070	   82370	                  444619	                519144	      1	
-Únics:         	    6398	   78431	                  421865	                494165	      1	
-Únics restants:	    6327	   77293	                  415647	                486884	      1	
+Total:         	   20342	  214780	                 1131825	               1335880	      3	
+Restants:      	   20211	  212547	                 1119904	               1321861	      3	
+Únics:         	   14573	  173529	                  918119	               1084704	      3	
+Únics restants:	   14491	  172156	                  910627	               1075926	      3	
 
 
 Estadístiques per fitxer:
 
-Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8142	             8070	          6398	                   6327	          83509	            82370	           78431	                    77293	                         450849	                           444619	                        421865	                                 415647	                       526437	                         519144	                      494165	                               486884	
+Nom del fitxer                                 	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
+align_2026.05.13_21.02.46/Corferida.2.txt      	           3993	             3992	          3307	                   3306	          47745	            47741	           45448	                    45444	                         245179	                           245158	                        231083	                                 231062	                       291901	                         291876	                      275001	                               274976	
+align_2026.05.13_21.02.46/DH-SRD-2025-09-09.txt	           7573	             7526	          6306	                   6260	          83526	            82671	           79526	                    78675	                         436431	                           432035	                        412373	                                 407998	                       518176	                         512972	                      490581	                               485402	
+DH-SRD-2025-09-09.md                           	           8776	             8693	          4960	                   4925	          83509	            82135	           48555	                    48037	                         450215	                           442711	                        274663	                                 271567	                       525803	                         517013	                      319122	                               315548	

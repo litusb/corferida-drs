@@ -44,6 +44,43 @@ PC	PJ
 subclass feature	atribut de subclasse
 Foundation	Fonament
 Foundation card	carta de Fonaments
-heritage	Herència
+heritage	Llegat
 ancestry	Llinatge
 community	Comunitat
+Clank	Clank
+Drakona	Dracònid
+Dwarf	Nan
+Elf	Elf
+Faerie	Feèric
+Faun	Faune
+Firbolg	Firbolg
+Fungril	Fongril
+Galapa	Galapa
+Giant	Gegant
+Goblin	Gòblin
+Halfling	Mitgerol
+Human	Humà
+Infernis	Infernís
+Katari	Katari
+Orc	Orc
+Ribbet	Ribbet
+Simiah	Simiah
+Trait	Característica
+Highborne	Aristòcrata
+Loreborne	Erudita
+Orderborne	d'Orde
+Ridgeborne	Muntanyenca
+Seaborne	Marina
+Slyborne	Bergant
+Underborne	Subterrània
+Wanderborne	Errant
+Wildborne	Salvatge
+Agility	Agilitat
+Roll	tirada
+Agility Roll	tirada d'Agilitat
+Strength	Força
+Strength Roll	tirada de Força
+Finesse	Subtilesa
+Finesse Roll	tirada de Subtilesa
+Instinct	Instint
+Instinct Roll	tirada d'Instint
