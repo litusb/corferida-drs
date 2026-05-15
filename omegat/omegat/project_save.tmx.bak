@@ -8,8 +8,8 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Agility&lt;/g1&gt; (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T212151Z" creationid="litus" creationdate="20260513T210907Z">
-        <seg>&lt;g1&gt;Agilitat&lt;/g1&gt; (Es fa servir per esprintar, saltar, maniobrar, etc.) Una bona Agilitat significa tenir els peus lleugers, ser àgil en terrenys difícils i reaccionar ràpidament al perill.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T191411Z" creationid="litus" creationdate="20260513T210907Z">
+        <seg>&lt;g1&gt;Agilitat&lt;/g1&gt; (Es fa servir per esprintar, saltar, maniobrar, etc.) Posseir una bona Agilitat significa tenir els peus lleugers, ser àgil en terrenys difícils i reaccionar ràpidament al perill.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,18 +54,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Evasion&lt;/g1&gt; represents your character's ability to avoid damage.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T061656Z" creationid="litus" creationdate="20260515T061656Z">
+        <seg>L’&lt;g1&gt;Evasió&lt;/g1&gt; representa la capacitat del personatge per a evitar danys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Finesse&lt;/g1&gt; (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T215907Z" creationid="litus" creationdate="20260513T215907Z">
-        <seg>&lt;g1&gt;Subtilesa&lt;/g1&gt; (Es fa servir per dominar, amagar-se, manipular, etc.) Una Subtilesa elevada vol dir ser expert en tasques que requereixen precisió, sigil o un control extrem.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T191432Z" creationid="litus" creationdate="20260513T215907Z">
+        <seg>&lt;g1&gt;Subtilesa&lt;/g1&gt; (Es fa servir per dominar, amagar-se, manipular, etc.) Tenir una Subtilesa elevada vol dir ser expert en tasques que requereixen precisió, sigil o un control extrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Hit Points (HP)&lt;/g1&gt; are an abstract measure of your physical health.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T062515Z" creationid="litus" creationdate="20260515T062515Z">
+        <seg>Els &lt;g1&gt;Punts de cop (PC)&lt;/g1&gt; són una mesura abstracta de la salut física del personatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Hope&lt;/g1&gt; is a metacurrency that fuels special moves and certain abilities or features.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T063439Z" creationid="litus" creationdate="20260515T063439Z">
+        <seg>L'&lt;g1&gt;Esperança&lt;/g1&gt; és una metamoneda que alimenta jugades especials i certes capacitats o atributs.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Instinct&lt;/g1&gt; (Use it to Perceive, Sense, Navigate, etc.) A high Instinct means you have a keen sense of your surroundings and a natural intuition.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T221055Z" creationid="litus" creationdate="20260513T221055Z">
-        <seg>&lt;g1&gt;Instint&lt;/g1&gt; (Es fa servir per percebre, pressentir, orientar-se, etc.) Un bon Instint implica tenir una percepció aguda de l'entorn i una intuïció innata.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T191508Z" creationid="litus" creationdate="20260513T221055Z">
+        <seg>&lt;g1&gt;Instint&lt;/g1&gt; (Es fa servir per percebre, pressentir, orientar-se, etc.) Tenir un bon Instint implica disposar d'una percepció aguda de l'entorn i una intuïció innata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Knowledge&lt;/g1&gt; (Use it to Recall, Analyze, Comprehend, etc.) A high Knowledge means you know information others don't and understand how to apply your mind through deduction and inference.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T192345Z" creationid="litus" creationdate="20260514T192345Z">
+        <seg>&lt;g1&gt;Coneixement&lt;/g1&gt; (Es fa servir per recordar, analitzar, comprendre, etc.) Tenir un alt Coneixement vol dir que disposar d’informació que altres no coneixen i entendre com fer servir l'enginy a través de la deducció i la inferència.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +106,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111314Z" creationid="litus" creationdate="20260511T233945Z">
         <seg>&lt;g1&gt;**Nota:** pots escriure el nom, els pronoms i la descripció del personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Presence&lt;/g1&gt; (Use it to Charm, Perform, Deceive, etc.) A high Presence means you have a strong force of personality and a facility for social situations.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T191858Z" creationid="litus" creationdate="20260514T191232Z">
+        <seg>&lt;g1&gt;Presència&lt;/g1&gt; (Es fa servir per encisar, actuar, enganyar, etc.) Tenir una bona Presència representa posseir una força de personalitat potent i tenir facilitat per les relacions socials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Record Additional Character Information.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T061317Z" creationid="litus" creationdate="20260515T061317Z">
+        <seg>&lt;g1&gt;Anota la informació addicional del personatge.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +136,16 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Strength&lt;/g1&gt; (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260513T214704Z" creationid="litus" creationdate="20260513T214704Z">
-        <seg>&lt;g1&gt;Força&lt;/g1&gt; (Es fa servir per aixecar, destrossar, forcejar, etc.) Una gran Força representa superioritat en gestes que posen a prova la resistència i la destresa física.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T191358Z" creationid="litus" creationdate="20260513T214704Z">
+        <seg>&lt;g1&gt;Força&lt;/g1&gt; (Es fa servir per aixecar, destrossar, forcejar, etc.) Disposar d'una gran Força representa tenir superioritat en gestes que posen a prova la resistència i la destresa física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Stress&lt;/g1&gt; reflects your ability to withstand the mental and emotional strain of dangerous situations and physical exertion.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T062946Z" creationid="litus" creationdate="20260515T062946Z">
+        <seg>L'&lt;g1&gt;Estrès&lt;/g1&gt; reflecteix la capacitat per suportar la pressió mental i emocional en situacions de perill i d'esforç físic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +190,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assign the modifiers +2, +1, +1, +0, +0, -1 to your character's traits in any order you wish.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T193145Z" creationid="litus" creationdate="20260514T193145Z">
+        <seg>Els modificadors +2, +1, +1, +0, +0 i -1 s'adjudiquen a les característiques del personatge en l'ordre que es vulgui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHARACTER CREATION</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T233913Z" creationid="litus" creationdate="20260511T233913Z">
         <seg>CREACIÓ DE PERSONATGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Characters start a new campaign at &lt;g1&gt;Level 1.&lt;/g1&gt; Record your level in the designated space at the top of your character sheet.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T061515Z" creationid="litus" creationdate="20260515T061515Z">
+        <seg>Els personatges comencen una nova campanya a &lt;g1&gt;Nivell 1&lt;/g1&gt;.Anota el nivell en l'espai corresponent a la part superior del full de personatge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +242,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T160338Z" creationid="litus" creationdate="20260511T203349Z">
         <seg>Es pot jugar una partida d'una sola sessió (one-shot) o una campanya amb tantes sessions de joc com es vulgui; cada una dura entre 2 i 4 hores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every PC starts with 6 Stress slots.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T063119Z" creationid="litus" creationdate="20260515T063119Z">
+        <seg>Tots els PJ comencen amb 6 caselles d'Estrès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -340,6 +420,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T131030Z" creationid="litus" creationdate="20260512T115701Z">
         <seg>TERCER PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STEP 4</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T193155Z" creationid="litus" creationdate="20260514T193155Z">
+        <seg>QUART PAS</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +658,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you "roll with a trait," that trait's modifier is added to the roll's total.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T192826Z" creationid="litus" creationdate="20260514T192826Z">
+        <seg>Quan es fa una «tirada de Característica», s'afegeix el modificador d'aquesta Característica al total de la tirada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you're in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T215803Z" creationid="litus" creationdate="20260511T215803Z">
@@ -602,6 +698,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You'll make a Knowledge Roll to interpret facts, see the patterns clearly, or remember important information.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T192559Z" creationid="litus" creationdate="20260514T192403Z">
+        <seg>Cal fer una tirada de Coneixement per interpretar fets, veure els patrons amb claredat o recordar informació important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll make a Presence Roll to plead your case, intimidate a foe, or capture the attention of a crowd.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260514T192458Z" creationid="litus" creationdate="20260514T192030Z">
+        <seg>Cal fer una tirada de Presència per defensar un cas, intimidar un enemic o captar l'atenció d'una multitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You'll make a Strength Roll to break through a door, lift heavy objects, or hold your ground against a charging foe.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T215209Z" creationid="litus" creationdate="20260513T215209Z">
@@ -614,6 +726,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T213957Z" creationid="litus" creationdate="20260513T213957Z">
         <seg>Cal fer una tirada d'Agilitat per pujar una corda, arrencar a córrer per buscar cobertura o saltar de teulada en teulada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll make an Instinct Roll to sense danger, notice details in the world around you, or track an elusive foe.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260513T221700Z" creationid="litus" creationdate="20260513T221700Z">
+        <seg>Cal fer una tirada d'Instint per ensumar el perill, percebre detalls de l'entorn o rastrejar un enemic esmunyedís.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +758,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T210450Z" creationid="Carlos" creationdate="20260512T081145Z">
         <seg>El &lt;g1&gt;Llegat&lt;/g1&gt; del personatge combina dos elements: el &lt;g2&gt;Llinatge&lt;/g2&gt; i la &lt;g3&gt;Comunitat&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your character's starting Evasion is determined by their class and appears directly beneath the Evasion field on your character sheet; copy this number into the Evasion field.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T062312Z" creationid="litus" creationdate="20260515T062312Z">
+        <seg>La Classe determina el seu valor inicial, que està indicat just sota la casella d'Evasió del full de personatge; copia aquest número a la casella corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your starting HP is determined by your class and is recorded on your character sheet.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T062713Z" creationid="litus" creationdate="20260515T062713Z">
+        <seg>Els PC inicials depenen de la Classe i es marquen en el full de personatge.</seg>
       </tuv>
     </tu>
     <tu>

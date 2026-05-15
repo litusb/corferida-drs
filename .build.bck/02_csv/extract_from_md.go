@@ -13,14 +13,14 @@ func main() {
 	markdownPath := ".build/01_pdf/DH-SRD-2025-09-09.md"
 	contentBytes, err := os.ReadFile(markdownPath)
 	if err != nil {
-		fmt.Printf("Error en llegir l'arxiu markdown: %v\n", err)
+		fmt.Printf("Error reading markdown file: %v\n", err)
 		return
 	}
 	content := string(contentBytes)
 
 	outputDir := ".build/02_csv"
 	if err := os.MkdirAll(outputDir, 0755); err != nil {
-		fmt.Printf("Error en crear el directori de sortida: %v\n", err)
+		fmt.Printf("Error creating output directory: %v\n", err)
 		return
 	}
 
@@ -71,15 +71,9 @@ func titleizeAllCaps(s string) string {
 		"but": true, "by": true, "for": true, "from": true, "in": true,
 		"of": true, "on": true, "or": true, "the": true, "to": true,
 		"via": true, "with": true, "over": true, "into": true,
-		"per": true, "un": true, "una": true, "uns": true, "unes": true,
-		"i": true, "com": true, "amb": true, "en": true, "però": true,
-		"de": true, "d'": true, "des": true, "dins": true, "sobre": true,
-		"o": true, "bé": true, "el": true, "la": true, "vers": true,
-		"els": true, "les": true, "l'": true, "lo": true,
 	}
 	acronyms := map[string]bool{
 		"GM": true, "SRD": true, "HP": true, "XP": true, "PC": true, "NPC": true, "ATK": true,
-		"DJ": true, "DRS": true, "PC": true, "PJ": true, "PNJ": true, "Atac": true,
 	}
 	words := strings.Fields(s)
 	for i, w := range words {
@@ -204,16 +198,16 @@ func getSection(content, headerLine string) string {
 
 func warnMissing(entity, name, field string) {
 	if name == "" {
-		name = "<desconegut>"
+		name = "<unknown>"
 	}
-	fmt.Printf("Alerta: %s '%s' manca %s\n", entity, name, field)
+	fmt.Printf("Warning: %s '%s' missing %s\n", entity, name, field)
 }
 
 func warnFormat(entity, name, detail string) {
 	if name == "" {
-		name = "<desconegut>"
+		name = "<unknown>"
 	}
-	fmt.Printf("Avís: %s '%s' format: %s\n", entity, name, detail)
+	fmt.Printf("Notice: %s '%s' format: %s\n", entity, name, detail)
 }
 
 func parseMarkdownTableRow(line string, expectedCols int) ([]string, bool) {

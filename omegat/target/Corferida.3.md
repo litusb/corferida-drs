@@ -234,7 +234,7 @@ Tots els PJ comencen amb 2 punts d'Esperança; marca'ls a la casella corresponen
 
 Tria les teves **armes**:
 
-* Escull a les Taules d'Armes de Rang 1\.
+* Escull a les Taules d'Armes de Grau 1\.
 
 Pot ser una **arma principal a dues mans** o **una arma principal a una mà** i **una arma secundària a una mà**.
 
@@ -251,7 +251,7 @@ Posteriorment, calcula i anota la teva **tirada de mal** combinant el teu valor 
 
 La Competència només determina quants daus de mal llances i no afecta altres modificadors fixos de mal.*
 
-Tria i equipa un conjunt d'armadura de la Taula d'Armadures de Rang 1 i anota els seus detalls a la casella d'Armadura activa del teu full de personatge.
+Tria i equipa un conjunt d'armadura de la Taula d'Armadures de Grau 1 i anota els seus detalls a la casella d'Armadura activa del teu full de personatge.
 
 * Suma el nivell del teu personatge als **Llindars Base** de l'armadura que tinguis equipada i anota el total de tots dos valors a les caselles corresponents.
 
@@ -877,11 +877,11 @@ Fes als teus companys una de les següents preguntes perquè el seu personatge r
 
 ##### OPCIONS DE FORMA SALVATGE
 
-Quan facis servir el teu atribut de ‘Forma salvatge’, tria una categoria de criatura del teu rang o inferior.
+Quan facis servir el teu atribut de ‘Forma salvatge’, tria una categoria de criatura del teu Grau o inferior.
 
 A discreció de la DJ, pots descriure com et transformes en qualsevol animal que encaixi raonablement dins d'aquesta categoria.
 
-Les categories de Forma salvatge estan dividides per rang.
+Les categories de Forma salvatge estan dividides per Grau.
 
 Cada ítem inclou la següent informació:
 
@@ -921,7 +921,7 @@ Per exemple, un Explorador àgil té avantatge en fer tirades per moure's sigil�
 
 Per exemple, un Explorador àgil destaca pel seu moviment silenciós i àgil, però també és fràgil, fent-te més propens a abandonar la Forma salvatge.
 
-RANG 1
+Grau 1
 
 - [ ] **EXPLORADOR ÀGIL**  
       (Guineu, Ratolí, Mostela, etc.)  
@@ -1011,7 +1011,7 @@ Pots *Travar* temporalment un objectiu dins d’un abast Proper si superes una t
 
 
 
-RANG 2
+Grau 2
 
 - [ ] **SENTINELLA BLINDAT**  
       (Armadillo, Pangolí, Tortuga, etc.)  
@@ -1105,7 +1105,7 @@ La primera vegada que un personatge actuï sobre la base d'aquesta informació, 
  
       **Ossos buits:** pateixes una penalització de \-2 als teus llindars de mal.
 
-RANG 3
+Grau 3
 
 - [ ] **GRAN DEPREDADOR**  
       (Llop gegant, Velociraptor, Tigre dents de sabre, etc.)  
@@ -1158,8 +1158,8 @@ La primera vegada que un personatge actuï sobre la base d'aquesta informació, 
       **Escomesa despietada:** quan tinguis èxit en un atac contra un objectiu, pots **gastar un punt d’Esperança** per deixar-lo *Vulnerable* temporalment i obtenir un bonificador de \+1 a la teva Competència per a aquest atac.
 
 - [ ] **BÈSTIA LLEGENDÀRIA**  
-      (Opcions de Rang 1 millorades)  
-      **Evolucionada:** tria una opció de Forma Salvatge de Rang 1 i transforma't en una versió més gran i poderosa d'aquesta criatura.
+      (Opcions de Grau 1 millorades)  
+      **Evolucionada:** tria una opció de Forma Salvatge de Grau 1 i transforma't en una versió més gran i poderosa d'aquesta criatura.
 
 Mentre estiguis en aquesta forma, conserves totes les característiques i habilitats de la forma original i a més guanyes els següents bonificadors:  
       	•​ Un bonificador de \+6 a les tirades de mal.
@@ -1176,11 +1176,11 @@ Mentre estiguis en aquesta forma, conserves totes les característiques i habili
       Cos a Cos Força d10+8 físic  
       **Atributs híbrids:** per a transformar-te en aquesta criatura has de **marcar una casella d’Estrès addicional**.
 
-Tria dues Formes Salvatges dels Rangs 1 o 2\.
+Tria dues Formes Salvatges dels Graus 1 o 2\.
 
 Tria un total de quatre avantatges i dues habilitats d'entre aquestes opcions.
 
-RANG 4
+Grau 4
 
 - [ ] **MASTODONT DESCOMUNAL**  
       (Elefant, Mamut, Rinoceront, etc.)  
@@ -1225,7 +1225,7 @@ Ignores el terreny difícil (a discreció de la DJ) a causa de la teva grandàri
   
       **Rapinyaire letal:** pots volar a voluntat i moure't fins a un abast Llunyà com a part de la teva acció.
 
-Quan et moguis en línia recta dins d’un abast Cos a Cos d’un objectiu des d’almenys un rang Proper i ataquis aquest objectiu a la mateixa acció, pots tornar a tirar els daus de mal que hagin obtingut un resultat menor a la teva Competència.
+Quan et moguis en línia recta dins d’un abast Cos a Cos d’un objectiu des d’almenys un Grau Proper i ataquis aquest objectiu a la mateixa acció, pots tornar a tirar els daus de mal que hagin obtingut un resultat menor a la teva Competència.
 
 - [ ] **BÈSTIA AQUÀTICA ÈPICA**  
       (Calamar gegant, Balena, etc.)  
@@ -1244,8 +1244,8 @@ Quan tinguis èxit en un atac contra un objectiu dins d’un abast Cos a Cos, el
 Amb un resultat de 5 o més, redueix la gravetat del mal en un llindar sense marcar una Casella d'Armadura.
 
 - [ ] **BÈSTIA MÍTICA**  
-      (Opcions de Rang 1 o Rang 2 millorades)  
-      **Evolucionada:** tria una opció de Forma Salvatge de Rang 1 o de Rang 2 i transforma't en una versió més gran i poderosa d'aquesta criatura.
+      (Opcions de Grau 1 o Grau 2 millorades)  
+      **Evolucionada:** tria una opció de Forma Salvatge de Grau 1 o de Grau 2 i transforma't en una versió més gran i poderosa d'aquesta criatura.
 
 Mentre estiguis en aquesta forma, conserves totes les característiques i habilitats de la forma original i a més guanyes els següents bonificadors:  
       	•​ Un bonificador de \+9 a les tirades de mal.
@@ -1265,7 +1265,7 @@ Mentre estiguis en aquesta forma, conserves totes les característiques i habili
       Cos a Cos Força d12+10 físic  
       **Atributs híbrids:** per a transformar-te en aquesta criatura has de **marcar dues caselles d’Estrès addicionals**.
 
-Tria tres Formes Salvatges dels Rangs 1 a 3\.
+Tria tres Formes Salvatges dels Graus 1 a 3\.
 
 Tria un total de cinc avantatges i tres habilitats d'entre aquestes opcions.
 
@@ -2051,15 +2051,15 @@ A més dels beneficis de la condició *Ocult*, mentre estiguis *Encaputxat* roma
 
 Perds l'estat *Encaputxat* després d'atacar o de finalitzar una jugada dins del camp de visió d'un adversari.
 
-**Atac furtiu:** quan tinguis èxit en un atac mentre estàs *Encaputxat* o mentre un aliat sigui dins l’abast Cos a Cos del teu objectiu, afegeix un número de **d6** a la tirada de mal igual al teu rang.
+**Atac furtiu:** quan tinguis èxit en un atac mentre estàs *Encaputxat* o mentre un aliat sigui dins l’abast Cos a Cos del teu objectiu, afegeix un número de **d6** a la tirada de mal igual al teu Grau.
 
-* Nivell 1 → Rang 1
+* Nivell 1 → Grau 1
 
-* Nivells 2 a 4 → Rang 2
+* Nivells 2 a 4 → Grau 2
 
-* Nivells 5 a 7 → Rang 3
+* Nivells 5 a 7 → Grau 3
 
-* Nivells 8 a 10 → Rang 4
+* Nivells 8 a 10 → Grau 4
 
 ##### SUBCLASSES DE MURRI
 
@@ -3568,7 +3568,7 @@ Mentre està en perill, un personatge ha de fer una tirada d'Agilitat per moure'
 
 L’abast es mesura des de l’origen de l’efecte, com ara l’atacant o el llançador de conjurs, fins a l’objectiu de l’efecte.
 
-L’abast indicat d'una arma, conjur, habilitat, objecte o un altre efecte és el rang màxim; llevat que s'indiqui el contrari, es pot fer servir a distàncies menors.
+L’abast indicat d'una arma, conjur, habilitat, objecte o un altre efecte és el Grau màxim; llevat que s'indiqui el contrari, es pot fer servir a distàncies menors.
 
 **Regla opcional: distàncies d’abast definides.**
 
@@ -3671,11 +3671,11 @@ Un **descans curt** dura prou temps perquè el grup recuperi l'alè, aproximadam
 
 Cada jugadora pot moure cartes de domini entre el seu equipament i la seva reserva sense cost i, aleshores, triar dos cops d’entre la següent llista d’accions de descans (les jugadores poden escollir la mateixa acció dos cops):
 
-* **Curar ferides:** recupera 1d4+Rang Punts de Cop per a tu o un aliat.
+* **Curar ferides:** recupera 1d4+Grau Punts de Cop per a tu o un aliat.
 
-* **Eliminar Estrès:** recupera 1d4+Rang caselles d'Estrès.
+* **Eliminar Estrès:** recupera 1d4+Grau caselles d'Estrès.
 
-* **Reparar Armadura:** recupera 1d4+Rang caselles d'Armadura pròpies o d'un aliat.
+* **Reparar Armadura:** recupera 1d4+Grau caselles d'Armadura pròpies o d'un aliat.
 
 * **Preparar-se:** descriu com et prepares pel que està per venir i guanya 1 punt d’Esperança.
 
@@ -3797,23 +3797,23 @@ El teu grup puja de nivell quan la DJ considera que heu aconseguit una fita narr
 
 Tots els PJ pugen de nivell al mateix temps.
 
-Daggerheart té 10 nivells de PJ dividits en 4 rangs:
+Daggerheart té 10 nivells de PJ dividits en 4 Graus:
 
-→ Rang 1 abasta només el nivell 1\.
+→ Grau 1 abasta només el nivell 1\.
 
-→ Rang 2 abasta els nivells 2 a 4\.
+→ Grau 2 abasta els nivells 2 a 4\.
 
-→ Rang 3 abasta els nivells 5 a 7\.
+→ Grau 3 abasta els nivells 5 a 7\.
 
-→ Rang 4 abasta els nivells 8 a 10\.
+→ Grau 4 abasta els nivells 8 a 10\.
 
-El teu rang afecta els teus llindars de mal, els teus assoliments de rang i l'accés a millores.
+El teu Grau afecta els teus llindars de mal, els teus assoliments de Grau i l'accés a millores.
 
 
 
-### PAS 1​ ASSOLIMENTS DE RANG
+### PAS 1​ ASSOLIMENTS DE Grau
 
-Pren els assoliments de rang que corresponguin:
+Pren els assoliments de Grau que corresponguin:
 
 A nivell 2, guanyes una nova Experiència a \+2 i augmentes permanentment la teva Competència en \+1.
 
@@ -3823,7 +3823,7 @@ A nivell 8, guanyes una nova Experiència a \+2, augmentes permanentment la teva
 
 ### PAS 2​ MILLORES
 
-Tria dues millores qualssevol del teu rang o d'un rang inferior que tinguin com a mínim un espai sense marcar.
+Tria dues millores qualssevol del teu Grau o d'un Grau inferior que tinguin com a mínim un espai sense marcar.
 
 Les opcions amb múltiples espais es poden triar més d'una vegada.
 
@@ -3831,7 +3831,7 @@ Quan triïs una millora, marca un dels seus espais.
 
 * *Quan escullis **augmentar 2 característiques de personatge sense marcar** i les marquis:* escull 2 característiques de personatge sense marcar i guanya un bonificador de \+1 permanent en tots dos.
 
-No pots tornar a incrementar aquests registres  fins al següent rang (quan l'assoliment de rang et permeti esborrar aquestes marques).
+No pots tornar a incrementar aquests registres  fins al següent Grau (quan l'assoliment de Grau et permeti esborrar aquestes marques).
 
 * *Quan escullis **afegir permanentment 1 o més caselles de Punts de Cop:*** enfosqueix amb bolígraf o retolador el contorn del següent rectangle a la secció de PC del teu full de PJ.
 
@@ -3851,7 +3851,7 @@ Si només tens la carta fonamental, agafa una d’especialització.
 
 Si ja tens una d’especialització, agafa una de mestratge.
 
-Després, ratlla l'opció de multiclasse d'aquest rang.
+Després, ratlla l'opció de multiclasse d'aquest Grau.
 
 * *Quan escullis **augmentar la teva Competència:*** emplena un dels cercles en blanc a la secció de ‘Competència’ del teu full de personatge i posteriorment incrementa la quantitat de daus de mal de la teva arma en 1\.
 
@@ -3861,7 +3861,7 @@ Després, ratlla l'opció de multiclasse d'aquest rang.
 
 Afegeix el **mòdul de multiclasse** corresponent al teu full de personatge i agafa la carta fonamental d'una de les seves subclasses.
 
-Després, ratlla la casella de ‘subclasse millorada’ d'aquest rang i totes les altres caselles de ‘multiclasse’ del teu full de personatge.
+Després, ratlla la casella de ‘subclasse millorada’ d'aquest Grau i totes les altres caselles de ‘multiclasse’ del teu full de personatge.
 
 *El requadre negre al voltant de les caselles d'aquesta millora indica que has de gastar dues millores i marcar totes dues caselles de pujada de nivell per poder triar-la com a opció.*
 
@@ -3895,7 +3895,7 @@ Les teves armes i armadures **equipades** són les anotades a les seccions ‘Ar
 
 El teu personatge només pot atacar amb les armes que tingui equipades, beneficiar-se de l'armadura equipada i guanyar atributs dels objectes que porti equipats.
 
-No pots equipar armes ni armadures d'un rang superior al teu.
+No pots equipar armes ni armadures d'un Grau superior al teu.
 
 
 
@@ -3915,7 +3915,7 @@ Quan el teu personatge es posi o es tregui una armadura, calcula de nou els seus
 
 ## ARMES
 
-Totes les armes tenen un rang, característica, abast, dau de mal, tipus de mal i càrrega.
+Totes les armes tenen un Grau, característica, abast, dau de mal, tipus de mal i càrrega.
 
 Algunes armes també posseeixen un atribut especial.
 
@@ -3967,11 +3967,11 @@ Fins que la recuperis i la tornis a equipar, no pots atacar amb ella ni benefici
 
 ### TAULA D’ARMES PRINCIPALS
 
-Les jugadores poden escollir una arma principal de Rang 1 durant la creació del personatge.
+Les jugadores poden escollir una arma principal de Grau 1 durant la creació del personatge.
 
 La DJ pot fer que altres armes estiguin disponibles durant el transcurs de la campanya a mesura que els PJs pugen de nivell.
 
-##### RANG 1 (Nivell 1\) Armes físiques
+##### Grau 1 (Nivell 1\) Armes físiques
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4033,7 +4033,7 @@ En un atac exitós, tira un dau de mal addicional i descarta el resultat més ba
 
 |
 
-##### RANG 1 (Nivell 1\) Armes màgiques
+##### Grau 1 (Nivell 1\) Armes màgiques
 
 Totes les armes màgiques requereixen d’una característica de Llançament de conjurs.
 
@@ -4072,7 +4072,7 @@ Totes les armes màgiques requereixen d’una característica de Llançament de 
 
 |
 
-##### RANG 2 (Nivells 2-4) Armes físiques
+##### Grau 2 (Nivells 2-4) Armes físiques
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4171,7 +4171,7 @@ Amb un resultat d'1 has de marcar una casella d’Estrès per recarregar aquesta
 
 |
 
-##### RANG 2 (Nivells 2-4) Armes màgiques
+##### Grau 2 (Nivells 2-4) Armes màgiques
 
 Totes les armes màgiques requereixen d’una característica de Llançament de conjurs.
 
@@ -4247,7 +4247,7 @@ Amb un resultat de 4, recupera una casella d'Estrès.*** |
 
 |
 
-##### RANG 3 (Nivells 5-7) Armes físiques
+##### Grau 3 (Nivells 5-7) Armes físiques
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4353,7 +4353,7 @@ Amb un resultat d'1 has de marcar una casella d’Estrès per recarregar aquesta
 
 | Dues mans | ***Versàtil: aquesta arma també es pot fer servir amb aquests atributs: Agilitat, Cos a Cos, d10+5.*** |
 
-##### RANG 3 (Nivells 5-7) Armes màgiques
+##### Grau 3 (Nivells 5-7) Armes màgiques
 
 Totes les armes màgiques requereixen d’una característica de Llançament de conjurs.
 
@@ -4431,7 +4431,7 @@ o màg.
 
 Amb un resultat d'1 has de marcar una casella d’Estrès per recarregar aquesta arma abans que puguis disparar de nou.*** |
 
-##### RANG 4 (Nivells 8-10) Armes físiques
+##### Grau 4 (Nivells 8-10) Armes físiques
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4530,7 +4530,7 @@ En un atac exitós, tira un dau de mal addicional i descarta el resultat més ba
 
 Amb un resultat d'1 has de marcar una casella d’Estrès per recarregar aquesta arma abans que puguis disparar de nou.*** |
 
-##### RANG 4 (Nivells 8-10) Armes màgiques
+##### Grau 4 (Nivells 8-10) Armes màgiques
 
 Totes les armes màgiques requereixen d’una característica de Llançament de conjurs.
 
@@ -4614,11 +4614,11 @@ Amb un resultat d'1 has de marcar una casella d’Estrès per recarregar aquesta
 
 ### TAULA D’ARMES SECUNDÀRIES
 
-Les jugadores poden escollir una arma secundària de Rang 1 durant la creació del personatge.
+Les jugadores poden escollir una arma secundària de Grau 1 durant la creació del personatge.
 
 La DJ pot fer que altres armes estiguin disponibles durant el transcurs de la campanya a mesura que els PJs pugen de nivell.
 
-##### RANG 1 (Nivell 1\)
+##### Grau 1 (Nivell 1\)
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4654,7 +4654,7 @@ La DJ pot fer que altres armes estiguin disponibles durant el transcurs de la ca
 
 | Una mà | — |
 
-##### RANG 2 (Nivells 2-4)
+##### Grau 2 (Nivells 2-4)
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4703,7 +4703,7 @@ Si qualsevol dels daus de mal de l'atacant obté el mateix resultat que algun de
 
 | Una mà | ***Retorn: quan aquesta arma sigui llançada dins del seu abast, apareix a la teva mà just després de l'atac.*** |
 
-##### RANG 3 (Nivells 5-7)
+##### Grau 3 (Nivells 5-7)
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4748,7 +4748,7 @@ Si qualsevol dels daus de mal de l'atacant obté el mateix resultat que algun de
 
 | Una mà | ***Versàtil: aquesta arma també es pot fer servir amb aquests atributs: Subtilesa, Proper, d8+4.*** |
 
-##### RANG 4 (Nivells 8-10)
+##### Grau 4 (Nivells 8-10)
 
 | Nom | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -4852,7 +4852,7 @@ Encara que són resistents, aquestes cadires de rodes tenen estructures lleugere
 
 Aquests models escauen millor als aventurers que depenen de la velocitat i la flexibilitat.
 
-| Nom | Rang | Característica | Abast | Mal | Càrrega | Atribut |
+| Nom | Grau | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Cadira de rodes lleugera** | 1 | Agilitat | Cos a Cos | d8 fís.
 
@@ -4881,7 +4881,7 @@ Aquestes cadires de rodes tenen estructures més pesades i voluminoses que perme
 
 També els fa esdevenir un objectiu més fàcil.
 
-| Nom | Rang | Característica | Abast | Mal | Càrrega | Atribut |
+| Nom | Grau | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Cadira de rodes pesada** | 1 | Força | Cos a Cos | d12+3 fís.
 
@@ -4912,7 +4912,7 @@ Al contrari que altres armes màgiques principals, el model d’estructura arcan
 
 En substitució, fas servir la característica de Llançador de conjurs indicada a la teva subclasse.
 
-| Nom | Rang | Característica | Abast | Mal | Càrrega | Atribut |
+| Nom | Grau | Característica | Abast | Mal | Càrrega | Atribut |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Cadira de rodes arcana** | 1 | Ll.
 
@@ -4971,7 +4971,7 @@ Si un efecte incrementa temporalment la teva Puntuació d’Armadura, incrementa
 
 ### TAULES D’ARMADURA
 
-#### RANG 1 (NIVELL 1\)
+#### Grau 1 (NIVELL 1\)
 
 | Nom | Llindar base | Puntuació base | Atribut |
 | :---- | :---: | :---: | :---- |
@@ -4986,7 +4986,7 @@ Si un efecte incrementa temporalment la teva Puntuació d’Armadura, incrementa
 
 |
 
-#### RANG 2 (NIVELLS 2-4)
+#### Grau 2 (NIVELLS 2-4)
 
 | Nom | Llindar base | Puntuació base | Atribut |
 | :---- | :---: | :---: | :---- |
@@ -5021,7 +5021,7 @@ Amb un resultat de 6, redueix en un llindar la gravetat sense marcar cap Casella
 
 |
 
-#### RANG 3 (NIVELLS 5-7)
+#### Grau 3 (NIVELLS 5-7)
 
 | Nom | Llindar base | Puntuació base | Atribut |
 | :---- | :---: | :---: | :---- |
@@ -5054,7 +5054,7 @@ Amb un resultat de 6, redueix en un llindar la gravetat sense marcar cap Casella
 
 |
 
-#### RANG 4 (NIVELLS 8-10)
+#### Grau 4 (NIVELLS 8-10)
 
 #### 
 
@@ -5116,7 +5116,7 @@ Per generar un article aleatori, escull la raresa, tira el dau indicat, i compar
 Quan bufes aquest xiulet, el seu so penetrant es pot sentir dins un radi de 2 km (o 1 milla).
 
 |
-| 03 | **Carcaix de càrrega** | Quan tens èxit en un atac amb una fletxa extreta d'aquest carcaix, guanyes una bonificació al mal igual al teu rang actual.
+| 03 | **Carcaix de càrrega** | Quan tens èxit en un atac amb una fletxa extreta d'aquest carcaix, guanyes una bonificació al mal igual al teu Grau actual.
 
 |
 | 04 | **Torxa d'Alistair** | Pots encendre aquesta torxa màgica a voluntat.
@@ -6403,10 +6403,10 @@ D’altra manera, estableix el preu de béns i serveis ajustant els valors a la 
 | Eines especialitzades | 3 Grapats |
 | Roba de bona qualitat | 3 Grapats |
 | Roba de luxe | 1 Bossa |
-| Equipament de rang 1 (armes, armadura) | 1–5 Grapats |
-| Equipament de rang 2 (armes, armadura) | 1–2 Bosses |
-| Equipament de rang 3 (armes, armadura) | 5–10 Bosses |
-| Equipament de rang 4 (armes, armadura) | 1–2 Cofrets |
+| Equipament de Grau 1 (armes, armadura) | 1–5 Grapats |
+| Equipament de Grau 2 (armes, armadura) | 1–2 Bosses |
+| Equipament de Grau 3 (armes, armadura) | 5–10 Bosses |
+| Equipament de Grau 4 (armes, armadura) | 1–2 Cofrets |
 
 ### INTERPRETAR PNJs COM A DJ
 
@@ -6562,15 +6562,15 @@ Cada conjunt d’estadístiques té un **nom** únic.
 
 Les habilitats que afecten els adversaris amb un cert nom inclouen tots els adversaris que fan servir aquest conjunt d’estadístiques, independentment del seu nom particular dins la història.
 
-#### RANG
+#### Grau
 
-Cada adversari està dissenyat per enfrontar-se a PJs d’un cert **rang**.
+Cada adversari està dissenyat per enfrontar-se a PJs d’un cert **Grau**.
 
-Si enfrontes el grup amb un adversari d’un altre rang, ajusta les seves estadístiques.
+Si enfrontes el grup amb un adversari d’un altre Grau, ajusta les seves estadístiques.
 
 #### TIPUS
 
-El tipus de l’adversari apareix al costat del seu rang.
+El tipus de l’adversari apareix al costat del seu Grau.
 
 El **tipus** d’un adversari representa el rol que juga en un conflicte.
 
@@ -6722,7 +6722,7 @@ Quan planifiques una batalla, comença amb **\[(3 x nombre de PJs en combat) \+ 
 
 **\-2** si afegeixes \+1d4 (o un invariable \+2) a totes les tirades de mal dels adversaris.
 
-**\+1** si esculls un adversari d’un rang inferior.
+**\+1** si esculls un adversari d’un Grau inferior.
 
 **\+1** si no inclous cap Horda, Líder, Solitari o Trinxador.
 
@@ -6748,18 +6748,18 @@ Quan un adversari marqui el seu últim Punt de Cop, està vençut: incapacitat, 
 
 ### CONJUNT D’ESTADÍSTIQUES DE REFERÈNCIA D’ADVERSARIS
 
-| ESTADÍSTICA D'ADVERSARI | RANG 1 | RANG 2 | RANG 3 | RANG 4 |
+| ESTADÍSTICA D'ADVERSARI | Grau 1 | Grau 2 | Grau 3 | Grau 4 |
 | :---- | :---: | :---: | :---: | :---: |
 | Modificador d'atac | \+1 | \+2 | \+3 | \+4 |
 | Dau de mal | 1d6+2 a 1d12+4 | 2d6+3 a 2d12+4 | 3d8+3 a 3d12+5 | 4d8+10 a 4d12+15 |
 | Dificultat | 11 | 14 | 17 | 20 |
 | Llindars de mal | Major 7/Sever 12 | Major 10/Sever 20 | Major 20/Sever 32 | Major 25/Sever 45 |
 
-### ADVERSARIS PER RANG
+### ADVERSARIS PER Grau
 
 Aquesta secció conté els següents conjunts d’estadístiques:
 
-#### RANG 1 (NIVELL 1\)
+#### Grau 1 (NIVELL 1\)
 
 * Excavador àcid  
 * Os  
@@ -6814,7 +6814,7 @@ Aquesta secció conté els següents conjunts d’estadístiques:
 * Zombi trontollador  
 * Bandada de zombis
 
-#### RANG 2 (NIVELLS 2–4)
+#### Grau 2 (NIVELLS 2–4)
 
 * Esquadró d’arquers  
 * Aprenent d’assassí  
@@ -6853,7 +6853,7 @@ Aquesta secció conté els següents conjunts d’estadístiques:
 * Ànima de pedra  
 * Mag de guerra
 
-#### RANG 3 (NIVELLS 5–7)
+#### Grau 3 (NIVELLS 5–7)
 
 * Llampurmosca adulta  
 * Dimoni de l’avarícia  
@@ -6879,7 +6879,7 @@ Aquesta secció conté els següents conjunts d’estadístiques:
 * Torreta guardiana de la cripta  
 * Drac de gel jove
 
-#### RANG 4 (NIVELLS 8–10)
+#### Grau 4 (NIVELLS 8–10)
 
 * Arxinigromant  
 * Tropa de xoc caiguda  
@@ -6900,9 +6900,9 @@ Aquesta secció conté els següents conjunts d’estadístiques:
 * Zombi perfeccionat  
 * Legió zombi
 
-## RANG 1 (NIVELL 1\)
+## Grau 1 (NIVELL 1\)
 
-| EXCAVADOR ÀCID *Rang 1 Solitari*  *Un insecte de la mida d'un cavall amb urpes excavadores i sang àcida.* Motivacions i Estratègies: Excavar, arrossegar, alimentar-se, reposicionar Dificultat: 14 | Llindars: 8/15 | PC: 8 | Estrès: 3 Atac: \+3 | Urpes: Molt proper | Mal: 1d12+2 fís.
+| EXCAVADOR ÀCID *Grau 1 Solitari*  *Un insecte de la mida d'un cavall amb urpes excavadores i sang àcida.* Motivacions i Estratègies: Excavar, arrossegar, alimentar-se, reposicionar Dificultat: 14 | Llindars: 8/15 | PC: 8 | Estrès: 3 Atac: \+3 | Urpes: Molt proper | Mal: 1d12+2 fís.
 
 Experiència: Sentits sísmics \+2 ATRIBUTS *Implacable (3) \- Passiu:*  L'Excavador pot tenir el focus fins a tres cops per torn de la DJ.
 
@@ -6925,7 +6925,7 @@ Aquesta esquitxada cobreix tot el terra dins d'un abast Molt Proper amb sang, i 
 |
 | :---- |
 
-| OS *Rang 1 Trinxador*  *Un gran os amb pelatge espès i urpes poderoses.* Motivacions i Estratègies: Escalar, defensar territori, colpejar, rastrejar Dificultat: 14 | Llindars: 9/17 | PC: 7 | Estrès: 2 Atac: \+1 | Urpes: Cos a Cos | Mal: 1d8+3 fís.
+| OS *Grau 1 Trinxador*  *Un gran os amb pelatge espès i urpes poderoses.* Motivacions i Estratègies: Escalar, defensar territori, colpejar, rastrejar Dificultat: 14 | Llindars: 9/17 | PC: 7 | Estrès: 2 Atac: \+1 | Urpes: Cos a Cos | Mal: 1d8+3 fís.
 
 Experiència: Emboscar \+3, Sentits aguts \+2 ATRIBUTS *Força esclafadora \- Passiu:* Els objectius que marquin PC de l'atac estàndard de l'Os són repel·lits fins a l'abast Molt Proper.
 
@@ -6938,7 +6938,7 @@ Amb èxit, infligeix 3d4+10 de mal físic i l'objectiu està Travat fins que s'a
 |
 | :---- |
 
-| OGRE DE LA COVA *Rang 1 Solitari*  *Un humanoide descomunal que considera menjar a tota criatura pensant.* Motivacions i Estratègies: Mossegar caps, devorar, arrencar extremitats, trepitjar, llançar enemics Dificultat: 13 | Llindars: 8/15 | PC: 8 | Estrès: 3 Atac: \+1 | Garrot: Molt proper | Mal: 1d10+2 fís.
+| OGRE DE LA COVA *Grau 1 Solitari*  *Un humanoide descomunal que considera menjar a tota criatura pensant.* Motivacions i Estratègies: Mossegar caps, devorar, arrencar extremitats, trepitjar, llançar enemics Dificultat: 13 | Llindars: 8/15 | PC: 8 | Estrès: 3 Atac: \+1 | Garrot: Molt proper | Mal: 1d10+2 fís.
 
 Experiència: Llençar \+2 ATRIBUTS *Redoblament \- Passiu:*  Has de gastar un punt de Por per donar focus a l'Ogre.
 
@@ -6961,7 +6961,7 @@ Mou l'Ogre fins a un punt dins d'un abast Proper i infligeix 2d6+3 de mal direct
 |
 | :---- |
 
-| CONSTRUCTE *Rang 1 Solitari*  *Un ésser vagament humanoide de pedra i acer, muntat i animat per la màgia.* Motivacions i Estratègies: Destruir l'entorn, servir al creador, aixafar l'objectiu, trepitjar grups Dificultat: 13 | Llindars: 7/15 | PC: 9 | Estrès: 4 Atac: \+4 | Cop de puny: Cos a Cos | Mal: 1d20 fís.
+| CONSTRUCTE *Grau 1 Solitari*  *Un ésser vagament humanoide de pedra i acer, muntat i animat per la màgia.* Motivacions i Estratègies: Destruir l'entorn, servir al creador, aixafar l'objectiu, trepitjar grups Dificultat: 13 | Llindars: 7/15 | PC: 9 | Estrès: 4 Atac: \+4 | Cop de puny: Cos a Cos | Mal: 1d20 fís.
 
 ATRIBUTS *Implacable (2) \- Passiu:*  El Constructe pot tenir el focus fins a dos cops per torn de la DJ.
 
@@ -6986,7 +6986,7 @@ Els objectius a qui encerti el Constructe reben 1d12+2 de mal màgic.
 |
 | :---- |
 
-| CORTESÀ *Rang 1 Social*  *Un membre de l'alta societat ambiciós i vestit de manera ostentosa.* Motivacions i Estratègies: Desacreditar, guanyar-se el favor, maniobrar, conspirar Dificultat: 12 | Llindars: 4/8 | PC: 3 | Estrès: 4 Atac: \-4 | Dagues: Cos a Cos | Mal: 1d4+2 fís.
+| CORTESÀ *Grau 1 Social*  *Un membre de l'alta societat ambiciós i vestit de manera ostentosa.* Motivacions i Estratègies: Desacreditar, guanyar-se el favor, maniobrar, conspirar Dificultat: 12 | Llindars: 4/8 | PC: 3 | Estrès: 4 Atac: \-4 | Dagues: Cos a Cos | Mal: 1d4+2 fís.
 
 Experiència: Alta societat \+3 ATRIBUTS *Mofa \- Acció:*  Marca un punt d'Estrès per fer burla i forçar un objectiu dins d'un abast Proper a fer una Tirada de reacció de Presència (14) per veure si aconsegueix mantenir la compostura.
 
@@ -6999,7 +6999,7 @@ El Cortesà convenç la multitud o a una figura destacada l'objectiu és la caus
 |
 | :---- |
 
-| DEFENSOR DE L'ARREL PROFUNDA *Rang 1 Trinxador*  *Una persona-planta amb enfiladisses prènsils.* Motivacions i Estratègies: Emboscar, agafar, protegir, colpejar Dificultat: 10 | Llindars: 8/14 | PC: 7 | Estrès: 3 Atac: \+2 | Tiges: Proper | Mal: 1d8+3 fís.
+| DEFENSOR DE L'ARREL PROFUNDA *Grau 1 Trinxador*  *Una persona-planta amb enfiladisses prènsils.* Motivacions i Estratègies: Emboscar, agafar, protegir, colpejar Dificultat: 10 | Llindars: 8/14 | PC: 7 | Estrès: 3 Atac: \+2 | Tiges: Proper | Mal: 1d8+3 fís.
 
 Experiència: Enorme \+3 ATRIBUTS *Azot terrestre \- Acció:*  Colpeja el terra, empenyent tots els objectius dins d'un abast Molt Proper fins a un abast Llunyà.
 
@@ -7012,7 +7012,7 @@ Amb èxit, gasta un punt de Por per arrossegar-lo dins d'un abast Cos a Cos, inf
 |
 | :---- |
 
-| LLOP TERRIBLE *Rang 1 Furtiu*  *Un gran llop amb dents amenaçadores, rarament es troba sol.* Motivacions i Estratègies: Defensar territori, assetjar, protegir la manada, envoltar, rastrejar Dificultat: 12 | Llindars: 5/9 | PC: 4 | Estrès: 3 Atac: \+2 | Urpes: Cos a Cos | Mal: 1d6+2 fís.
+| LLOP TERRIBLE *Grau 1 Furtiu*  *Un gran llop amb dents amenaçadores, rarament es troba sol.* Motivacions i Estratègies: Defensar territori, assetjar, protegir la manada, envoltar, rastrejar Dificultat: 12 | Llindars: 5/9 | PC: 4 | Estrès: 3 Atac: \+2 | Urpes: Cos a Cos | Mal: 1d6+2 fís.
 
 Experiència: Sentits aguts \+3 ATRIBUTS *Estratègies de manada \- Passiu:*  Si el Llop fa un atac estàndard exitós i hi ha un altre Llop terrible dins d'un abast Cos a Cos de l'objectiu, infligeix 1d6+5 de mal físic en comptes del seu mal estàndard i guanyes un punt de Por.
 
@@ -7023,7 +7023,7 @@ Amb èxit, infligeix 3d4+10 de mal físic directe i el deixes *Vulnerable* fins 
 |
 | :---- |
 
-| MOSQUITS GEGANTS *Rang 1 Horda (5/PC)* *Desenes de mosquits de la mida d'un puny, volant junts per protegir-se.* Motivacions i Estratègies: Volar, assetjar, robar sang Dificultat: 10 | Llindars: 5/9 | PC: 6 | Estrès: 3 Atac: \-2 | Probòscide: Cos a Cos | Mal: 1d8+3 fís.
+| MOSQUITS GEGANTS *Grau 1 Horda (5/PC)* *Desenes de mosquits de la mida d'un puny, volant junts per protegir-se.* Motivacions i Estratègies: Volar, assetjar, robar sang Dificultat: 10 | Llindars: 5/9 | PC: 6 | Estrès: 3 Atac: \-2 | Probòscide: Cos a Cos | Mal: 1d8+3 fís.
 
 Experiència: Camuflatge \+2 ATRIBUTS *Horda (1d4+1) \- Passiu:*  Quan els Mosquits hagin marcat la meitat o més dels seus PC, el seu atac estàndard farà 1d4+1.
 
@@ -7034,7 +7034,7 @@ Experiència: Camuflatge \+2 ATRIBUTS *Horda (1d4+1) \- Passiu:*  Quan els Mosqu
 |
 | :---- |
 
-| RATA GEGANT *Rang 1 Esbirro*  *Un rosegador de la mida d'un gat expert carronyaire i en supervivència.* Motivacions i Estratègies: Cavar, tenir gana, carronyar, esgotar Dificultat: 10 | Llindars: Cap | PC: 1 | Estrès: 1 Atac: \-4 | Urpes: Cos a Cos | Mal: 1 fís.
+| RATA GEGANT *Grau 1 Esbirro*  *Un rosegador de la mida d'un gat expert carronyaire i en supervivència.* Motivacions i Estratègies: Cavar, tenir gana, carronyar, esgotar Dificultat: 10 | Llindars: Cap | PC: 1 | Estrès: 1 Atac: \-4 | Urpes: Cos a Cos | Mal: 1 fís.
 
 Experiència: Sentits aguts \+3 ATRIBUTS *Esbirro (3) \- Passiu:*  La Rata és derrotada quan rep qualsevol mal.
 
@@ -7065,9 +7065,9 @@ NOM
 
 El nom únic pel conjunt d’estadístiques de l’entorn.
 
-RANG
+Grau
 
-El Rang de PJ per qui l’entorn està dissenyat per desafiar.
+El Grau de PJ per qui l’entorn està dissenyat per desafiar.
 
 TIPUS
 
@@ -7110,7 +7110,7 @@ Apunts per ganxos de guió, engranatges narratius i connexions a altres elements
 
 ### **ADAPTAR ENTORNS**
 
-De vegades vols fer servir un entorn, però és d’un rang incorrecte pel teu grup.
+De vegades vols fer servir un entorn, però és d’un Grau incorrecte pel teu grup.
 
 O potser voldries canviar un atribut o dos, i aleshores presentar-lo com un entorn completament diferent.
 
@@ -7118,20 +7118,20 @@ Sigui planificant la teva sessió o fins i tot improvisant un entorn enmig d’u
 
 Les referències d’entorn estan per ajudar-te a organitzar les idees, i no per reprimir la teva creativitat.
 
-Quan necessitis ajustar ràpidament un conjunt d’estadístiques per un rang diferent, pots reemplaçar simplement les estadístiques per aquelles llistades a la taula Estadístiques d’entorns per rang, fent servir la columna que correspongui al rang del teu grup.
+Quan necessitis ajustar ràpidament un conjunt d’estadístiques per un Grau diferent, pots reemplaçar simplement les estadístiques per aquelles llistades a la taula Estadístiques d’entorns per Grau, fent servir la columna que correspongui al Grau del teu grup.
 
-REFERÈNCIA D’ESTADÍSTIQUES D’ENTORNS PER RANG
+REFERÈNCIA D’ESTADÍSTIQUES D’ENTORNS PER Grau
 
-| Estadística d'entorn | Rang 1 | Rang 2 | Rang 3 | Rang 4 |
+| Estadística d'entorn | Grau 1 | Grau 2 | Grau 3 | Grau 4 |
 | :---- | :---: | :---: | :---: | :---: |
 | Dau de mal | 1d6+1 a1d8+3 | 2d6+3 a 2d10+2 | 3d8+3 a 3d10+1 | 4d8+3 a 4d10+10 |
 | Dificultat | 11 | 14 | 17 | 20 |
 
-### **CONJUNT D’ESTADÍSTIQUES D’ENTORN PER RANG**
+### **CONJUNT D’ESTADÍSTIQUES D’ENTORN PER Grau**
 
 Aquesta secció conté els següents conjunts d’estadístiques.
 
-RANG 1 (NIVELL 1\)
+Grau 1 (NIVELL 1\)
 
 * Arbreda abandonada (Exploració)  
 * Emboscats (Esdeveniment)  
@@ -7142,20 +7142,20 @@ RANG 1 (NIVELL 1\)
 * Vila remota (Social)  
 * Riu embravit (Travessa)
 
-RANG 2 (NIVELL 2–4)
+Grau 2 (NIVELL 2–4)
 
 * Ritual sectari (Esdeveniment)  
 * Temple sagrat (Social)  
 * Ciutat encantada (Exploració)  
 * Pas muntanyós (Travessa)
 
-RANG 3 (NIVELL 5–7)
+Grau 3 (NIVELL 5–7)
 
 * Cor incandescent del bosc (Exploració)  
 * Setge del castell (Esdeveniment)  
 * Batalla campal (Esdeveniment)
 
-RANG 4 (NIVELL 8–10)
+Grau 4 (NIVELL 8–10)
 
 * Regne del caos (Travessa)  
 * Usurpació divina (Esdeveniment)  

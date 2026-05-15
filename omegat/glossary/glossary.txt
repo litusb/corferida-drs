@@ -84,3 +84,15 @@ Finesse	Subtilesa
 Finesse Roll	tirada de Subtilesa
 Instinct	Instint
 Instinct Roll	tirada d'Instint
+Presence	Presència
+Presence Roll	tirada de Presència
+Knowledge	Coneixement
+Knowledge Roll	tirada de Coneixement
+Level	Nivell
+Evasion	Evasió
+Hit Points	Punts de cop
+HP	PC
+Stress	Estrès
+Stress	caselles d'Estrès
+Hope	punts d'Esperança
+Tier	Grau
