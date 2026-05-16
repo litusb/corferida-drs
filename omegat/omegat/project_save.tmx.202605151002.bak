@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>&lt;g1&gt;Choose Your Starting Equipment.&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T085657Z" creationid="litus" creationdate="20260515T063631Z">
-        <seg>&lt;g1&gt;Tria l'equipament inicial.&lt;/g1&gt;</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T063657Z" creationid="litus" creationdate="20260515T063631Z">
+        <seg>&lt;g1&gt;Tria el teu equipament inicial.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,30 +174,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled "Gold &gt; Handfuls")</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T222441Z" creationid="Carlos" creationdate="20260516T222441Z">
-        <seg>Una torxa, 15 metres (50 peus) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del teu full de personatge, on diu ‘Or \&gt; Grapats’).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Add the following items to the &lt;g1&gt;Inventory&lt;/g1&gt; fields on your character sheet:</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T183322Z" creationid="Carlos" creationdate="20260516T183322Z">
-        <seg>Apunta aquests objectes a la secció d'&lt;g1&gt;Inventari&lt;/g1&gt; del full de personatge:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Add your character's level to your equipped armor's &lt;g1&gt;Base Thresholds&lt;/g1&gt; and record the total for both numbers in the corresponding fields.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T160929Z" creationid="Carlos" creationdate="20260516T160620Z">
-        <seg>Suma el Nivell de personatge als &lt;g1&gt;Llindars base&lt;/g1&gt; de l'armadura equipada i escriu el total de tots dos valors a les caselles corresponents.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>All PCs start with 2 Hope; mark these in the Hope field of your character sheet.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T063530Z" creationid="litus" creationdate="20260515T063530Z">
@@ -238,22 +214,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>At Level 1, your &lt;g1&gt;Proficiency&lt;/g1&gt; is 1; write this number in the Proficiency field on your character sheet, then calculate and record your &lt;g2&gt;damage roll&lt;/g2&gt; by combining your Proficiency value with your equipped weapon(s) &lt;g3&gt;damage dice.&lt;/g3&gt; &lt;g4&gt;Example: If your Proficiency is 1 and your weapon's damage dice is d6+1, your damage roll is 1d6+1.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T100221Z" creationid="Carlos" creationdate="20260515T093138Z">
-        <seg>A Nivell 1, la &lt;g1&gt;Competència&lt;/g1&gt; és 1; escriu aquest número a la casella de Competència del full de personatge. Aleshores, calcula i apunta la &lt;g2&gt;tirada de mal&lt;/g2&gt;: combina el valor de Competència amb els &lt;g3&gt;daus de mal&lt;/g3&gt; de l'arma o armes equipades. &lt;g4&gt;Per exemple: si la Competència és 1 i el dau de mal de l'arma és d6+1, la tirada de mal serà 1d6+1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>At character creation, your level is 1.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T161155Z" creationid="Carlos" creationdate="20260516T161155Z">
-        <seg>Quan es crea un personatge, és Nivell 1.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>CHARACTER CREATION</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T233913Z" creationid="litus" creationdate="20260511T233913Z">
@@ -270,18 +230,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Choose and equip one set of &lt;g1&gt;armor&lt;/g1&gt; from the Tier 1 Armor Table, then record its details in the &lt;g2&gt;Active Armor&lt;/g2&gt; field of your character sheet.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T160316Z" creationid="Carlos" creationdate="20260516T160316Z">
-        <seg>Tria un conjunt d'armadura de la taula d'armadures de Grau 1 i anota les dades a la casella d'Armadura activa del full de personatge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Choose your &lt;g1&gt;weapon(s):&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T085706Z" creationid="litus" creationdate="20260515T063733Z">
-        <seg>Tria les &lt;g1&gt;armes&lt;/g1&gt;:</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260515T063733Z" creationid="litus" creationdate="20260515T063733Z">
+        <seg>Tria les teves &lt;g1&gt;armes&lt;/g1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,14 +266,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T160338Z" creationid="litus" creationdate="20260511T203349Z">
         <seg>Es pot jugar una partida d'una sola sessió (one-shot) o una campanya amb tantes sessions de joc com es vulgui; cada una dura entre 2 i 4 hores.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Either a &lt;g1&gt;twohanded primary weapon&lt;/g1&gt; or a **one-handed primary weapon and a one-handed secondary weapon.**Then equip your selection by recording it in the Active Weapon field of your character sheet.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T092126Z" creationid="Carlos" creationdate="20260515T091858Z">
-        <seg>Es pot escollir una &lt;g1&gt;arma principal a dues mans&lt;/g1&gt; o **una arma principal a una mà i una arma secundària a una mà**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,26 +408,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.&lt;/g4&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T105743Z" creationid="Carlos" creationdate="20260515T105743Z">
-        <seg>La Competència només estableix quants daus de mal s'han de tirar i no afecta els altres modificadors fixos.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>RULINGS OVER RULES</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T163622Z" creationid="litus" creationdate="20260511T215721Z">
         <seg>EL RAONAMENT ABANS QUE EL REGLAMENT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Record your &lt;g1&gt;Armor Score&lt;/g1&gt; in the field at the top left of your character sheet.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T175157Z" creationid="Carlos" creationdate="20260516T175157Z">
-        <seg>Anota la &lt;g1&gt;Puntuació d'armadura&lt;/g1&gt; a la casella corresponent, que es troba a la part superior esquerra del full de personatge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -540,14 +468,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T234217Z" creationid="litus" creationdate="20260511T234217Z">
         <seg>Tria una Classe i agafa els fulls impresos corresponents: el &lt;g1&gt;full de personatge&lt;/g1&gt; i la &lt;g2&gt;guia de personatge&lt;/g2&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Select from the Tier 1 Weapon Tables.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T085805Z" creationid="Carlos" creationdate="20260515T085805Z">
-        <seg>Escull a les taules d'armes de Grau 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,14 +766,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T221700Z" creationid="litus" creationdate="20260513T221700Z">
         <seg>Cal fer una tirada d'Instint per ensumar el perill, percebre detalls de l'entorn o rastrejar un enemic esmunyedís.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your Armor Score is equal to your equipped armor's &lt;g2&gt;Base Score&lt;/g2&gt; plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T182924Z" creationid="Carlos" creationdate="20260516T182924Z">
-        <seg>La Puntuació d'armadura és igual a la &lt;g2&gt;Puntuació base&lt;/g2&gt; de l'armadura equipada més qualsevol bonificació permanent a la Puntuació d'armadura que el personatge tingui a causa d'altres capacitats, atributs o efectes.</seg>
       </tuv>
     </tu>
     <tu>

@@ -96,3 +96,16 @@ Stress	Estrès
 Stress	caselles d'Estrès
 Hope	punts d'Esperança
 Tier	Grau
+Proficiency	Competència
+damage	mal
+armor	armadura
+Active Armor	Armadura activa
+Threshold	Llindar
+Base Threshold	Llindar base
+character's level	Nivell de personatge
+Armor Score	Puntuació d'armadura
+abilities	capacitats
+ability	capacitat
+Base Score	Puntuació base
+bonus	bonificació
+Inventory	Inventari

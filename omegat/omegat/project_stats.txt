@@ -1,14 +1,14 @@
-15/5/26 9:51
+17/5/26 0:24
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
-Total:         	    8776	   83509	                  450215	                525803	      1	
-Restants:      	    8673	   81862	                  441228	                515278	      1	
-Únics:         	    6692	   77423	                  413341	                484922	      1	
-Únics restants:	    6590	   75777	                  404366	                474409	      1	
+Total:         	    8142	   83509	                  450849	                526437	      1	
+Restants:      	    8028	   81614	                  440554	                514370	      1	
+Únics:         	    6398	   78431	                  421865	                494165	      1	
+Únics restants:	    6285	   76537	                  411582	                482110	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8776	             8673	          6692	                   6590	          83509	            81862	           77423	                    75777	                         450215	                           441228	                        413341	                                 404366	                       525803	                         515278	                      484922	                               474409	
+DH-SRD-2025-09-09.md	           8142	             8028	          6398	                   6285	          83509	            81614	           78431	                    76537	                         450849	                           440554	                        421865	                                 411582	                       526437	                         514370	                      494165	                               482110	
