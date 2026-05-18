@@ -6,22 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; A player can reject a suggested connection for any reason, and it's okay if there isn't an established connection between every pair of PCs—you can always discover and develop those relationships through play.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T171107Z" creationid="Carlos" creationdate="20260518T170900Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; una jugadora pot rebutjar qualsevol Connexió suggerida per la raó que sigui i no passa res si no hi ha una Connexió establerta entre tots els PJ. Sempre es poden descobrir i desenvolupar aquests vincles durant la partida.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T114803Z" creationid="Carlos" creationdate="20260517T114803Z">
-        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; el Rerefons no té un efecte directe en la mecànica de joc, però influeix enormement en el personatge que s'interpretarà i en la preparació que farà la DJ.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Agility&lt;/g1&gt; (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191411Z" creationid="litus" creationdate="20260513T210907Z">
@@ -34,32 +18,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T203356Z" creationid="litus" creationdate="20260513T191738Z">
         <seg>&lt;g1&gt;Assigna les Característiques de personatge.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Ordenar aquestes seccions per ordre alfabètic.
-</note>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Backgrounds:&lt;/g1&gt; &lt;g2&gt;Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183935Z" creationid="Carlos" creationdate="20260517T183935Z">
-        <seg>&lt;g1&gt;Rerefons:&lt;/g1&gt; &lt;g2&gt;Assassí, Ferrer, Guardaespatlles, Caça-recompenses, Cuiner reial, Artista de circ, Estafador, Monarca caigut, Metge de campanya, Arxipreste, Mercader, Noble, Pirata, Polític, Fugitiu, Erudit, Mercenari, Soldat, Rondaller, Lladre, Rodamón.&lt;/g2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Characteristics:&lt;/g1&gt; &lt;g2&gt;Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185316Z" creationid="Carlos" creationdate="20260517T185316Z">
-        <seg>&lt;g1&gt;Característiques:&lt;/g1&gt; &lt;g2&gt;Afable, Endurit pel combat, Rata de biblioteca, Encisador, Covard, Amic de tothom, Servicial, Presència intimidant, Líder, Llop solitari, Lleial, Observador, Bromista, Parla dolça, Dits llargs, Tossut fins a l’extrem, Supervivent, Jove i ingenu.&lt;/g2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Choose Domain Cards.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T101415Z" creationid="Carlos" creationdate="20260518T101415Z">
-        <seg>&lt;g1&gt;Tria les cartes de Domini.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,38 +62,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;Create Your Background.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113812Z" creationid="Carlos" creationdate="20260517T113812Z">
-        <seg>&lt;g1&gt;Crea un Rerefons.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Create Your Connections.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165323Z" creationid="Carlos" creationdate="20260518T165323Z">
-        <seg>&lt;g1&gt;Crea les Connexions.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Create Your Experiences.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165850Z" creationid="Carlos" creationdate="20260517T165723Z">
-        <seg>&lt;g1&gt;Crea les Experiències.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;EXAMPLE EXPERIENCES&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183542Z" creationid="Carlos" creationdate="20260517T183542Z">
-        <seg>&lt;g1&gt;EXEMPLES D’EXPERIÈNCIES&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Evasion&lt;/g1&gt; represents your character's ability to avoid damage.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T061656Z" creationid="litus" creationdate="20260515T061656Z">
@@ -148,14 +74,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191432Z" creationid="litus" creationdate="20260513T215907Z">
         <seg>&lt;g1&gt;Subtilesa&lt;/g1&gt; (Es fa servir per dominar, amagar-se, manipular, etc.) Tenir una Subtilesa elevada vol dir ser expert en tasques que requereixen precisió, sigil o un control extrem.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;For example, "Lucky" and "Highly Skilled" are too broad, because they could be applied to virtually any roll.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183014Z" creationid="Carlos" creationdate="20260517T183014Z">
-        <seg>&lt;g1&gt;Per exemple, «Afortunat» o «Molt competent» són massa àmplies, ja que podrien aplicar-se pràcticament a qualsevol tirada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,14 +118,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;g1&gt;Phrases:&lt;/g1&gt; &lt;g2&gt;Catch Me If You Can, Fake It Till You Make It, First Time's the Charm, Hold the Line, I Won't Let You Down, I'll Catch You, I've Got Your Back, Knowledge Is Power, Nature's Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep's Clothing&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185554Z" creationid="Carlos" creationdate="20260517T185554Z">
-        <seg>&lt;g1&gt;Frases:&lt;/g1&gt; &lt;g2&gt;Agafa'm si pots, Fes-ho veure fins que ho aconsegueixis, A la primera va la vençuda, A primera línia, No et decebré, T'agafaré, Et guardo les espatlles, El coneixement és poder, Amic de la natura, Mai més, Que ningú es quedi enrere, Fica’t amb algú de la teva mida, L’espectacle ha de continuar, Això no és una negociació, Llop amb pell de xai.&lt;/g2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&lt;g1&gt;Presence&lt;/g1&gt; (Use it to Charm, Perform, Deceive, etc.) A high Presence means you have a strong force of personality and a facility for social situations.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191858Z" creationid="litus" creationdate="20260514T191232Z">
@@ -228,22 +138,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T103251Z" creationid="litus" creationdate="20260511T201042Z">
         <seg>&lt;g1&gt;DOCUMENT DE REFERÈNCIA DEL SISTEMA 1.0 (versió 09 Set. 2025)&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Skills:&lt;/g1&gt; &lt;g2&gt;Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185511Z" creationid="Carlos" creationdate="20260517T185511Z">
-        <seg>&lt;g1&gt;Habilitats:&lt;/g1&gt; &lt;g2&gt;Xiuxiuejador d’animals, Intercanviador hàbil, Punteria letal, Aprenent sagaç, Força increïble, Mentider, Peus lleugers, Negociador, Memòria fotogràfica, Mans ràpides, Manetes, Quincallaire, Rastrejador.&lt;/g2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>&lt;g1&gt;Specialties:&lt;/g1&gt; &lt;g2&gt;Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Swashbuckler, Tactician&lt;/g2&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185433Z" creationid="Carlos" creationdate="20260517T185433Z">
-        <seg>&lt;g1&gt;Especialitats:&lt;/g1&gt; &lt;g2&gt;Acròbata, Jugador, Sanador, Inventor, Historiador de la màgia, Cartògraf, Mestre de la disfressa, Navegant, Franctirador, Supervivent, Espadatxí, Estrateg.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,16 +176,8 @@
       <tuv lang="en-US">
         <seg>A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled "Gold &gt; Handfuls")</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112044Z" creationid="Carlos" creationdate="20260516T222441Z">
-        <seg>Una torxa, 15 metres (50 ft) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del full de personatge, on diu «Or &gt; Grapats»).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Accept any suggested connections you want to explore, reject any you don't.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170910Z" creationid="Carlos" creationdate="20260518T170716Z">
-        <seg>Aleshores, cada una accepta aquelles Connexions que l'interessi explorar i rebutja les que no.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T222441Z" creationid="Carlos" creationdate="20260516T222441Z">
+        <seg>Una torxa, 15 metres (50 peus) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del teu full de personatge, on diu ‘Or \&gt; Grapats’).</seg>
       </tuv>
     </tu>
     <tu>
@@ -324,22 +210,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201736Z" creationid="litus" creationdate="20260511T201736Z">
         <seg>Tots els drets reservats.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T181731Z" creationid="Carlos" creationdate="20260517T181731Z">
-        <seg>Una Experiència és una paraula o frase que resumeix un conjunt específic d'habilitats, trets de personalitat o aptituds que el personatge ha adquirit al llarg de la seva vida.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Any other GM-approved items you'd like to have at the start of the game</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113509Z" creationid="Carlos" creationdate="20260517T113509Z">
-        <seg>Amb l'aprovació de la DJ, qualsevol altre objecte que es vulgui tenir al començament de la partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,26 +278,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Choose two cards from your class's domains, which are listed in the upper left of your character sheet.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112759Z" creationid="Carlos" creationdate="20260518T112759Z">
-        <seg>Tria dues cartes dels Dominis de la Classe que es troben indicats a la part superior esquerra del full de personatge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Choose your &lt;g1&gt;weapon(s):&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T085706Z" creationid="litus" creationdate="20260515T063733Z">
         <seg>Tria les &lt;g1&gt;armes&lt;/g1&gt;:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Connections are the relationships between the PCs.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165329Z" creationid="Carlos" creationdate="20260518T165329Z">
-        <seg>Les Connexions representen les diferents relacions entre els PJ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,34 +302,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Develop your character's &lt;g1&gt;background&lt;/g1&gt; by answering the &lt;g2&gt;background questions&lt;/g2&gt; in your character guide, modifying or replacing them if they don't fit the character you want to play.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T114308Z" creationid="Carlos" creationdate="20260517T114308Z">
-        <seg>Desenvolupa el &lt;g1&gt;Rerefons&lt;/g1&gt; del personatge: respon les &lt;g2&gt;preguntes de Rerefons&lt;/g2&gt; de la guia de personatge. Es poden modificar o substituir si no encaixen amb el personatge que es vol interpretar.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Discuss potential connections between the PCs using the questions included in the "Connections" section of your character guide as inspiration.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170330Z" creationid="Carlos" creationdate="20260518T170330Z">
-        <seg>Tot seguit, es discuteixen les possibles Connexions entre els PJ fent servir com a inspiració les preguntes incloses en la secció «Connexions» de la guia de personatge.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters ("PCs") encounter.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T145415Z" creationid="litus" creationdate="20260511T203440Z">
         <seg>Durant una sessió de Corferida, la DJ descriu les escenes, narra els esdeveniments i controla els adversaris i els obstacles que els Personatges jugadors (PJs) es troben.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112621Z" creationid="Carlos" creationdate="20260517T112621Z">
-        <seg>Una Poció de salut menor (recupera 1d4 Punts de cop) o una Poció de resistència menor (recupera 1d4 caselles d'Estrès), tria'n una.</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,14 +366,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Go around the table and have each player describe their characters to one another—at a minimum, their name, pronouns, character description, experiences, and the answers to their background questions.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165743Z" creationid="Carlos" creationdate="20260518T165743Z">
-        <seg>Per torns, cada jugadora descriu el seu personatge a la resta (com a mínim el nom, pronoms, descripció del personatge, experiències i les respostes a les preguntes de rerefons).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Happy adventuring!</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T141052Z" creationid="litus" creationdate="20260511T202242Z">
@@ -556,14 +378,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201848Z" creationid="litus" creationdate="20260511T201848Z">
         <seg>INTRODUCCIÓ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If applicable, whichever class-specific item you selected to carry your spells</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113218Z" creationid="Carlos" creationdate="20260517T113218Z">
-        <seg>Si aplica, l'objecte específic de classe que s'hagi triat per portar els conjurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -588,14 +402,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111407Z" creationid="litus" creationdate="20260511T233805Z">
         <seg>La seva descripció no exclou explícitament intentar utilitzar-la per arrossegar tot un castell, però aquest efecte no tindria cap sentit en la narrativa.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165733Z" creationid="Carlos" creationdate="20260517T132614Z">
-        <seg>Si es prefereix, es pot deixar el passat del personatge més ambigu per ara i descobrir la seva història de fons a mesura que es juga.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,22 +452,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201318Z" creationid="litus" creationdate="20260511T201318Z">
         <seg>Maquetació: Matt Paquette &amp; Co.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Likewise, "Supersonic Flight" and "Invulnerable" imply game-breaking special abilities.&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183520Z" creationid="Carlos" creationdate="20260517T183018Z">
-        <seg>De la mateixa manera, «Vol supersònic» i «Invulnerable» impliquen habilitats especials que trencarien l'equilibri del joc.&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>One of the class-specific items listed on your character guide</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112920Z" creationid="Carlos" creationdate="20260517T112920Z">
-        <seg>Un dels objectes específics de classe que hi ha a la guia de personatge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,38 +536,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>STEP 6</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113528Z" creationid="Carlos" creationdate="20260517T113528Z">
-        <seg>SISÈ PAS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>STEP 7</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165703Z" creationid="Carlos" creationdate="20260517T165703Z">
-        <seg>SETÈ PAS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>STEP 8</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T093212Z" creationid="Carlos" creationdate="20260518T093212Z">
-        <seg>VUITÈ PAS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>STEP 9</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112924Z" creationid="Carlos" creationdate="20260518T112924Z">
-        <seg>NOVÈ PAS</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Select a class and take its corresponding &lt;g1&gt;character sheet&lt;/g1&gt; and &lt;g2&gt;character guide&lt;/g2&gt; printouts.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T234217Z" creationid="litus" creationdate="20260511T234217Z">
@@ -814,14 +572,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102640Z" creationid="litus" creationdate="20260511T233934Z">
         <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només fan aparició dins el joc o l'afecten a través de la interpretació), però altres són eleccions de mecàniques que determinen quines coses pot fer el PJ i en quines accions té més (o menys) probabilitats de tenir èxit al realitzar jugades i accions.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Suggest at least one connection between your character and each other player's PC.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170532Z" creationid="Carlos" creationdate="20260518T170532Z">
-        <seg>Cada jugadora proposa almenys una Connexió entre el seu personatge i el PJ de cadascuna de les altres jugadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,14 +648,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>There's no set list of Experiences to choose from, but an Experience can't be too broadly applicable and it can't grant your character specific mechanical benefits, such as magic spells or special abilities.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183120Z" creationid="Carlos" creationdate="20260517T182851Z">
-        <seg>No hi ha una llista específica d'Experiències entre les quals triar, però una Experiència no pot ser gaire àmplia ni atorgar beneficis mecànics específics com ara encanteris o habilitats especials.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>These sheets are for recording your PC's details; you'll update and reference them throughout the campaign.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111256Z" creationid="litus" creationdate="20260511T234222Z">
@@ -946,14 +688,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T132630Z" creationid="Carlos" creationdate="20260517T115205Z">
-        <seg>Al llarg de la creació de personatge, a mesura que aquest va prenent forma, es poden ajustar les eleccions fetes en passos anteriors perquè reflecteixin millor el seu Rerefons.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>To better understand the mechanics of Daggerheart, absent the flavor and setting information, so you can bend or break them in the process of making your own content.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T133106Z" creationid="litus" creationdate="20260511T202153Z">
@@ -966,14 +700,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T150432Z" creationid="Carlos" creationdate="20260513T150432Z">
         <seg>Per crear un Llinatge mixt, s'ha d'agafar l'atribut superior (el primer) d'un Llinatge i l'inferior (el segon) d'un altre.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>To create connections, follow these steps:</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165502Z" creationid="Carlos" creationdate="20260518T165502Z">
-        <seg>Per crear Connexions, segueix aquests passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,26 +786,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>When your PC makes a move, they can spend a Hope to add a relevant Experience's modifier to an action or reaction roll.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T182521Z" creationid="Carlos" creationdate="20260517T182036Z">
-        <seg>Quan el PJ faci una acció, pot gastar un punt d'Esperança per afegir el modificador d'una Experiència rellevant a una tirada d'acció o a una tirada de reacció.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>While playing Daggerheart, the GM and players should always prioritize rulings over rules.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T163958Z" creationid="litus" creationdate="20260511T215746Z">
         <seg>La DJ i les jugadores haurien de donar prioritat a les decisions per sobre de les regles quan juguin a Corferida.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You can take one card from each domain or two from a single domain, whichever you prefer.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112908Z" creationid="Carlos" creationdate="20260518T112908Z">
-        <seg>Es pot prendre una carta de cada domini o dos del mateix domini, com es prefereixi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1148,14 +858,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Your PC gets two Experiences at character creation, each with a +2 modifier.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T182733Z" creationid="Carlos" creationdate="20260517T182733Z">
-        <seg>Un PJ obté dues Experiències durant la seva creació, cadascuna amb un modificador de +2.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Your character has six traits that represent their physical, mental, and social aptitude:</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T210722Z" creationid="litus" creationdate="20260513T210722Z">
@@ -1184,14 +886,6 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T062312Z" creationid="litus" creationdate="20260515T062312Z">
         <seg>La Classe determina el seu valor inicial, que està indicat just sota la casella d'Evasió del full de personatge; copia aquest número a la casella corresponent.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Your class has access to two of the nine Domains included in the core set.</seg>
-      </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T103915Z" creationid="Carlos" creationdate="20260518T103915Z">
-        <seg>Cada Classe té accés a dos dels nou Dominis del repertori bàsic.</seg>
       </tuv>
     </tu>
     <tu>

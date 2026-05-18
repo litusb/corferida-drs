@@ -109,3 +109,21 @@ ability	capacitat
 Base Score	Puntuació base
 bonus	bonificació
 Inventory	Inventari
+handful of gold	grapat d'or
+Gold	Or
+Handfuls	Grapats
+Minor	menor
+clear	recuperar
+clear	recupera
+Health	salut
+Potion	Poció
+Stamina	resistència
+Background	Rerefons
+Experiences	Experiències
+Experience	Experiència
+skill	habilitat
+reaction roll	tirada de reacció
+modifier	modificador
+Domain Cards	cartes de Domini
+Domain	Domini
+Connections	Connexions
