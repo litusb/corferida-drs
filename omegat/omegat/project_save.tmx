@@ -264,6 +264,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;The 9 Domains are:&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205256Z" creationid="litus" creationdate="20260519T185225Z">
+        <seg>&lt;g1&gt;Els 9 Dominis són:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Welcome to DAGGERHEART,&lt;/g1&gt; &lt;g2&gt;a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T112853Z" creationid="litus" creationdate="20260511T201906Z">
@@ -284,6 +292,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112044Z" creationid="Carlos" creationdate="20260516T222441Z">
         <seg>Una torxa, 15 metres (50 ft) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del full de personatge, on diu «Or &gt; Grapats»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ARCANA</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205433Z" creationid="litus" creationdate="20260519T205433Z">
+        <seg>ARCÀ</seg>
       </tuv>
     </tu>
     <tu>
@@ -340,6 +356,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113509Z" creationid="Carlos" creationdate="20260517T113509Z">
         <seg>Amb l'aprovació de la DJ, qualsevol altre objecte que es vulgui tenir al començament de la partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arcana is the domain of &lt;g1&gt;innate and instinctual&lt;/g1&gt; magic.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205831Z" creationid="litus" creationdate="20260519T205553Z">
+        <seg>L'Arcà és el Domini de la màgia &lt;g1&gt;innata i instintiva&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arcana oﬀers wielders a volatile power, but it is incredibly potent when correctly channeled.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T210212Z" creationid="litus" creationdate="20260519T205819Z">
+        <seg>Aquest Domini ofereix un poder volàtil, però increïblement potent quan es canalitza correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +476,15 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T200908Z" creationid="litus" creationdate="20260511T200908Z">
         <seg>CORFERIDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Reordenar alfabèticament els Dominis en l'edició.</note>
+      <tuv lang="en-US">
+        <seg>DOMAINS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T185009Z" creationid="litus" creationdate="20260519T185009Z">
+        <seg>DOMINIS</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,10 +891,27 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Arcana domain can be accessed by the &lt;g2&gt;Druid&lt;/g2&gt; and &lt;g3&gt;Sorcerer&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T210145Z" creationid="litus" creationdate="20260519T210145Z">
+        <seg>El Domini Arcà està disponible per a les classes &lt;g2&gt;Druida&lt;/g2&gt; i &lt;g3&gt;Fetiller&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T134936Z" creationid="litus" creationdate="20260511T202206Z">
         <seg>El DRS de Corferida no substitueix el manual bàsic, que inclou detalls d'ambientació, exemples de regles suplementaris i una gran quantitat de consells útils per jugar a Corferida, així com una maquetació i material gràfic imponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>baralles, piles? Deck només apareix aquí en tot el text.</note>
+      <tuv lang="en-US">
+        <seg>The Daggerheart core set includes 9 Domain Decks, each comprising a collection of cards granting features or special abilities expressing a particular theme.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205346Z" creationid="litus" creationdate="20260519T185104Z">
+        <seg>El repertori bàsic de Corferida inclou 9 jocs de cartes de Domini, cada un conformat per una col·lecció de cartes que atorguen atributs o capacitats especials en relació amb una temàtica concreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +1008,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T233841Z" creationid="litus" creationdate="20260511T233841Z">
         <seg>Aquest tipus de conseqüències han de quedar clares abans de completar l'acció i sempre han de seguir la lògica del món.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205711Z" creationid="litus" creationdate="20260519T205711Z">
+        <seg>Els que trien aquest camí aprofiten les forces primigènies i enigmàtiques dels regnes per manipular tant la seva pròpia energia com la dels elements.</seg>
       </tuv>
     </tu>
     <tu>

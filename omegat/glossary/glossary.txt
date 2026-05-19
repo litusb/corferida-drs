@@ -127,3 +127,5 @@ modifier	modificador
 Domain Cards	cartes de Domini
 Domain	Domini
 Connections	Connexions
+core set	repertori bàsic
+Arcana	Arcà
