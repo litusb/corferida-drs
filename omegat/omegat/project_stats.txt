@@ -1,14 +1,14 @@
-19/5/26 23:04
+21/5/26 21:42
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
 Total:         	    8776	   83509	                  450215	                525803	      1	
-Restants:      	    8615	   80900	                  435774	                508923	      1	
+Restants:      	    8559	   80271	                  432273	                504839	      1	
 Únics:         	    6692	   77423	                  413341	                484922	      1	
-Únics restants:	    6532	   74815	                  398912	                468054	      1	
+Únics restants:	    6476	   74186	                  395411	                463970	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8776	             8615	          6692	                   6532	          83509	            80900	           77423	                    74815	                         450215	                           435774	                        413341	                                 398912	                       525803	                         508923	                      484922	                               468054	
+DH-SRD-2025-09-09.md	           8776	             8559	          6692	                   6476	          83509	            80271	           77423	                    74186	                         450215	                           432273	                        413341	                                 395411	                       525803	                         504839	                      484922	                               463970	

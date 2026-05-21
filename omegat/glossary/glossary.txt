@@ -27,7 +27,7 @@ Class	Classe
 Subclass	Subclasse
 feature	atribut
 class feature	atribut de classe
-domain card	carta de domini
+domain card	carta de Domini
 SRD	manual
 Bard	Bard
 Druid	Druida
@@ -129,3 +129,16 @@ Domain	Domini
 Connections	Connexions
 core set	repertori bàsic
 Arcana	Arcà
+Blade	Glavi
+Bone	Os
+Codex	Còdex
+Grace	Gràcia
+Midnight	Mitjanit
+Sage	Silvà
+Splendor	Esplendor
+Valor	Valor
+move	acció
+downtime	descansos
+Recall Cost	cost d'Evocació
+mark	marcar
+Vault	Reserva
