@@ -141,4 +141,8 @@ move	acció
 downtime	descansos
 Recall Cost	cost d'Evocació
 mark	marcar
-Vault	Reserva
+vault	reserva
+loadout	selecció
+abilities	habilitats
+spell	conjur
+grimoire	grimori

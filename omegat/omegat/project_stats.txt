@@ -1,14 +1,14 @@
-21/5/26 21:42
+22/5/26 1:02
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
 Total:         	    8776	   83509	                  450215	                525803	      1	
-Restants:      	    8559	   80271	                  432273	                504839	      1	
+Restants:      	    8549	   80106	                  431415	                503826	      1	
 Únics:         	    6692	   77423	                  413341	                484922	      1	
-Únics restants:	    6476	   74186	                  395411	                463970	      1	
+Únics restants:	    6466	   74021	                  394553	                462957	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8776	             8559	          6692	                   6476	          83509	            80271	           77423	                    74186	                         450215	                           432273	                        413341	                                 395411	                       525803	                         504839	                      484922	                               463970	
+DH-SRD-2025-09-09.md	           8776	             8549	          6692	                   6466	          83509	            80106	           77423	                    74021	                         450215	                           431415	                        413341	                                 394553	                       525803	                         503826	                      484922	                               462957	

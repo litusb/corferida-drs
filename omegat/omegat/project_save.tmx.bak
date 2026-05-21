@@ -168,6 +168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Feature.&lt;/g1&gt; The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225607Z" creationid="litus" creationdate="20260521T225607Z">
+        <seg>&lt;g1&gt;Atribut.&lt;/g1&gt; El text de la meitat inferior de la carta descriu els seus efectes, incloent-hi qualsevol regla especial que s'hagi de seguir en fer servir aquesta carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Finesse&lt;/g1&gt; (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191432Z" creationid="litus" creationdate="20260513T215907Z">
@@ -348,6 +356,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260519T205256Z" creationid="litus" creationdate="20260519T185225Z">
         <seg>&lt;g1&gt;Els 9 Dominis són:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Title.&lt;/g1&gt; The name of the card.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T223843Z" creationid="litus" creationdate="20260521T223843Z">
+        <seg>&lt;g1&gt;Títol.&lt;/g1&gt; El nom de la carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Type.&lt;/g1&gt; The card's &lt;g2&gt;type&lt;/g2&gt; is listed in the center above the title.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T224130Z" creationid="litus" creationdate="20260521T224130Z">
+        <seg>&lt;g1&gt;Tipus.&lt;/g1&gt; El &lt;g2&gt;tipus&lt;/g2&gt; de la carta s'indica al centre, sobre el títol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,6 +849,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grimoires are unique to the Codex domain and grant access to a collection of less potent spells.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225331Z" creationid="litus" creationdate="20260521T225129Z">
+        <seg>Els grimoris són exclusius del Domini Còdex i proporcionen accés a una col·lecció de conjurs menys potents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Happy adventuring!</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T141052Z" creationid="litus" creationdate="20260511T202242Z">
@@ -919,6 +951,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T120851Z" creationid="litus" creationdate="20260511T202040Z">
         <seg>és un recull dels elements que conformen la mecànica de joc, editat i organitzat d'una manera clara, concisa i fàcil de consultar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOADOUT &amp; VAULT</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225646Z" creationid="litus" creationdate="20260521T225646Z">
+        <seg>SELECCIÓ I RESERVA</seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,6 +1211,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some game mechanics only apply to certain types of cards.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225419Z" creationid="litus" creationdate="20260521T225419Z">
+        <seg>Algunes mecàniques de joc s'apliquen només a uns certs tipus de cartes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102640Z" creationid="litus" creationdate="20260511T233934Z">
@@ -1356,6 +1404,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are three types of domain cards: &lt;g3&gt;abilities, spells,&lt;/g3&gt; and &lt;g4&gt;grimoires.&lt;/g4&gt; Abilities are typically non-magical in nature, while spells are magical.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225109Z" creationid="litus" creationdate="20260521T225109Z">
+        <seg>Hi ha tres tipus de cartes de Domini: &lt;g3&gt;habilitats, conjurs&lt;/g3&gt; i &lt;g4&gt;grimoris&lt;/g4&gt;. Les habilitats són normalment de naturalesa no màgica, mentre que els conjurs sí que ho són.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's no set list of Experiences to choose from, but an Experience can't be too broadly applicable and it can't grant your character specific mechanical benefits, such as magic spells or special abilities.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183120Z" creationid="Carlos" creationdate="20260517T182851Z">
@@ -1398,12 +1454,8 @@
       <tuv lang="en-US">
         <seg>This is the amount of Stress a player must mark to swap this card from their &lt;g2&gt;vault&lt;/g2&gt; with a card from their &lt;g3&gt;loadout.&lt;/g3&gt; &lt;g4&gt;&lt;g5&gt;Note:&lt;/g5&gt; A player can swap domain cards during downtime without paying the domain card's Recall Cost.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260521T191912Z" creationid="litus" creationdate="20260521T191912Z">
-        <seg>Concretament, és el nombre de caselles d'Estrès que una jugadora ha de marcar per intercanviar aquesta carta de la **reserva** amb una carta del seu **equipament actiu**.
-
-
-
-**Nota:** una jugadora pot intercanviar cartes de domini durant un període de descans sense pagar el cost d'Evocació.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T223828Z" creationid="litus" creationdate="20260521T223828Z">
+        <seg>Aquest és el nombre de caselles d'Estrès que una jugadora ha de marcar per intercanviar aquesta carta de la &lt;g2&gt;reserva&lt;/g2&gt; amb una carta de la &lt;g3&gt;selecció&lt;/g3&gt; activa. &lt;g4&gt;&lt;g5&gt;Nota:&lt;/g5&gt; una jugadora pot intercanviar cartes de Domini durant els descansos sense pagar el seu cost d'Evocació.&lt;/g4&gt;</seg>
       </tuv>
     </tu>
     <tu>

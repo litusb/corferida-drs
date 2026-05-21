@@ -1,54 +1,24 @@
-#### cost d'Evocació
+### selecció I RESERVA
 
-El número al costat del llamp a la cantonada superior dreta indica el seu cost d'Evocació.
+El teu **selecció** és el conjunt de cartes de domini adquirides que el teu PJ té actives i pot fer servir durant la partida.
 
-Aquest és el nombre de caselles d'Estrès que ha de marcar una jugadora per intercanviar aquesta carta de la **reserva** amb una carta del seu **equipament actiu**.
+Pots tenir fins a 5 cartes de domini al teu selecció alhora.
 
-
-
-**Nota:** una jugadora pot intercanviar cartes de domini durant un període de descans sense pagar el cost d'Evocació.
-
-#### Títol
-
-El nom de la carta.
-
-#### Tipus
-
-El **tipus** de la carta apareix al centre, just sobre el títol.
-
-Hi ha tres tipus de cartes de domini: **habilitats**, **conjurs** i **grimoris**.
-
-Les habilitats acostumen a ser de naturalesa no màgica, mentre que els conjurs sí que ho són.
-
-Els grimoris són exclusius del domini Còdex i donen accés a una col·lecció de conjurs menys potents.
-
-Algunes mecàniques del joc només s'apliquen a uns certs tipus de cartes.
-
-#### Atribut
-
-El text a la meitat inferior de la carta descriu els seus efectes, incloent-hi qualsevol regla especial que hagis de seguir en fer servir aquesta carta.
-
-### EQUIPAMENT I RESERVA
-
-El teu **equipament** és el conjunt de cartes de domini adquirides que el teu PJ té actives i pot fer servir durant la partida.
-
-Pots tenir fins a 5 cartes de domini al teu equipament alhora.
-
-Una vegada que hagis adquirit sis o més cartes de domini, hauràs de triar-ne cinc per mantenir al teu equipament; la resta es troben a la teva **reserva**.
+Una vegada que hagis adquirit sis o més cartes de domini, hauràs de triar-ne cinc per mantenir al teu selecció; la resta es troben a la teva **reserva**.
 
 Les cartes a la reserva estan inactives i no influeixen en la partida.
 
-**Nota:** les teves cartes de subclasse, llinatge i comunitat no compten per al límit d'equipament ni de reserva i sempre estan actives i disponibles.
+**Nota:** les teves cartes de subclasse, llinatge i comunitat no compten per al límit d'selecció ni de reserva i sempre estan actives i disponibles.
 
-Al començament d'un descans, abans de dur a terme accions de descans, pots moure lliurement cartes entre el teu equipament i la teva reserva, sempre que no superis el màxim de cinc cartes a l'equipament.
+Al començament d'un descans, abans de dur a terme accions de descans, pots moure lliurement cartes entre el teu selecció i la teva reserva, sempre que no superis el màxim de cinc cartes a l'selecció.
 
-Per a moure una carta des de la teva reserva al teu equipament en qualsevol altre moment de la partida, has de marcar una quantitat de caselles d'Estrès igual al **cost d'Evocació** de la carta (indicat a la cantonada superior dreta al costat del símbol del llamp).
+Per a moure una carta des de la teva reserva al teu selecció en qualsevol altre moment de la partida, has de marcar una quantitat de caselles d'Estrès igual al **cost d'Evocació** de la carta (indicat a la cantonada superior dreta al costat del símbol del llamp).
 
-Si el teu equipament ja està complet, també has de moure una carta de l'equipament a la reserva per fer espai, encara que això ho pots fer sense cap cost.
+Si el teu selecció ja està complet, també has de moure una carta de l'selecció a la reserva per fer espai, encara que això ho pots fer sense cap cost.
 
-Quan puges de nivell i obtens una nova carta de domini, pots moure-la immediatament al teu equipament de manera gratuïta.
+Quan puges de nivell i obtens una nova carta de domini, pots moure-la immediatament al teu selecció de manera gratuïta.
 
-Si el teu equipament ja està ple, hauràs de moure una altra carta de l'equipament a la reserva per fer-hi espai.
+Si el teu selecció ja està ple, hauràs de moure una altra carta de l'selecció a la reserva per fer-hi espai.
 
 ### LÍMITS D'ÚS
 
@@ -2903,7 +2873,7 @@ L'**Evasió** representa la capacitat d'un personatge per evitar atacs i altres 
 
 Qualsevol tirada contra un PJ té una Dificultat igual a l'Evasió de l'objectiu.
 
-L'Evasió base d'un PJ és determinada per la seva classe, encara que es pot modificar mitjançant cartes de domini, equipament, condicions o altres efectes.
+L'Evasió base d'un PJ és determinada per la seva classe, encara que es pot modificar mitjançant cartes de domini, selecció, condicions o altres efectes.
 
 **Nota:** les tirades d’atac contra adversaris usen la Dificultat de l'objectiu en lloc de l’Evasió.
 
@@ -3178,7 +3148,7 @@ Si un descans llarg és interromput, els personatges només obtenen els benefici
 
 Un **descans curt** dura prou temps perquè el grup recuperi l'alè, aproximadament una hora dins el món.
 
-Cada jugadora pot moure cartes de domini entre el seu equipament i la seva reserva sense cost i, aleshores, triar dos cops d’entre la següent llista d’accions de descans (les jugadores poden escollir la mateixa acció dos cops):
+Cada jugadora pot moure cartes de domini entre el seu selecció i la seva reserva sense cost i, aleshores, triar dos cops d’entre la següent llista d’accions de descans (les jugadores poden escollir la mateixa acció dos cops):
 
 * **Curar ferides:** recupera 1d4+Grau Punts de Cop per a tu o un aliat.
 
@@ -3196,7 +3166,7 @@ Si et prepares amb un o més membres del teu grup, cadascun guanya 2 punts d’E
 
 Un **descans llarg** és quan els personatges fan campament i es relaxen o quan dormen durant diverses hores dins el joc.
 
-Cada jugadora pot moure cartes de domini entre el seu equipament i la seva reserva sense cost i, aleshores, triar dos cops d’entre la següent llista d’accions de descans (les jugadores poden escollir la mateixa acció dos cops):
+Cada jugadora pot moure cartes de domini entre el seu selecció i la seva reserva sense cost i, aleshores, triar dos cops d’entre la següent llista d’accions de descans (les jugadores poden escollir la mateixa acció dos cops):
 
 * **Curar totes les ferides:** recupera tots els Punts de Cop per a tu o un aliat.
 
@@ -3380,9 +3350,9 @@ Incrementa tots els llindars de mal en \+1.
 
 ### PAS 4 CARTES DE DOMINI
 
-Adquireix una nova carta de domini del teu nivell o inferior i d’un dels dominis de la teva classe i afegeix-la al teu equipament o reserva.
+Adquireix una nova carta de domini del teu nivell o inferior i d’un dels dominis de la teva classe i afegeix-la al teu selecció o reserva.
 
-Si el teu equipament ja està ple, no pots afegir la carta nova fins que moguis una altra a la teva reserva.
+Si el teu selecció ja està ple, no pots afegir la carta nova fins que moguis una altra a la teva reserva.
 
 També pots intercanviar una carta de domini adquirida prèviament per una altra carta de domini del mateix nivell o inferior.
 
