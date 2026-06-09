@@ -1,4 +1,4 @@
-22/5/26 1:02
+9/6/26 10:05
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	

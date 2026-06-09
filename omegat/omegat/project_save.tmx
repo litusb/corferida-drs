@@ -1648,8 +1648,8 @@
       <tuv lang="en-US">
         <seg>You can have up to 5 domain cards in your loadout at one time.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260521T230109Z" creationid="litus" creationdate="20260521T230109Z">
-        <seg>Es poden tenir fins a 5 cartes de Domini alhora a la selecció.</seg>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260609T080523Z" creationid="litus" creationdate="20260521T230109Z">
+        <seg>Es poden tenir fins a 5 cartes de Domini a la vegada a la selecció.</seg>
       </tuv>
     </tu>
     <tu>
