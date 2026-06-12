@@ -1,14 +1,14 @@
-9/6/26 10:05
+12/6/26 8:29
 Estadístiques del projecte
 
                	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
-Total:         	    8776	   83509	                  450215	                525803	      1	
-Restants:      	    8549	   80106	                  431415	                503826	      1	
-Únics:         	    6692	   77423	                  413341	                484922	      1	
-Únics restants:	    6466	   74021	                  394553	                462957	      1	
+Total:         	    8142	   83509	                  450849	                526437	      1	
+Restants:      	    7903	   79813	                  430681	                502811	      1	
+Únics:         	    6398	   78431	                  421865	                494165	      1	
+Únics restants:	    6160	   74736	                  401709	                470551	      1	
 
 
 Estadístiques per fitxer:
 
 Nom del fitxer      	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
-DH-SRD-2025-09-09.md	           8776	             8549	          6692	                   6466	          83509	            80106	           77423	                    74021	                         450215	                           431415	                        413341	                                 394553	                       525803	                         503826	                      484922	                               462957	
+DH-SRD-2025-09-09.md	           8142	             7903	          6398	                   6160	          83509	            79813	           78431	                    74736	                         450849	                           430681	                        421865	                                 401709	                       526437	                         502811	                      494165	                               470551	

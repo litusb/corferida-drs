@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; A player can reject a suggested connection for any reason, and it's okay if there isn't an established connection between every pair of PCs—you can always discover and develop those relationships through play.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T171107Z" creationid="Carlos" creationdate="20260518T170900Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; una jugadora pot rebutjar qualsevol Connexió suggerida per la raó que sigui i no passa res si no hi ha una Connexió establerta entre tots els PJ. Sempre es poden descobrir i desenvolupar aquests vincles durant la partida.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; Your background has no explicit mechanical effect, but it greatly affects the character you'll play and the prep the GM will do.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T114803Z" creationid="Carlos" creationdate="20260517T114803Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; el Rerefons no té un efecte directe en la mecànica de joc, però influeix enormement en el personatge que s'interpretarà i en la preparació que farà la DJ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Agility&lt;/g1&gt; (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191411Z" creationid="litus" creationdate="20260513T210907Z">
@@ -18,6 +34,40 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T203356Z" creationid="litus" creationdate="20260513T191738Z">
         <seg>&lt;g1&gt;Assigna les Característiques de personatge.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Ordenar aquestes seccions per ordre alfabètic.
+</note>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Backgrounds:&lt;/g1&gt; &lt;g2&gt;Assassin, Blacksmith, Bodyguard, Bounty Hunter, Chef to the Royal Family, Circus Performer, Con Artist, Fallen Monarch, Field Medic, High Priestess, Merchant, Noble, Pirate, Politician, Runaway, Scholar, Sellsword, Soldier, Storyteller, Thief, World Traveler&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183935Z" creationid="Carlos" creationdate="20260517T183935Z">
+        <seg>&lt;g1&gt;Rerefons:&lt;/g1&gt; &lt;g2&gt;Assassí, Ferrer, Guardaespatlles, Caça-recompenses, Cuiner reial, Artista de circ, Estafador, Monarca caigut, Metge de campanya, Arxipreste, Mercader, Noble, Pirata, Polític, Fugitiu, Erudit, Mercenari, Soldat, Rondaller, Lladre, Rodamón.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Bard:&lt;/g1&gt; Codex &amp; Grace</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182119Z" creationid="litus" creationdate="20260521T182119Z">
+        <seg>&lt;g1&gt;Bard:&lt;/g1&gt; Còdex i Gràcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Characteristics:&lt;/g1&gt; &lt;g2&gt;Affable, Battle-Hardened, Bookworm, Charming, Cowardly, Friend to All, Helpful, Intimidating Presence, Leader, Lone Wolf, Loyal, Observant, Prankster, Silver Tongue, Sticky Fingers, Stubborn to a Fault, Survivor, Young and Naive&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185316Z" creationid="Carlos" creationdate="20260517T185316Z">
+        <seg>&lt;g1&gt;Característiques:&lt;/g1&gt; &lt;g2&gt;Afable, Endurit pel combat, Rata de biblioteca, Encisador, Covard, Amic de tothom, Servicial, Presència intimidant, Líder, Llop solitari, Lleial, Observador, Bromista, Parla dolça, Dits llargs, Tossut fins a l’extrem, Supervivent, Jove i ingenu.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Choose Domain Cards.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T101415Z" creationid="Carlos" creationdate="20260518T101415Z">
+        <seg>&lt;g1&gt;Tria les cartes de Domini.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +112,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Create Your Background.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113812Z" creationid="Carlos" creationdate="20260517T113812Z">
+        <seg>&lt;g1&gt;Crea un Rerefons.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Create Your Connections.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165323Z" creationid="Carlos" creationdate="20260518T165323Z">
+        <seg>&lt;g1&gt;Crea les Connexions.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Create Your Experiences.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165850Z" creationid="Carlos" creationdate="20260517T165723Z">
+        <seg>&lt;g1&gt;Crea les Experiències.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Domain.&lt;/g1&gt; Beneath the card's level there is a symbol indicating its domain.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T190143Z" creationid="litus" creationdate="20260521T190143Z">
+        <seg>&lt;g1&gt;Domini.&lt;/g1&gt; Sota el Nivell de la carta hi ha un símbol que indica a quin Domini pertany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Druid:&lt;/g1&gt; Arcana &amp; Sage</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182208Z" creationid="litus" creationdate="20260521T182208Z">
+        <seg>&lt;g1&gt;Druida:&lt;/g1&gt; Arcà i Silvà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;EXAMPLE EXPERIENCES&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183542Z" creationid="Carlos" creationdate="20260517T183542Z">
+        <seg>&lt;g1&gt;EXEMPLES D’EXPERIÈNCIES&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Evasion&lt;/g1&gt; represents your character's ability to avoid damage.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T061656Z" creationid="litus" creationdate="20260515T061656Z">
@@ -70,10 +168,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Feature.&lt;/g1&gt; The text on the bottom half of the card describes its feature(s), including any special rules you need to follow when you use that card.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225607Z" creationid="litus" creationdate="20260521T225607Z">
+        <seg>&lt;g1&gt;Atribut.&lt;/g1&gt; El text de la meitat inferior de la carta descriu els seus efectes, incloent-hi qualsevol regla especial que s'hagi de seguir en fer servir aquesta carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Finesse&lt;/g1&gt; (Use it to Control, Hide, Tinker, etc.) A high Finesse means you're skilled at tasks that require accuracy, stealth, or the utmost control.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191432Z" creationid="litus" creationdate="20260513T215907Z">
         <seg>&lt;g1&gt;Subtilesa&lt;/g1&gt; (Es fa servir per dominar, amagar-se, manipular, etc.) Tenir una Subtilesa elevada vol dir ser expert en tasques que requereixen precisió, sigil o un control extrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;For example, "Lucky" and "Highly Skilled" are too broad, because they could be applied to virtually any roll.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183014Z" creationid="Carlos" creationdate="20260517T183014Z">
+        <seg>&lt;g1&gt;Per exemple, «Afortunat» o «Molt competent» són massa àmplies, ja que podrien aplicar-se pràcticament a qualsevol tirada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Guardian:&lt;/g1&gt; Blade &amp; Valor</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182224Z" creationid="litus" creationdate="20260521T182224Z">
+        <seg>&lt;g1&gt;Guardià:&lt;/g1&gt; Glavi i Valor</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +232,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Level.&lt;/g1&gt; The number in the top left of the card indicates the card's level.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T185922Z" creationid="litus" creationdate="20260521T185922Z">
+        <seg>&lt;g1&gt;Nivell.&lt;/g1&gt; El número a la cantonada superior esquerra de la carta indica el seu Nivell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Note: You can fill in your character's name, pronouns, and Character Description details at any point of the character creation process.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111314Z" creationid="litus" creationdate="20260511T233945Z">
         <seg>&lt;g1&gt;**Nota:** pots escriure el nom, els pronoms i la descripció del personatge en qualsevol moment del procés de creació.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Phrases:&lt;/g1&gt; &lt;g2&gt;Catch Me If You Can, Fake It Till You Make It, First Time's the Charm, Hold the Line, I Won't Let You Down, I'll Catch You, I've Got Your Back, Knowledge Is Power, Nature's Friend, Never Again, No One Left Behind, Pick on Someone Your Own Size, The Show Must Go On, This Is Not a Negotiation, Wolf in Sheep's Clothing&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185554Z" creationid="Carlos" creationdate="20260517T185554Z">
+        <seg>&lt;g1&gt;Frases:&lt;/g1&gt; &lt;g2&gt;Agafa'm si pots, Fes-ho veure fins que ho aconsegueixis, A la primera va la vençuda, A primera línia, No et decebré, T'agafaré, Et guardo les espatlles, El coneixement és poder, Amic de la natura, Mai més, Que ningú es quedi enrere, Fica’t amb algú de la teva mida, L’espectacle ha de continuar, Això no és una negociació, Llop amb pell de xai.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +264,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Ranger:&lt;/g1&gt; Bone &amp; Sage</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182237Z" creationid="litus" creationdate="20260521T182237Z">
+        <seg>&lt;g1&gt;Muntaner:&lt;/g1&gt; Os i Silvà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Recall Cost.&lt;/g1&gt; The number and lightning bolt in the top right of the card shows its Recall Cost.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T191548Z" creationid="litus" creationdate="20260521T190849Z">
+        <seg>&lt;g1&gt;Cost d'Evocació.&lt;/g1&gt; El número al costat del llamp, a la cantonada superior dreta de la carta, indica el seu cost d'Evocació.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Record Additional Character Information.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T061317Z" creationid="litus" creationdate="20260515T061317Z">
@@ -134,10 +288,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Rogue:&lt;/g1&gt; Grace &amp; Midnight</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182300Z" creationid="litus" creationdate="20260521T182300Z">
+        <seg>&lt;g1&gt;Murri:&lt;/g1&gt; Gràcia i Mitjanit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;SYSTEM REFERENCE DOCUMENT 1.0 (VER SEP-09-2025)&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T103251Z" creationid="litus" creationdate="20260511T201042Z">
         <seg>&lt;g1&gt;DOCUMENT DE REFERÈNCIA DEL SISTEMA 1.0 (versió 09 Set. 2025)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Seraph:&lt;/g1&gt; Splendor &amp; Valor</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182313Z" creationid="litus" creationdate="20260521T182313Z">
+        <seg>&lt;g1&gt;Serafí:&lt;/g1&gt; Esplendor i Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Skills:&lt;/g1&gt; &lt;g2&gt;Animal Whisperer, Barter, Deadly Aim, Fast Learner, Incredible Strength, Liar, Light Feet, Negotiator, Photographic Memory, Quick Hands, Repair, Scavenger, Tracker&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185511Z" creationid="Carlos" creationdate="20260517T185511Z">
+        <seg>&lt;g1&gt;Habilitats:&lt;/g1&gt; &lt;g2&gt;Xiuxiuejador d’animals, Intercanviador hàbil, Punteria letal, Aprenent sagaç, Força increïble, Mentider, Peus lleugers, Negociador, Memòria fotogràfica, Mans ràpides, Manetes, Quincallaire, Rastrejador.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Sorcerer:&lt;/g1&gt; Arcana &amp; Midnight</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182322Z" creationid="litus" creationdate="20260521T182322Z">
+        <seg>&lt;g1&gt;Fetiller:&lt;/g1&gt; Arcà i Mitjanit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Specialties:&lt;/g1&gt; &lt;g2&gt;Acrobat, Gambler, Healer, Inventor, Magical Historian, Mapmaker, Master of Disguise, Navigator, Sharpshooter, Survivalist, Swashbuckler, Tactician&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T185433Z" creationid="Carlos" creationdate="20260517T185433Z">
+        <seg>&lt;g1&gt;Especialitats:&lt;/g1&gt; &lt;g2&gt;Acròbata, Jugador, Sanador, Inventor, Historiador de la màgia, Cartògraf, Mestre de la disfressa, Navegant, Franctirador, Supervivent, Espadatxí, Estrateg.&lt;/g2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +352,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;The 9 Domains are:&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205256Z" creationid="litus" creationdate="20260519T185225Z">
+        <seg>&lt;g1&gt;Els 9 Dominis són:&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Title.&lt;/g1&gt; The name of the card.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T223843Z" creationid="litus" creationdate="20260521T223843Z">
+        <seg>&lt;g1&gt;Títol.&lt;/g1&gt; El nom de la carta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Type.&lt;/g1&gt; The card's &lt;g2&gt;type&lt;/g2&gt; is listed in the center above the title.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T224130Z" creationid="litus" creationdate="20260521T224130Z">
+        <seg>&lt;g1&gt;Tipus.&lt;/g1&gt; El &lt;g2&gt;tipus&lt;/g2&gt; de la carta s'indica al centre, sobre el títol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Warrior:&lt;/g1&gt; Blade &amp; Bone</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182332Z" creationid="litus" creationdate="20260521T182332Z">
+        <seg>&lt;g1&gt;Guerrer:&lt;/g1&gt; Glavi i Os</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Welcome to DAGGERHEART,&lt;/g1&gt; &lt;g2&gt;a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.&lt;/g2&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T112853Z" creationid="litus" creationdate="20260511T201906Z">
         <seg>&lt;g1&gt;Benvinguda a CORFERIDA (Daggerheart),&lt;/g1&gt;&lt;g2&gt; un joc de rol de fantasia cooperatiu ple de màgia extraordinària i de peripècies heroiques emotives.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Wizard:&lt;/g1&gt; Codex &amp; Splendor</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182344Z" creationid="litus" creationdate="20260521T182344Z">
+        <seg>&lt;g1&gt;Mag:&lt;/g1&gt; Còdex i Esplendor</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +410,24 @@
       <tuv lang="en-US">
         <seg>A torch, 50 feet of rope, basic supplies, and a handful of gold (mark one box in the left-hand column of your character sheet titled "Gold &gt; Handfuls")</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T222441Z" creationid="Carlos" creationdate="20260516T222441Z">
-        <seg>Una torxa, 15 metres (50 peus) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del teu full de personatge, on diu ‘Or \&gt; Grapats’).</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112044Z" creationid="Carlos" creationdate="20260516T222441Z">
+        <seg>Una torxa, 15 metres (50 ft) de corda, subministraments bàsics i un grapat d'or (marca una casella a la columna esquerra del full de personatge, on diu «Or &gt; Grapats»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ARCANA</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205433Z" creationid="litus" creationdate="20260519T205433Z">
+        <seg>ARCÀ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accept any suggested connections you want to explore, reject any you don't.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170910Z" creationid="Carlos" creationdate="20260518T170716Z">
+        <seg>Aleshores, cada una accepta aquelles Connexions que l'interessi explorar i rebutja les que no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adherents to Bone gain an unparalleled understanding of bodies and their movements.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T171749Z" creationid="litus" creationdate="20260521T171749Z">
+        <seg>Els adeptes de l'Os assoleixen una comprensió insòlita del cos i els seus moviments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All PCs start with 2 Hope; mark these in the Hope field of your character sheet.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T063530Z" creationid="litus" creationdate="20260515T063530Z">
@@ -210,6 +468,38 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201736Z" creationid="litus" creationdate="20260511T201736Z">
         <seg>Tots els drets reservats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An Experience is a word or phrase used to encapsulate a specific set of skills, personality traits, or aptitudes your character has acquired over the course of their life.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T181731Z" creationid="Carlos" creationdate="20260517T181731Z">
+        <seg>Una Experiència és una paraula o frase que resumeix un conjunt específic d'habilitats, trets de personalitat o aptituds que el personatge ha adquirit al llarg de la seva vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any other GM-approved items you'd like to have at the start of the game</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113509Z" creationid="Carlos" creationdate="20260517T113509Z">
+        <seg>Amb l'aprovació de la DJ, qualsevol altre objecte que es vulgui tenir al començament de la partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arcana is the domain of &lt;g1&gt;innate and instinctual&lt;/g1&gt; magic.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173233Z" creationid="litus" creationdate="20260519T205553Z">
+        <seg>Arcà és el Domini de la màgia &lt;g1&gt;innata i instintiva&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arcana oﬀers wielders a volatile power, but it is incredibly potent when correctly channeled.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T210212Z" creationid="litus" creationdate="20260519T205819Z">
+        <seg>Aquest Domini ofereix un poder volàtil, però increïblement potent quan es canalitza correctament.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +544,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BLADE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T164700Z" creationid="litus" creationdate="20260521T164700Z">
+        <seg>GLAVI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BONE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T170637Z" creationid="litus" creationdate="20260521T170637Z">
+        <seg>OS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blade is the domain of &lt;g1&gt;weapon mastery.&lt;/g1&gt; Whether by steel, bow, or perhaps a more specialized arm, those who follow this path have the skill to cut short the lives of others.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173240Z" creationid="litus" creationdate="20260521T165927Z">
+        <seg>Glavi és el Domini de la &lt;g1&gt;mestria amb les armes&lt;/g1&gt;. Els que segueixen aquest camí tenen l'habilitat de retallar les vides dels altres ja sigui amb l'acer, un arc, o potser una arma més especialitzada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bone is the domain of &lt;g1&gt;tactics and the body.&lt;/g1&gt; Practitioners of this domain have an uncanny control over their own physical abilities and an eye for predicting the behaviors of others in combat.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173244Z" creationid="litus" creationdate="20260521T171234Z">
+        <seg>Os és el Domini de &lt;g1&gt;la tàctica i el cos&lt;/g1&gt;. Els practicants d'aquest Domini posseeixen un control inexplicable de les seves pròpies capacitats físiques i un ull viu per predir la conducta dels altres en combat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHARACTER CREATION</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T233913Z" creationid="litus" creationdate="20260511T233913Z">
         <seg>CREACIÓ DE PERSONATGES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CLASS DOMAINS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181714Z" creationid="litus" creationdate="20260521T181714Z">
+        <seg>DOMINIS PER CLASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CODEX</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T172211Z" creationid="litus" creationdate="20260521T172211Z">
+        <seg>CÒDEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CORE MATERIALS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T171623Z" creationid="Carlos" creationdate="20260518T171623Z">
+        <seg>MATERIAL BÀSIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +624,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose two cards from your class's domains, which are listed in the upper left of your character sheet.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112759Z" creationid="Carlos" creationdate="20260518T112759Z">
+        <seg>Tria dues cartes dels Dominis de la Classe que es troben indicats a la part superior esquerra del full de personatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose your &lt;g1&gt;weapon(s):&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260515T085706Z" creationid="litus" creationdate="20260515T063733Z">
         <seg>Tria les &lt;g1&gt;armes&lt;/g1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Codex is the domain of &lt;g1&gt;intensive magical study.&lt;/g1&gt; Those who seek magical knowledge turn to the equations of power recorded in books, written on scrolls, etched into walls, or tattooed on bodies.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173300Z" creationid="litus" creationdate="20260521T172431Z">
+        <seg>Còdex és el Domini de &lt;g1&gt;l'estudi màgic intensiu&lt;/g1&gt;. Els que busquen el coneixement màgic fan ús d'equacions de poder registrades en llibres, escrites en rotlles, gravades a les parets o tatuades a la pell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Codex offers a commanding and versatile understanding of magic to devotees who pursue knowledge beyond the boundaries of common wisdom.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T172628Z" creationid="litus" creationdate="20260521T172628Z">
+        <seg>El Còdex ofereix una comprensió poderosa i versàtil de la màgia als devots que persegueixen el coneixement més enllà dels límits de la saviesa comuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connections are the relationships between the PCs.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165329Z" creationid="Carlos" creationdate="20260518T165329Z">
+        <seg>Les Connexions representen les diferents relacions entre els PJ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +672,31 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DOMAIN CARD ANATOMY</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T185712Z" creationid="litus" creationdate="20260521T185712Z">
+        <seg>ESTRUCTURA D'UNA CARTA DE DOMINI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DOMAIN CARDS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182713Z" creationid="litus" creationdate="20260521T182713Z">
+        <seg>CARTES DE DOMINI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Reordenar alfabèticament els Dominis en l'edició.</note>
+      <tuv lang="en-US">
+        <seg>DOMAINS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T185009Z" creationid="litus" creationdate="20260519T185009Z">
+        <seg>DOMINIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Daggerheart is a tabletop roleplaying game for one Game Master ("GM") and 2-5 players.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T142047Z" creationid="litus" creationdate="20260511T203327Z">
@@ -302,10 +705,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Develop your character's &lt;g1&gt;background&lt;/g1&gt; by answering the &lt;g2&gt;background questions&lt;/g2&gt; in your character guide, modifying or replacing them if they don't fit the character you want to play.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T114308Z" creationid="Carlos" creationdate="20260517T114308Z">
+        <seg>Desenvolupa el &lt;g1&gt;Rerefons&lt;/g1&gt; del personatge: respon les &lt;g2&gt;preguntes de Rerefons&lt;/g2&gt; de la guia de personatge. Es poden modificar o substituir si no encaixen amb el personatge que es vol interpretar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discuss potential connections between the PCs using the questions included in the "Connections" section of your character guide as inspiration.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170330Z" creationid="Carlos" creationdate="20260518T170330Z">
+        <seg>Tot seguit, es discuteixen les possibles Connexions entre els PJ fent servir com a inspiració les preguntes incloses en la secció «Connexions» de la guia de personatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters ("PCs") encounter.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T145415Z" creationid="litus" creationdate="20260511T203440Z">
         <seg>Durant una sessió de Corferida, la DJ descriu les escenes, narra els esdeveniments i controla els adversaris i els obstacles que els Personatges jugadors (PJs) es troben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EITHER a Minor Health Potion (clear 1d4 Hit Points) OR a Minor Stamina Potion (clear 1d4 Stress)</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112621Z" creationid="Carlos" creationdate="20260517T112621Z">
+        <seg>Una Poció de salut menor (recupera 1d4 Punts de cop) o una Poció de resistència menor (recupera 1d4 caselles d'Estrès), tria'n una.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each class grants access to two domains:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182045Z" creationid="litus" creationdate="20260521T182045Z">
+        <seg>Cada Classe permet accedir a dos Dominis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each domain card includes six elements:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T185811Z" creationid="litus" creationdate="20260521T185742Z">
+        <seg>Cada carta de Domini conté sis elements:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each domain card provides one or more features your PC can utilize during their adventures.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T183237Z" creationid="litus" creationdate="20260521T183237Z">
+        <seg>Cada carta de Domini proporciona un o més atributs que el teu PJ pot fer servir durant les seves aventures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +817,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GRACE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T172815Z" creationid="litus" creationdate="20260521T172815Z">
+        <seg>GRÀCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go around the table and have each player describe their characters to one another—at a minimum, their name, pronouns, character description, experiences, and the answers to their background questions.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165743Z" creationid="Carlos" creationdate="20260518T165743Z">
+        <seg>Per torns, cada jugadora descriu el seu personatge a la resta (com a mínim el nom, pronoms, descripció del personatge, experiències i les respostes a les preguntes de rerefons).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grace is the domain of &lt;g1&gt;charisma.&lt;/g1&gt; Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173827Z" creationid="litus" creationdate="20260521T173224Z">
+        <seg>Gràcia és el Domini del &lt;g1&gt;carisma&lt;/g1&gt;. A través de rondalles engrescadores, encanteris encisadors o un tel de mentides, els que canalitzen aquest poder defineixen la realitat dels seus adversaris, esculpint la percepció a la seva voluntat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grace offers its wielders raw magnetism and mastery over language.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173643Z" creationid="litus" creationdate="20260521T173643Z">
+        <seg>La Gràcia atorga als seus portadors pur magnetisme i mestria del llenguatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grimoires are unique to the Codex domain and grant access to a collection of less potent spells.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225331Z" creationid="litus" creationdate="20260521T225129Z">
+        <seg>Els grimoris són exclusius del Domini Còdex i proporcionen accés a una col·lecció de conjurs menys potents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Happy adventuring!</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T141052Z" creationid="litus" creationdate="20260511T202242Z">
@@ -378,6 +869,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201848Z" creationid="litus" creationdate="20260511T201848Z">
         <seg>INTRODUCCIÓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If applicable, whichever class-specific item you selected to carry your spells</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113218Z" creationid="Carlos" creationdate="20260517T113218Z">
+        <seg>Si aplica, l'objecte específic de classe que s'hagi triat per portar els conjurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +901,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111407Z" creationid="litus" creationdate="20260511T233805Z">
         <seg>La seva descripció no exclou explícitament intentar utilitzar-la per arrossegar tot un castell, però aquest efecte no tindria cap sentit en la narrativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you wish, you can leave your character's past more ambiguous for the time being and discover their backstory through play.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165733Z" creationid="Carlos" creationdate="20260517T132614Z">
+        <seg>Si es prefereix, es pot deixar el passat del personatge més ambigu per ara i descobrir la seva història de fons a mesura que es juga.&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,10 +955,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LOADOUT &amp; VAULT</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225646Z" creationid="litus" creationdate="20260521T225646Z">
+        <seg>SELECCIÓ I RESERVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Layout: Matt Paquette &amp; Co.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201318Z" creationid="litus" creationdate="20260511T201318Z">
         <seg>Maquetació: Matt Paquette &amp; Co.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Likewise, "Supersonic Flight" and "Invulnerable" imply game-breaking special abilities.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183520Z" creationid="Carlos" creationdate="20260517T183018Z">
+        <seg>De la mateixa manera, «Vol supersònic» i «Invulnerable» impliquen habilitats especials que trencarien l'equilibri del joc.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MIDNIGHT</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173751Z" creationid="litus" creationdate="20260521T173751Z">
+        <seg>MITJANIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Midnight is the domain of &lt;g1&gt;shadows and secrecy.&lt;/g1&gt; Whether by clever tricks, deft magic, or the cloak of night, those who channel these forces practice the art of obscurity and can uncover sequestered treasures.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T174059Z" creationid="litus" creationdate="20260521T173817Z">
+        <seg>Mitjanit és el Domini de &lt;g1&gt;les ombres i els secrets&lt;/g1&gt;. Ja sigui mitjançant trucs picardiosos, màgia astuta o l'empara de la nit, els que canalitzen aquestes forces practiquen l'art de la foscor i poden desvelar tresors remots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Midnight offers practitioners the power to control and create enigmas.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T174122Z" creationid="litus" creationdate="20260521T174122Z">
+        <seg>La Mitjanit ofereix als seus practicants el poder de controlar i crear enigmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One of the class-specific items listed on your character guide</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T112920Z" creationid="Carlos" creationdate="20260517T112920Z">
+        <seg>Un dels objectes específics de classe que hi ha a la guia de personatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Others offer passive effects, new downtime or social encounter abilities, or one-time benefits.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T185639Z" creationid="litus" creationdate="20260521T183735Z">
+        <seg>altres ofereixen efectes passius, noves capacitats per trobades socials o per descansos, o avantatges puntuals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCs acquire two 1st-level domain cards at character creation and an additional domain card at or below their level each time they level up.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T182658Z" creationid="litus" creationdate="20260521T182658Z">
+        <seg>Els PJ obtenen dues cartes de Domini de Nivell 1 durant la creació de personatge i una carta de Domini addicional (del seu Nivell o inferior) cada vegada que pugen de Nivell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -484,6 +1055,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T175157Z" creationid="Carlos" creationdate="20260516T175157Z">
         <seg>Anota la &lt;g1&gt;Puntuació d'armadura&lt;/g1&gt; a la casella corresponent, que es troba a la part superior esquerra del full de personatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAGE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180150Z" creationid="litus" creationdate="20260521T180150Z">
+        <seg>SILVÀ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPLENDOR</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180806Z" creationid="litus" creationdate="20260521T180806Z">
+        <seg>ESPLENDOR</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,6 +1123,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STEP 6</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113528Z" creationid="Carlos" creationdate="20260517T113528Z">
+        <seg>SISÈ PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STEP 7</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T165703Z" creationid="Carlos" creationdate="20260517T165703Z">
+        <seg>SETÈ PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STEP 8</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T093212Z" creationid="Carlos" creationdate="20260518T093212Z">
+        <seg>VUITÈ PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>STEP 9</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112924Z" creationid="Carlos" creationdate="20260518T112924Z">
+        <seg>NOVÈ PAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sage grants its adherents the vitality of a blooming flower and the ferocity of a ravenous predator.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180600Z" creationid="litus" creationdate="20260521T180600Z">
+        <seg>El Silvà concedeix als seus seguidors la vitalitat d'una flor que despunta i la ferocitat d'un depredador voraç.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sage is the domain &lt;g1&gt;of the natural world.&lt;/g1&gt; Those who walk this path tap into the unfettered power of the earth and its creatures to unleash raw magic.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180538Z" creationid="litus" creationdate="20260521T180538Z">
+        <seg>Silvà és el Domini de &lt;g1&gt;la natura&lt;/g1&gt;. Els que recorren aquest sender aprofiten el poder il·limitat de la terra i les seves criatures per desfermar màgia pura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a class and take its corresponding &lt;g1&gt;character sheet&lt;/g1&gt; and &lt;g2&gt;character guide&lt;/g2&gt; printouts.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T234217Z" creationid="litus" creationdate="20260511T234217Z">
@@ -568,10 +1203,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some domain cards provide moves you can make, such as a unique attack or a spell.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T183550Z" creationid="litus" creationdate="20260521T183550Z">
+        <seg>Algunes cartes de Domini proporcionen accions que pots fer, com un atac únic o un encanteri;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some game mechanics only apply to certain types of cards.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225419Z" creationid="litus" creationdate="20260521T225419Z">
+        <seg>Algunes mecàniques de joc s'apliquen només a uns certs tipus de cartes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they're more (or less) likely to succeed at when making moves and taking action.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T102640Z" creationid="litus" creationdate="20260511T233934Z">
         <seg>Algunes d'aquestes decisions són purament narratives (és a dir, només fan aparició dins el joc o l'afecten a través de la interpretació), però altres són eleccions de mecàniques que determinen quines coses pot fer el PJ i en quines accions té més (o menys) probabilitats de tenir èxit al realitzar jugades i accions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splendor is the domain of &lt;g1&gt;life.&lt;/g1&gt; Through this magic, followers gain the ability to heal and, to an extent, control death.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180957Z" creationid="litus" creationdate="20260521T180957Z">
+        <seg>Esplendor és el Domini de &lt;g1&gt;la vida&lt;/g1&gt;. Mitjançant aquesta màgia, els seus seguidors aconsegueixen la capacitat de guarir i, fins a un cert punt, controlar la mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splendor offers its disciples the magnificent ability to both give and end life.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181142Z" creationid="litus" creationdate="20260521T181142Z">
+        <seg>L'Esplendor atorga als seus deixebles la magnífica capacitat de donar vida i acabar amb ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Suggest at least one connection between your character and each other player's PC.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T170532Z" creationid="Carlos" creationdate="20260518T170532Z">
+        <seg>Cada jugadora proposa almenys una Connexió entre el seu personatge i el PJ de cadascuna de les altres jugadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,10 +1267,51 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Arcana domain can be accessed by the &lt;g2&gt;Druid&lt;/g2&gt; and &lt;g3&gt;Sorcerer&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T210145Z" creationid="litus" creationdate="20260519T210145Z">
+        <seg>El Domini Arcà està disponible per a les classes &lt;g2&gt;Druida&lt;/g2&gt; i &lt;g3&gt;Fetiller&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Blade domain can be accessed by the &lt;g2&gt;Guardian&lt;/g2&gt; and &lt;g3&gt;Warrior&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T170315Z" creationid="litus" creationdate="20260521T170315Z">
+        <seg>El Domini del Glavi està disponible per a les classes &lt;g2&gt;Guardià&lt;/g2&gt; i &lt;g3&gt;Guerrer&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Bone domain can be accessed by the &lt;g2&gt;Ranger&lt;/g2&gt; &amp; &lt;g3&gt;Warrior&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T172028Z" creationid="litus" creationdate="20260521T172028Z">
+        <seg>El Domini de l'Os està disponible per a les classes &lt;g2&gt;Muntaner&lt;/g2&gt; i &lt;g3&gt;Guerrer&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Codex domain can be accessed by the &lt;g2&gt;Bard&lt;/g2&gt; and &lt;g3&gt;Wizard&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T172716Z" creationid="litus" creationdate="20260521T172716Z">
+        <seg>El Domini del Còdex està disponible per a les classes &lt;g2&gt;Bard&lt;/g2&gt; i &lt;g3&gt;Mag&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Daggerheart SRD is not a replacement for the core rulebook, which contains setting information, additional examples of various gameplay elements, and tons of great advice for playing Daggerheart—not to mention gorgeous artwork and layout.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T134936Z" creationid="litus" creationdate="20260511T202206Z">
         <seg>El DRS de Corferida no substitueix el manual bàsic, que inclou detalls d'ambientació, exemples de regles suplementaris i una gran quantitat de consells útils per jugar a Corferida, així com una maquetació i material gràfic imponents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>baralles, piles? Deck només apareix aquí en tot el text.</note>
+      <tuv lang="en-US">
+        <seg>The Daggerheart core set includes 9 Domain Decks, each comprising a collection of cards granting features or special abilities expressing a particular theme.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205346Z" creationid="litus" creationdate="20260519T185104Z">
+        <seg>El repertori bàsic de Corferida inclou 9 jocs de cartes de Domini, cada un conformat per una col·lecció de cartes que atorguen atributs o capacitats especials en relació amb una temàtica concreta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -604,6 +1320,46 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T151414Z" creationid="litus" creationdate="20260511T215553Z">
         <seg>Es tiren els Daus de dualitat, se sumen els modificadors pertinents al resultat i es compara el total amb la Dificultat establerta per la DJ. Si el total iguala o supera la Dificultat, la jugadora té èxit;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Grace domain can be accessed by the &lt;g2&gt;Bard&lt;/g2&gt; and &lt;g3&gt;Rogue&lt;/g3&gt; classes</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T173728Z" creationid="litus" creationdate="20260521T173728Z">
+        <seg>El Domini de la Gràcia està disponible per a les classes &lt;g2&gt;Bard&lt;/g2&gt; i &lt;g3&gt;Murri&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Midnight domain can be accessed by the &lt;g2&gt;Rogue&lt;/g2&gt; and &lt;g3&gt;Sorcerer&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T174202Z" creationid="litus" creationdate="20260521T174202Z">
+        <seg>El Domini de la Mitjanit està disponible per a les classes &lt;g2&gt;Murri&lt;/g2&gt; i &lt;g3&gt;Fetiller&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Sage domain can be accessed by the &lt;g2&gt;Druid&lt;/g2&gt; and &lt;g3&gt;Ranger&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T180631Z" creationid="litus" creationdate="20260521T180631Z">
+        <seg>El Domini Silvà està disponible per a les classes &lt;g2&gt;Druida&lt;/g2&gt; i &lt;g3&gt;Muntaner&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Splendor domain can be accessed by the &lt;g2&gt;Seraph&lt;/g2&gt; and &lt;g3&gt;Wizard&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181242Z" creationid="litus" creationdate="20260521T181242Z">
+        <seg>El Domini Esplendor està disponible per a les classes &lt;g2&gt;Serafí&lt;/g2&gt; i &lt;g3&gt;Mag&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Valor domain can be accessed by the &lt;g2&gt;Guardian&lt;/g2&gt; and &lt;g3&gt;Seraph&lt;/g3&gt; classes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181656Z" creationid="litus" creationdate="20260521T181656Z">
+        <seg>El Domini del Valor està disponible per a les classes &lt;g2&gt;Guardià&lt;/g2&gt; i &lt;g3&gt;Serafí&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,6 +1404,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are three types of domain cards: &lt;g3&gt;abilities, spells,&lt;/g3&gt; and &lt;g4&gt;grimoires.&lt;/g4&gt; Abilities are typically non-magical in nature, while spells are magical.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T225109Z" creationid="litus" creationdate="20260521T225109Z">
+        <seg>Hi ha tres tipus de cartes de Domini: &lt;g3&gt;habilitats, conjurs&lt;/g3&gt; i &lt;g4&gt;grimoris&lt;/g4&gt;. Les habilitats són normalment de naturalesa no màgica, mentre que els conjurs sí que ho són.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's no set list of Experiences to choose from, but an Experience can't be too broadly applicable and it can't grant your character specific mechanical benefits, such as magic spells or special abilities.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T183120Z" creationid="Carlos" creationdate="20260517T182851Z">
+        <seg>No hi ha una llista específica d'Experiències entre les quals triar, però una Experiència no pot ser gaire àmplia ni atorgar beneficis mecànics específics com ara encanteris o habilitats especials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These sheets are for recording your PC's details; you'll update and reference them throughout the campaign.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T111256Z" creationid="litus" creationdate="20260511T234222Z">
@@ -680,10 +1452,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the amount of Stress a player must mark to swap this card from their &lt;g2&gt;vault&lt;/g2&gt; with a card from their &lt;g3&gt;loadout.&lt;/g3&gt; &lt;g4&gt;&lt;g5&gt;Note:&lt;/g5&gt; A player can swap domain cards during downtime without paying the domain card's Recall Cost.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T223828Z" creationid="litus" creationdate="20260521T223828Z">
+        <seg>Aquest és el nombre de caselles d'Estrès que una jugadora ha de marcar per intercanviar aquesta carta de la &lt;g2&gt;reserva&lt;/g2&gt; amb una carta de la &lt;g3&gt;selecció&lt;/g3&gt; activa. &lt;g4&gt;&lt;g5&gt;Nota:&lt;/g5&gt; una jugadora pot intercanviar cartes de Domini durant els descansos sense pagar el seu cost d'Evocació.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This kind of consequence should be made clear before the action is completed, and it should always follow the logic of the world.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T233841Z" creationid="litus" creationdate="20260511T233841Z">
         <seg>Aquest tipus de conseqüències han de quedar clares abans de completar l'acció i sempre han de seguir la lògica del món.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who choose this path tap into the raw, enigmatic forces of the realms to manipulate both their own energy and the elements.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260519T205711Z" creationid="litus" creationdate="20260519T205711Z">
+        <seg>Els que trien aquest camí aprofiten les forces primigènies i enigmàtiques dels regnes per manipular tant la seva pròpia energia com la dels elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Throughout character creation, you can adjust choices you made in earlier steps to better reflect this background as your character takes shape.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T132630Z" creationid="Carlos" creationdate="20260517T115205Z">
+        <seg>Al llarg de la creació de personatge, a mesura que aquest va prenent forma, es poden ajustar les eleccions fetes en passos anteriors perquè reflecteixin millor el seu Rerefons.</seg>
       </tuv>
     </tu>
     <tu>
@@ -700,6 +1496,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T150432Z" creationid="Carlos" creationdate="20260513T150432Z">
         <seg>Per crear un Llinatge mixt, s'ha d'agafar l'atribut superior (el primer) d'un Llinatge i l'inferior (el segon) d'un altre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create connections, follow these steps:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T165502Z" creationid="Carlos" creationdate="20260518T165502Z">
+        <seg>Per crear Connexions, segueix aquests passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -733,6 +1537,30 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T101816Z" creationid="litus" creationdate="20260511T233925Z">
         <seg>Cada jugadora crea el seu PJ mitjançant una sèrie de decisions guiades, o també pot fer servir personatges pregenerats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VALOR</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181459Z" creationid="litus" creationdate="20260521T181459Z">
+        <seg>VALOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valor is the domain of &lt;g1&gt;protection&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181528Z" creationid="litus" creationdate="20260521T181528Z">
+        <seg>Valor és el Domini de &lt;g1&gt;la protecció&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valor oﬀers great power to those who raise their shields in defense of others.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181617Z" creationid="litus" creationdate="20260521T181617Z">
+        <seg>El Valor ofereix un gran poder a aquells que aixequen els seus escuts en defensa dels altres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +1614,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When your PC makes a move, they can spend a Hope to add a relevant Experience's modifier to an action or reaction roll.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T182521Z" creationid="Carlos" creationdate="20260517T182036Z">
+        <seg>Quan el PJ faci una acció, pot gastar un punt d'Esperança per afegir el modificador d'una Experiència rellevant a una tirada d'acció o a una tirada de reacció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T181552Z" creationid="litus" creationdate="20260521T181552Z">
+        <seg>Sigui a través de l'atac o la defensa, els que trien aquesta disciplina canalitzen una força formidable per protegir els seus aliats en la batalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>While playing Daggerheart, the GM and players should always prioritize rulings over rules.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T163958Z" creationid="litus" creationdate="20260511T215746Z">
@@ -794,10 +1638,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wielders of Blade dedicate themselves to achieving inexorable power over death.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T170203Z" creationid="litus" creationdate="20260521T170203Z">
+        <seg>Els portadors del Glavi es consagren a aconseguir un poder inexorable sobre la mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can have up to 5 domain cards in your loadout at one time.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T230109Z" creationid="litus" creationdate="20260521T230109Z">
+        <seg>Es poden tenir fins a 5 cartes de Domini alhora a la selecció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can only choose cards from your class's two domains.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T190256Z" creationid="litus" creationdate="20260521T190256Z">
+        <seg>Només es poden triar cartes dels dos Dominis de la Classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can take one card from each domain or two from a single domain, whichever you prefer.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T112908Z" creationid="Carlos" creationdate="20260518T112908Z">
+        <seg>Es pot prendre una carta de cada domini o dos del mateix domini, com es prefereixi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can use this SRD in several ways:</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T160614Z" creationid="litus" creationdate="20260511T202047Z">
         <seg>Pots fer servir el manual de joc per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot acquire a domain card with a level higher than your PC's.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T190035Z" creationid="litus" creationdate="20260521T190035Z">
+        <seg>No es pot obtenir una carta de Domini d'un Nivell superior al del PJ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,10 +1734,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Your &lt;g1&gt;loadout&lt;/g1&gt; is the set of acquired domain cards whose effects your PC can use during play.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="litus" changedate="20260521T230002Z" creationid="litus" creationdate="20260521T230002Z">
+        <seg>La &lt;g1&gt;selecció&lt;/g1&gt; és el conjunt de cartes de Domini adquirides l'efecte de les quals un PJ pot fer servir durant la partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Armor Score is equal to your equipped armor's &lt;g2&gt;Base Score&lt;/g2&gt; plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T182924Z" creationid="Carlos" creationdate="20260516T182924Z">
         <seg>La Puntuació d'armadura és igual a la &lt;g2&gt;Puntuació base&lt;/g2&gt; de l'armadura equipada més qualsevol bonificació permanent a la Puntuació d'armadura que el personatge tingui a causa d'altres capacitats, atributs o efectes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your PC gets two Experiences at character creation, each with a +2 modifier.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T182733Z" creationid="Carlos" creationdate="20260517T182733Z">
+        <seg>Un PJ obté dues Experiències durant la seva creació, cadascuna amb un modificador de +2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +1786,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T062312Z" creationid="litus" creationdate="20260515T062312Z">
         <seg>La Classe determina el seu valor inicial, que està indicat just sota la casella d'Evasió del full de personatge; copia aquest número a la casella corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your class has access to two of the nine Domains included in the core set.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T103915Z" creationid="Carlos" creationdate="20260518T103915Z">
+        <seg>Cada Classe té accés a dos dels nou Dominis del repertori bàsic.</seg>
       </tuv>
     </tu>
     <tu>
