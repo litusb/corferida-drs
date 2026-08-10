@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Make a Scene:&lt;/g2&gt;&lt;/g1&gt; &lt;g3&gt;Spend 3 Hope&lt;/g3&gt; to temporarily &lt;g4&gt;Distract&lt;/g4&gt; a target within Close range, giving them a -2 penalty to their Difficulty.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T160124Z" creationid="Carlos" creationdate="20260805T160124Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Armar un escàndol:&lt;/g2&gt;&lt;/g1&gt; &lt;g3&gt;gasta 3 punts d'Esperança per &lt;/g3&gt;Distreure&lt;g4&gt; temporalment un objectiu dins d’un abast Proper i aplica una penalització de -2 a la seva Dificultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; A player can reject a suggested connection for any reason, and it's okay if there isn't an established connection between every pair of PCs—you can always discover and develop those relationships through play.&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260518T171107Z" creationid="Carlos" creationdate="20260518T170900Z">
@@ -38,10 +46,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Rally:&lt;/g2&gt;&lt;/g1&gt; Once per session, describe how you rally the party and give yourself and each of your allies a Rally Die.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162424Z" creationid="Carlos" creationdate="20260805T161609Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Atiar:&lt;/g2&gt;&lt;/g1&gt; un cop per sessió, descriu com encoratges el grup; aleshores, tant els teus aliats com tu guanyeu un Dau d'Atiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Access to Domains:&lt;/g1&gt; Each class grants access to two domains; players choose cards from these domains during character creation and when leveling up.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T213558Z" creationid="Carlos" creationdate="20260609T213558Z">
-        <seg>&lt;g1&gt;L'accés</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110251Z" creationid="Carlos" creationdate="20260609T213558Z">
+        <seg>&lt;g1&gt;Accés als Dominis:&lt;/g1&gt; cada Classe proporciona accés a dos Dominis dels quals les jugadores trien cartes de Domini quan creen el seu personatge i quan puja de Nivell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +66,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191411Z" creationid="litus" creationdate="20260513T210907Z">
         <seg>&lt;g1&gt;Agilitat&lt;/g1&gt; (Es fa servir per esprintar, saltar, maniobrar, etc.) Posseir una bona Agilitat significa tenir els peus lleugers, ser àgil en terrenys difícils i reaccionar ràpidament al perill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Answer any of the following background questions.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182100Z" creationid="Carlos" creationdate="20260805T182100Z">
+        <seg>&lt;g1&gt;Respon a qualsevol de les següents preguntes de rerefons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Ask your fellow players one of the following questions for their character to answer, or create your own questions.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182356Z" creationid="Carlos" creationdate="20260805T182356Z">
+        <seg>&lt;g1&gt;Fes als teus companys una de les següents preguntes perquè el seu personatge respongui, o crea les teves pròpies preguntes:&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,6 +108,30 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182119Z" creationid="litus" creationdate="20260521T182119Z">
         <seg>&lt;g1&gt;Bard:&lt;/g1&gt; Còdex i Gràcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Beastform:&lt;/g1&gt; Mark a Stress to magically transform into a creature of your tier or lower from the Beastform list.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073700Z" creationid="Carlos" creationdate="20260806T073700Z">
+        <seg>&lt;g1&gt;Forma salvatge:&lt;/g1&gt; marca una casella d'Estrès per transformar-te màgicament en una criatura del teu Grau o inferior de la llista de Formes salvatges.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;CLASS ITEMS -&lt;/g1&gt; A romance novel or a letter never opened</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142537Z" creationid="Carlos" creationdate="20260804T142537Z">
+        <seg>&lt;g1&gt;OBJECTES DE CLASSE -&lt;/g1&gt; una novel·la romàntica o una carta mai oberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;CLASS ITEMS -&lt;/g1&gt; A small bag of rocks and bones or a strange pendant found in the dirt</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T071740Z" creationid="Carlos" creationdate="20260806T071740Z">
+        <seg>&lt;g1&gt;OBJECTES DE CLASSE -&lt;/g1&gt; una petita bossa amb pedres i ossos o un penjoll estrany trobat en la terra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,6 +184,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Choose either the &lt;g2&gt;Troubadour&lt;/g2&gt; or &lt;g3&gt;Wordsmith&lt;/g3&gt; subclass.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162849Z" creationid="Carlos" creationdate="20260805T162849Z">
+        <seg>&lt;g1&gt; entre la subclasse &lt;g2&gt;Trobador&lt;/g2&gt; o &lt;g3&gt;Dramaturg&lt;/g3&gt;.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Class Feature(s)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110441Z" creationid="Carlos" creationdate="20260618T110441Z">
+        <seg>&lt;g1&gt;Atributs de classe&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Class Hope Feature,&lt;/g1&gt; a class feature that costs 3 Hope to activate.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110653Z" creationid="Carlos" creationdate="20260618T110653Z">
+        <seg>&lt;g1&gt;Atribut d'Esperança de la Classe&lt;/g1&gt;, una habilitat que requereix 3 punts d'Esperança per activar-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Classes&lt;/g1&gt; are role-based archetypes that determine which class features and &lt;g2&gt;domain cards&lt;/g2&gt; a PC gains access to throughout the campaign.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T105747Z" creationid="litus" creationdate="20260511T234122Z">
@@ -160,6 +240,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;DOMAINS -&lt;/g1&gt; Grace &amp; Codex</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142430Z" creationid="Carlos" creationdate="20260804T142409Z">
+        <seg>&lt;g1&gt;DOMINIS -&lt;/g1&gt; Gràcia i Còdex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;DOMAINS -&lt;/g1&gt; Sage &amp; Arcana</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T071539Z" creationid="Carlos" creationdate="20260806T071539Z">
+        <seg>&lt;g1&gt;DOMINIS -&lt;/g1&gt; Silvà i Arcà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Domain.&lt;/g1&gt; Beneath the card's level there is a symbol indicating its domain.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T190143Z" creationid="litus" creationdate="20260521T190143Z">
@@ -184,10 +280,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Eloquent.&lt;/g1&gt; Your moving words boost morale.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171414Z" creationid="Carlos" creationdate="20260805T171414Z">
+        <seg>&lt;g1&gt;Eloqüent:&lt;/g1&gt; les teves paraules emotives aixequen l'ànim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Epic Poetry.&lt;/g1&gt; Your Rally Die increases to a &lt;g2&gt;d10.&lt;/g2&gt; Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T181917Z" creationid="Carlos" creationdate="20260805T171745Z">
+        <seg>&lt;g1&gt;Poesia èpica.&lt;/g1&gt; El teu Dau d'Atiar passa a ser un &lt;g2&gt;d10.&lt;/g2&gt; A més, quan facis l'acció Ajudar un aliat, pots narrar el moment com si estiguessis escrivint la història de la seva heroïcitat a les teves memòries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Epic Song:&lt;/g1&gt; Make a target within Close range temporarily &lt;g2&gt;Vulnerable.&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163735Z" creationid="Carlos" creationdate="20260805T163735Z">
+        <seg>&lt;g1&gt;Cançó èpica:&lt;/g1&gt; un objectiu dins d'un abast Proper esdevé temporalment *Vulnerable*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Evasion&lt;/g1&gt; represents your character's ability to avoid damage.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T061656Z" creationid="litus" creationdate="20260515T061656Z">
         <seg>L’&lt;g1&gt;Evasió&lt;/g1&gt; representa la capacitat del personatge per a evitar danys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Evolution:&lt;/g1&gt; &lt;g2&gt;Spend 3 Hope&lt;/g2&gt; to transform into a Beastform without marking a Stress.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T071925Z" creationid="Carlos" creationdate="20260806T071925Z">
+        <seg>&lt;g1&gt;Evolució:&lt;/g1&gt; &lt;g2&gt;gasta 3 punts d'Esperança&lt;/g2&gt; per transformar-te en una Forma salvatge sense marcar cap casella d’Estrès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,10 +344,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Gifted Performer:&lt;/g1&gt; You can play three different types of songs, once each per long rest; describe how you perform for others to gain the listed benefit:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163225Z" creationid="Carlos" creationdate="20260805T163225Z">
+        <seg>&lt;g1&gt;Intèrpret dotat:&lt;/g1&gt; pots tocar tres tipus diferents de cançons, cadascuna un sol cop per descans llarg. Descriu com actues perquè els altres obtinguin el següent benefici:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Guardian:&lt;/g1&gt; Blade &amp; Valor</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182224Z" creationid="litus" creationdate="20260521T182224Z">
         <seg>&lt;g1&gt;Guardià:&lt;/g1&gt; Glavi i Valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Heart of a Poet:&lt;/g1&gt; After you make an action roll to impress, persuade, or offend someone, you can &lt;g2&gt;spend a Hope&lt;/g2&gt; to add a &lt;g3&gt;d4&lt;/g3&gt; to the roll.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171307Z" creationid="Carlos" creationdate="20260805T171307Z">
+        <seg>&lt;g1&gt;Cor de poeta:&lt;/g1&gt; després de fer una tirada d'acció per impressionar, persuadir o provocar algú, pots &lt;g2&gt;gastar un punt d’Esperança&lt;/g2&gt; per afegir un &lt;g3&gt;d4&lt;/g3&gt; a la tirada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Heartbreaking Song:&lt;/g1&gt; You and all allies within Close range gain a Hope.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163817Z" creationid="Carlos" creationdate="20260805T163817Z">
+        <seg>&lt;g1&gt;Cançó punyent:&lt;/g1&gt; tu i tots els aliats dins d'un abast Proper obteniu un punt d'Esperança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -260,6 +412,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T185922Z" creationid="litus" creationdate="20260521T185922Z">
         <seg>&lt;g1&gt;Nivell.&lt;/g1&gt; El número a la cantonada superior esquerra de la carta indica el seu Nivell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Maestro.&lt;/g1&gt; Your rallying songs steel the courage of those who listen.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163940Z" creationid="Carlos" creationdate="20260805T163940Z">
+        <seg>&lt;g1&gt;Mestre:&lt;/g1&gt; les teves cançons d’atiar infonen coratge a qui les escolta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,10 +472,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Relaxing Song:&lt;/g1&gt; You and all allies within Close range clear a Hit Point.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163612Z" creationid="Carlos" creationdate="20260805T163442Z">
+        <seg>&lt;g1&gt;Cançó relaxant:&lt;/g1&gt; tu i tots els aliats dins d'un abast Proper recupereu un Punt de cop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Rogue:&lt;/g1&gt; Grace &amp; Midnight</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182300Z" creationid="litus" creationdate="20260521T182300Z">
         <seg>&lt;g1&gt;Murri:&lt;/g1&gt; Gràcia i Mitjanit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Rousing Speech:&lt;/g1&gt; Once per long rest, you can give a heartfelt, inspiring speech.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171009Z" creationid="Carlos" creationdate="20260805T171009Z">
+        <seg>&lt;g1&gt;Discurs inspirador:&lt;/g1&gt; una vegada per descans llarg, pots fer un discurs inspirador i apassionat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;STARTING EVASION -&lt;/g1&gt; 10</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142443Z" creationid="Carlos" creationdate="20260804T142423Z">
+        <seg>&lt;g1&gt;EVASIÓ INICIAL -&lt;/g1&gt; 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;STARTING HIT POINTS -&lt;/g1&gt; 5</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142506Z" creationid="Carlos" creationdate="20260804T142506Z">
+        <seg>&lt;g1&gt;PUNTS DE COP INICIALS -&lt;/g1&gt; 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;STARTING HIT POINTS -&lt;/g1&gt; 6</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T071712Z" creationid="Carlos" creationdate="20260806T071712Z">
+        <seg>&lt;g1&gt;PUNTS DE COP INICIALS -&lt;/g1&gt; 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;SUGGESTED TRAITS -&lt;/g1&gt; 0, -1, +1, 0, +2, +1</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142737Z" creationid="Carlos" creationdate="20260804T142737Z">
+        <seg>&lt;g1&gt;VALORS SUGGERITS -&lt;/g1&gt; 0, -1, +1, 0, +2, +1</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,6 +568,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Starting Evasion and Hit Points (HP)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110348Z" creationid="Carlos" creationdate="20260618T110348Z">
+        <seg>&lt;g1&gt;Evasió inicial i Punts de cop (PC)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Starting Items&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110408Z" creationid="Carlos" creationdate="20260618T110408Z">
+        <seg>&lt;g1&gt;Equipament inicial&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Strength&lt;/g1&gt; (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191358Z" creationid="litus" creationdate="20260513T214704Z">
@@ -400,6 +624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Virtuoso.&lt;/g1&gt; You are among the greatest of your craft and your skill is boundless.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T164044Z" creationid="Carlos" creationdate="20260805T164044Z">
+        <seg>&lt;g1&gt;Virtuós:&lt;/g1&gt; ets dels millors en el teu art i el teu talent no té límits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Warrior:&lt;/g1&gt; Blade &amp; Bone</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182332Z" creationid="litus" creationdate="20260521T182332Z">
@@ -428,6 +660,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T213542Z" creationid="Carlos" creationdate="20260609T213542Z">
         <seg>Una &lt;g1&gt;Classe&lt;/g1&gt; és un arquetip de personatge de rol que determina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A PC can spend their Rally Die to roll it, adding the result to their action roll, reaction roll, damage roll, or to clear a number of Stress equal to the result.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T161754Z" creationid="Carlos" creationdate="20260805T161754Z">
+        <seg>Un PJ pot gastar el seu Dau d'Atiar per fer una tirada i sumar el resultat a una tirada d'acció, una tirada de reacció, una tirada de mal o per recuperar una quantitat de caselles d'Estrès igual al resultat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,10 +736,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All allies within Far range clear 2 Stress.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171142Z" creationid="Carlos" creationdate="20260805T171142Z">
+        <seg>Tots els aliats dins d'un abast Llunyà recuperen dues caselles d'Estrès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All rights reserved.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T201736Z" creationid="litus" creationdate="20260511T201736Z">
         <seg>Tots els drets reservats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow them to find a mundane object or tool they need.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171442Z" creationid="Carlos" creationdate="20260805T171442Z">
+        <seg>Fer que trobi un objecte mundà o una eina que necessiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,10 +832,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At level 1, your Rally Die is a &lt;g3&gt;d6&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T161633Z" creationid="Carlos" creationdate="20260805T161633Z">
+        <seg>A nivell 1, el Dau d'Atiar és un &lt;g3&gt;d6&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At level 5, your Rally Die increases to a &lt;g4&gt;d8&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T161822Z" creationid="Carlos" creationdate="20260805T161822Z">
+        <seg>A nivell 5, el Dau d'Atiar s’incrementa a un &lt;g4&gt;d8&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of each session, clear all unspent Rally Dice.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T161812Z" creationid="Carlos" creationdate="20260805T161812Z">
+        <seg>Al final de cada sessió, es perden tots els Daus d'Atiar no usats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the start of a rest, before using downtime moves, you can freely move cards between your loadout and your vault, so long as your loadout doesn't exceed its five-card maximum.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T115511Z" creationid="Carlos" creationdate="20260609T114718Z">
         <seg>Al l'inici d'un descans i abans de dur a terme cap acció de descans, es poden intercanviar cartes entre la selecció i la reserva lliurement, sense superar, en cap cas, el límit màxim de cinc cartes a la selecció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BACKGROUND QUESTIONS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182041Z" creationid="Carlos" creationdate="20260805T182041Z">
+        <seg>PREGUNTES DE REREFONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BARD SUBCLASSES</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162812Z" creationid="Carlos" creationdate="20260805T162812Z">
+        <seg>SUBCLASSES DE BARD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BARD'S HOPE FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T155538Z" creationid="Carlos" creationdate="20260805T155538Z">
+        <seg>ATRIBUT D'ESPERANÇA DEL BARD</seg>
       </tuv>
     </tu>
     <tu>
@@ -596,6 +900,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T170637Z" creationid="litus" creationdate="20260521T170637Z">
         <seg>OS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bards are the most charismatic people in all the realms.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142009Z" creationid="Carlos" creationdate="20260804T142009Z">
+        <seg>Els bards són els éssers més carismàtics de tots els regnes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182757Z" creationid="Carlos" creationdate="20260805T182757Z">
+        <seg>Ser druida és molt més que una feina: és una vocació per als qui desitgen aprendre la màgia de la natura salvatge i protegir-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,10 +952,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CLASS FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T160145Z" creationid="Carlos" creationdate="20260805T160145Z">
+        <seg>ATRIBUT DE CLASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CLASS FEATURES</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073600Z" creationid="Carlos" creationdate="20260806T073600Z">
+        <seg>ATRIBUTS DE CLASSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CODEX</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T172211Z" creationid="litus" creationdate="20260521T172211Z">
         <seg>CÒDEX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CONNECTIONS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182331Z" creationid="Carlos" creationdate="20260805T182331Z">
+        <seg>CONNEXIONS</seg>
       </tuv>
     </tu>
     <tu>
@@ -737,6 +1081,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DRUID</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182502Z" creationid="Carlos" creationdate="20260805T182502Z">
+        <seg>DRUIDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DRUID'S HOPE FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T071812Z" creationid="Carlos" creationdate="20260806T071812Z">
+        <seg>ATRIBUT D'ESPERANÇA DEL DRUIDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Daggerheart is a tabletop roleplaying game for one Game Master ("GM") and 2-5 players.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T142047Z" creationid="litus" creationdate="20260511T203327Z">
@@ -761,6 +1121,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182905Z" creationid="Carlos" creationdate="20260805T182905Z">
+        <seg>Els druides desenvolupen les seves habilitats en petits grups, sovint vinculats per una filosofia concreta o un lloc determinat, encara que alguns prefereixen treballar en solitud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During a session of Daggerheart the GM describes situations, narrates events, and controls any adversaries or obstacles that the Player Characters ("PCs") encounter.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T145415Z" creationid="litus" creationdate="20260511T203440Z">
@@ -781,6 +1149,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182045Z" creationid="litus" creationdate="20260521T182045Z">
         <seg>Cada Classe permet accedir a dos Dominis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each class is divided into two &lt;g1&gt;subclasses,&lt;/g1&gt; each of which further defines and highlights one aspect of its class archetype.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260801T094532Z" creationid="Carlos" creationdate="20260801T094303Z">
+        <seg>Cada Classe conté dues &lt;g1&gt;Subclasses&lt;/g1&gt;, cadascuna de les quals defineix i posa en relleu un aspecte concret de l'arquetip de la Classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,6 +1217,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FOUNDATION FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163018Z" creationid="Carlos" creationdate="20260805T163018Z">
+        <seg>ATRIBUT DE FONAMENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FOUNDATION FEATURES</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T170912Z" creationid="Carlos" creationdate="20260805T170912Z">
+        <seg>ATRIBUTS DE FONAMENT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For example, Daggerheart has a weapon called a grappler that lets you pull a target close to you.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T165454Z" creationid="litus" creationdate="20260511T233755Z">
@@ -857,10 +1249,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For some subclasses, the mastery feature unlocks an extraordinary new ability; for others, it's the impressive culmination of their subclass's core feature.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T141413Z" creationid="Carlos" creationdate="20260804T141413Z">
+        <seg>En alguns casos, desbloqueja una habilitat extraordinària; en uns altres, és la culminació impressionant de l’atribut principal de la Subclasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For some subclasses, the specialization feature grants a new ability; for others, it expands or enhances a feature you already acquired through a class or subclass.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T141122Z" creationid="Carlos" creationdate="20260804T141122Z">
+        <seg>En algunes Subclasses, aquest atribut concedeix una habilitat nova; en altres, amplia o millora un atribut ja adquirit a través d’una Classe o Subclasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Foundation Feature: a unique starting feature that establishes the identity and strengths of the subclass.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260803T175645Z" creationid="Carlos" creationdate="20260803T175126Z">
+        <seg>Atribut de Fonament: un tret singular inicial que determina la identitat i els punts forts de la Subclasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GRACE</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T172815Z" creationid="litus" creationdate="20260521T172815Z">
         <seg>GRÀCIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Give them an additional downtime move during their next rest.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171553Z" creationid="Carlos" creationdate="20260805T171553Z">
+        <seg>Donar-li una acció de descans addicional al seu pròxim descans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,6 +1325,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T141052Z" creationid="litus" creationdate="20260511T202242Z">
         <seg>Bones aventures!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help an Ally without spending Hope.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T173808Z" creationid="Carlos" creationdate="20260805T171513Z">
+        <seg>Ajudar un aliat sense gastar punts d'Esperança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1043,10 +1475,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MASTERY FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T164026Z" creationid="Carlos" creationdate="20260805T164026Z">
+        <seg>ATRIBUT DE MESTRATGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MIDNIGHT</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T173751Z" creationid="litus" creationdate="20260521T173751Z">
         <seg>MITJANIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mastery Feature: The mastery feature is a subclass's most powerful feature, which can be gained at higher levels.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T141300Z" creationid="Carlos" creationdate="20260804T141300Z">
+        <seg>Atribut de Mestratge: l’atribut més potent de la Subclasse, que es pot adquirir als nivells superiors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Members of this class are masters of captivation and specialize in a variety of performance types, including singing, playing musical instruments, weaving tales, or telling jokes.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142104Z" creationid="Carlos" creationdate="20260804T142104Z">
+        <seg>Dominen l'art de la paraula i la seducció i són especialistes en un ampli ventall d’arts escèniques, com ara cantar, tocar instruments, teixir històries o explicar acudits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Members of this profession bond and train at schools or guilds, but a current of egotism runs through those of the bardic persuasion.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142150Z" creationid="Carlos" creationdate="20260804T142150Z">
+        <seg>Els membres d’aquesta professió es formen i s’entrenen a escoles o gremis, però solen tenir una vena d'egocentrisme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,6 +1527,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T174122Z" creationid="litus" creationdate="20260521T174122Z">
         <seg>La Mitjanit ofereix als seus practicants el poder de controlar i crear enigmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once per session, when you encourage an ally, you can do one of the following:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T171431Z" creationid="Carlos" creationdate="20260805T171431Z">
+        <seg>Una vegada per sessió, en animar un aliat, pots:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,10 +1571,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Play the Troubadour if you want to play music to bolster your allies.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162912Z" creationid="Carlos" creationdate="20260805T162912Z">
+        <seg>Juga com a Trobador si vols fer servir la música per inspirar els teus aliats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play the Wordsmith if you want to use clever wordplay and captivate crowds.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T170835Z" creationid="Carlos" creationdate="20260805T170835Z">
+        <seg>Juga com a Dramaturg si vols fer servir l'eloqüència per fascinar les multituds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please read the Darrington Press Community Gaming License before using this material.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T110804Z" creationid="litus" creationdate="20260511T201709Z">
         <seg>Es recomana llegir la Darrington Press Community Gaming License (Llicència de joc col·lectiva de Darrington Press) abans de fer servir el contingut d'aquest document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presence</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162941Z" creationid="Carlos" creationdate="20260805T162941Z">
+        <seg>Presència</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1631,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T180150Z" creationid="litus" creationdate="20260521T180150Z">
         <seg>SILVÀ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPECIALIZATION FEATURE</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T163843Z" creationid="Carlos" creationdate="20260805T163843Z">
+        <seg>ATRIBUT D'ESPECIALITZACIÓ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SPELLCAST TRAIT</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162927Z" creationid="Carlos" creationdate="20260805T162927Z">
+        <seg>CARACTERÍSTICA DE LLANÇAMENT DE CONJURS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1299,6 +1811,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specialization Feature: an advanced feature that can be gained on level up.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260803T175711Z" creationid="Carlos" creationdate="20260803T175611Z">
+        <seg>Atribut d'Especialització: un tret més avançat que es pot obtenir en pujar de nivell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spellcast Trait: the trait used on all Spellcast rolls.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260803T175138Z" creationid="Carlos" creationdate="20260801T094730Z">
+        <seg>Característica de Llançament de conjurs: la Característica que es fa servir en les tirades de Llançament de conjurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spells you cast before you transform stay active and last for their normal duration, and you can talk and communicate as normal.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073813Z" creationid="Carlos" creationdate="20260806T073813Z">
+        <seg>Els conjurs que hagis llançat abans de transformar-te continuen actius i mantenen la seva durada normal. Pots parlar i comunicar-te amb normalitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Splendor is the domain of &lt;g1&gt;life.&lt;/g1&gt; Through this magic, followers gain the ability to heal and, to an extent, control death.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T180957Z" creationid="litus" creationdate="20260521T180957Z">
@@ -1335,6 +1871,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T215623Z" creationid="litus" creationdate="20260511T215623Z">
         <seg>LA REGLA D'OR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TROUBADOUR</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T162856Z" creationid="Carlos" creationdate="20260805T162856Z">
+        <seg>TROBADOR</seg>
       </tuv>
     </tu>
     <tu>
@@ -1384,6 +1928,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260519T205346Z" creationid="litus" creationdate="20260519T185104Z">
         <seg>El repertori bàsic de Corferida inclou 9 jocs de cartes de Domini, cada un conformat per una col·lecció de cartes que atorguen atributs o capacitats especials en relació amb una temàtica concreta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Daggerheart core set includes cards detailing each foundation, specialization, and mastery feature.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T141626Z" creationid="Carlos" creationdate="20260804T141626Z">
+        <seg>El repertori bàsic de Corferida inclou cartes que detallen cada atribut de Fonament, d’Especialització i de Mestratge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,6 +2020,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 9 classes in the Daggerheart core materials: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, and Wizard.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110949Z" creationid="Carlos" creationdate="20260618T110801Z">
+        <seg>Hi ha 9 Classes al conjunt bàsic de regles de Corferida: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri i Serafí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T110452Z" creationid="litus" creationdate="20260511T234130Z">
@@ -1544,6 +2104,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260519T205711Z" creationid="litus" creationdate="20260519T205711Z">
         <seg>Els que trien aquest camí aprofiten les forces primigènies i enigmàtiques dels regnes per manipular tant la seva pròpia energia com la dels elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T070403Z" creationid="Carlos" creationdate="20260806T070403Z">
+        <seg>A cop d'estudi i dedicació, els druides poden aprendre a transformar-se en bèsties i modelar la natura mateixa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1668,12 +2236,36 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en-US">
+        <seg>WORDSMITH</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T170744Z" creationid="Carlos" creationdate="20260805T170744Z">
+        <seg>DRAMATURG</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>sia?</note>
       <tuv lang="en-US">
         <seg>We hope this document proves useful to your table.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T140700Z" creationid="litus" creationdate="20260511T202240Z">
         <seg>Tant de bo aquest document sigui útil per a la teva taula de joc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What do I do that annoys you?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182439Z" creationid="Carlos" creationdate="20260805T182439Z">
+        <seg>Què faig que et tregui de polleguera?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What made you realize we were going to be such good friends?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182429Z" creationid="Carlos" creationdate="20260805T182429Z">
+        <seg>Què va fer que t’adonessis que seríem tan bons amics?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,10 +2286,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you acquire one of these features, take its card for use as a reference during play.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T141732Z" creationid="Carlos" creationdate="20260804T141732Z">
+        <seg>Quan s'obtingui un d'aquests atributs, es pot agafar la carta corresponent per fer-la servir com a referència durant la partida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you do, choose one trait to raise by +1 until you drop out of that Beastform.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073542Z" creationid="Carlos" creationdate="20260806T073542Z">
+        <seg>Quan ho facis, escull una característica que s’incrementarà en +1 fins que abandonis aquesta Forma Salvatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you do, roll a &lt;g3&gt;d10&lt;/g3&gt; as your advantage die.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182026Z" creationid="Carlos" creationdate="20260805T182026Z">
+        <seg>Quan ho facis, fes servir un &lt;g3&gt;d10&lt;/g3&gt; com a dau d'avantatge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you gain a new domain card at level-up, you can immediately move it into your loadout for free.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T120654Z" creationid="Carlos" creationdate="20260609T120654Z">
         <seg>Quan s'aconsegueix una nova carta de Domini en pujar de Nivell, es pot moure a la selecció de manera immediata i gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When you give a Rally Die to an ally, they can gain a Hope or clear a Stress.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T164018Z" creationid="Carlos" creationdate="20260805T164018Z">
+        <seg>Quan proporciones un Dau d'Atiar a un aliat, aquest pot o bé guanyar un punt d’Esperança o bé recuperar una casella d’Estrès.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,10 +2342,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whether performing for an audience or speaking to an individual, bards thrive in social situations.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142133Z" creationid="Carlos" creationdate="20260804T142133Z">
+        <seg>Sigui actuant davant d’una multitud o parlant en privat, els bards destaquen en situacions socials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T181552Z" creationid="litus" creationdate="20260521T181552Z">
         <seg>Sigui a través de l'atac o la defensa, els que trien aquesta disciplina canalitzen una força formidable per protegir els seus aliats en la batalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182837Z" creationid="Carlos" creationdate="20260805T182837Z">
+        <seg>Encara que podries subestimar un druida amable que es dedica a la normalment tranquil·la tasca de conrear plantes, els druides que canalitzen les forces indòmites de la natura resulten colpidors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,10 +2374,74 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>While they may be the most likely class to bring people together, a bard of ill temper can just as easily tear a party apart.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260804T142209Z" creationid="Carlos" creationdate="20260804T142209Z">
+        <seg>Encara que siguin la classe que més fàcilment pot unir la gent, un bard amb el dia tort pot trencar un grup amb la mateixa facilitat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While transformed, you can't use weapons or cast spells from domain cards, but you can still use other features or abilities you have access to.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073746Z" creationid="Carlos" creationdate="20260806T073746Z">
+        <seg>Mentre estiguis transformat, no pots fer servir armes ni llançar conjurs de cartes de domini, però sí que pots continuar utilitzant altres atributs o habilitats als quals tinguis accés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who are they, and why do you idolize them?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182325Z" creationid="Carlos" creationdate="20260805T182325Z">
+        <seg>qui és i per què l’idolatres?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who did you adore, and how did they hurt you?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182231Z" creationid="Carlos" creationdate="20260805T182231Z">
+        <seg>a qui adoraves i com et va fer mal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who from your community taught you to have such confidence in yourself?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182151Z" creationid="Carlos" creationdate="20260805T182151Z">
+        <seg>Qui de la teva Comunitat et va ensenyar a tenir tanta confiança en tu mateix?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do you grab my hand at night?</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182453Z" creationid="Carlos" creationdate="20260805T182453Z">
+        <seg>Per què m'agafes de la mà a les nits?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wielders of Blade dedicate themselves to achieving inexorable power over death.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T170203Z" creationid="litus" creationdate="20260521T170203Z">
         <seg>Els portadors del Glavi es consagren a aconseguir un poder inexorable sobre la mort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also create your own questions.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182118Z" creationid="Carlos" creationdate="20260805T182118Z">
+        <seg>També pots crear les teves pròpies preguntes.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can drop out of this form at any time.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260806T073714Z" creationid="Carlos" creationdate="20260806T073714Z">
+        <seg>Pots abandonar aquesta forma en qualsevol moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +2458,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T190256Z" creationid="litus" creationdate="20260521T190256Z">
         <seg>Només es poden triar cartes dels dos Dominis de la Classe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can perform each of your "Gifted Performer" feature's songs twice per long rest.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T170710Z" creationid="Carlos" creationdate="20260805T170710Z">
+        <seg>Pots fer servir cada cançó de l'atribut «Intèrpret dotat» dues vegades per descans llarg.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +2490,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T190035Z" creationid="litus" creationdate="20260521T190035Z">
         <seg>No es pot obtenir una carta de Domini d'un Nivell superior al del PJ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You were in love once.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182227Z" creationid="Carlos" creationdate="20260805T182227Z">
+        <seg>Una vegada vas estar enamorat:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +2546,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260513T221700Z" creationid="litus" creationdate="20260513T221700Z">
         <seg>Cal fer una tirada d'Instint per ensumar el perill, percebre detalls de l'entorn o rastrejar un enemic esmunyedís.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've always looked up to another bard.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260805T182319Z" creationid="Carlos" creationdate="20260805T182319Z">
+        <seg>Sempre has admirat un altre bard:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +2610,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260515T062312Z" creationid="litus" creationdate="20260515T062312Z">
         <seg>La Classe determina el seu valor inicial, que està indicat just sota la casella d'Evasió del full de personatge; copia aquest número a la casella corresponent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your chosen subclass grants the following:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260801T094616Z" creationid="Carlos" creationdate="20260801T094616Z">
+        <seg>Cada Subclasse proporciona:</seg>
       </tuv>
     </tu>
     <tu>

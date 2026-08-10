@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; Your subclass, ancestry, and community cards don't count toward your loadout or vault and are always active and available.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T171805Z" creationid="Carlos" creationdate="20260609T114129Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; les cartes de Subclasse, Llinatge i Comunitat no formen part de la selecció ni de la reserva; aleshores, es troben sempre actives i disponibles.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;&lt;g2&gt;Note:&lt;/g2&gt; if an effect or ability gives you a number of uses equal to a trait with a modifier of +0 or less, it grants you 0 uses.&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T183725Z" creationid="Carlos" creationdate="20260609T183725Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Nota:&lt;/g2&gt; si un efecte o habilitat proporciona un nombre d'usos igual a una Característica amb un modificador de +0 o menys, el nombre d'usos que proporciona és 0.&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Access to Domains:&lt;/g1&gt; Each class grants access to two domains; players choose cards from these domains during character creation and when leveling up.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110251Z" creationid="Carlos" creationdate="20260609T213558Z">
+        <seg>&lt;g1&gt;Accés als Dominis:&lt;/g1&gt; cada Classe proporciona accés a dos Dominis dels quals les jugadores trien cartes de Domini quan creen el seu personatge i quan puja de Nivell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Agility&lt;/g1&gt; (Use it to Sprint, Leap, Maneuver,etc.) A high Agility means you're fast on your feet, nimble on dicult terrain, and quick to react to danger.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191411Z" creationid="litus" creationdate="20260513T210907Z">
@@ -100,6 +124,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T113318Z" creationid="litus" creationdate="20260511T234505Z">
         <seg>&lt;g1&gt;Tria una Subclasse.&lt;/g1&gt; Les &lt;g2&gt;Subclasses&lt;/g2&gt; afinen encara més l'arquetip d'una Classe i reforcen el seu estil atorgant accés a &lt;g3&gt;atributs de subclasse&lt;/g3&gt; exclusius. Cada Classe inclou dues Subclasses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Class Feature(s)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110441Z" creationid="Carlos" creationdate="20260618T110441Z">
+        <seg>&lt;g1&gt;Atributs de classe&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Class Hope Feature,&lt;/g1&gt; a class feature that costs 3 Hope to activate.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110653Z" creationid="Carlos" creationdate="20260618T110653Z">
+        <seg>&lt;g1&gt;Atribut d'Esperança de la Classe&lt;/g1&gt;, una habilitat que requereix 3 punts d'Esperança per activar-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,6 +376,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;g1&gt;Starting Evasion and Hit Points (HP)&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110348Z" creationid="Carlos" creationdate="20260618T110348Z">
+        <seg>&lt;g1&gt;Evasió inicial i Punts de cop (PC)&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;g1&gt;Starting Items&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110408Z" creationid="Carlos" creationdate="20260618T110408Z">
+        <seg>&lt;g1&gt;Equipament inicial&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;g1&gt;Strength&lt;/g1&gt; (Use it to Lift, Smash, Grapple, etc.) A high Strength means you're better at feats that test your physical prowess and stamina.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260514T191358Z" creationid="litus" creationdate="20260513T214704Z">
@@ -396,6 +452,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T182344Z" creationid="litus" creationdate="20260521T182344Z">
         <seg>&lt;g1&gt;Mag:&lt;/g1&gt; Còdex i Esplendor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A &lt;g1&gt;class&lt;/g1&gt; is a role-based archetype that determines a PC's:</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T213542Z" creationid="Carlos" creationdate="20260609T213542Z">
+        <seg>Una &lt;g1&gt;Classe&lt;/g1&gt; és un arquetip de personatge de rol que determina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -540,6 +604,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260516T161155Z" creationid="Carlos" creationdate="20260516T161155Z">
         <seg>Quan es crea un personatge, és Nivell 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the start of a rest, before using downtime moves, you can freely move cards between your loadout and your vault, so long as your loadout doesn't exceed its five-card maximum.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T115511Z" creationid="Carlos" creationdate="20260609T114718Z">
+        <seg>Al l'inici d'un descans i abans de dur a terme cap acció de descans, es poden intercanviar cartes entre la selecció i la reserva lliurement, sense superar, en cap cas, el límit màxim de cinc cartes a la selecció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -873,6 +945,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a domain card restricts how often it can be used, you can track such limits with whatever method you prefer, such as turning the card sideways, flipping it facedown, or using tokens.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T171732Z" creationid="Carlos" creationdate="20260609T171732Z">
+        <seg>Si una carta de Domini té un límit d'ús, se'n pot fer seguiment de diferents maneres: es pot girar la carta de costat, girar-la cap per avall o fer servir fitxes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If applicable, whichever class-specific item you selected to carry your spells</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260517T113218Z" creationid="Carlos" creationdate="20260517T113218Z">
@@ -917,6 +997,22 @@
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T112355Z" creationid="litus" creationdate="20260511T234330Z">
         <seg>Si l'atribut de classe requereix fer cap elecció, ara és el moment de fer-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your loadout is already full, you must also move a card from your loadout to your vault to make space, though you can do this at no cost.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T120355Z" creationid="Carlos" creationdate="20260609T120125Z">
+        <seg>Si la selecció està plena, s'ha de moure una carta de la selecció a la reserva per fer espai; això es pot fer sense cap cost addicional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If your loadout is already full, you must also move a card from your loadout to your vault to make space.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T120757Z" creationid="Carlos" creationdate="20260609T120757Z">
+        <seg>Si la selecció està plena, s'ha de moure una carta de la selecció a la reserva per fer espai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,6 +1095,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260521T174122Z" creationid="litus" creationdate="20260521T174122Z">
         <seg>La Mitjanit ofereix als seus practicants el poder de controlar i crear enigmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you've acquired six or more domain cards, you must choose five to keep in your loadout; the rest are considered to be in your &lt;g2&gt;vault.&lt;/g2&gt; Vault cards are inactive and do not influence play</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T114051Z" creationid="Carlos" creationdate="20260609T111543Z">
+        <seg>Un cop s'aconsegueixen sis o més cartes de Domini, se n'ha de triar cinc per mantenir a la selecció; la resta queden a la &lt;g2&gt;reserva&lt;/g2&gt;. Les cartes de la reserva romanen inactives i no tenen cap efecte en la partida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,6 +1500,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are 9 classes in the Daggerheart core materials: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, and Wizard.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260618T110949Z" creationid="Carlos" creationdate="20260618T110801Z">
+        <seg>Hi ha 9 Classes al conjunt bàsic de regles de Corferida: Bard, Druida, Fetiller, Guardià, Guerrer, Mag, Muntaner, Murri i Serafí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="Carlos" changedate="20260513T110452Z" creationid="litus" creationdate="20260511T234130Z">
@@ -1517,6 +1629,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To move a card from your vault to your loadout at any other time, you must mark a number of Stress equal to the vaulted card's &lt;g1&gt;Recall Cost&lt;/g1&gt; (located in the top right of the card next to the lightning bolt symbol).</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T115924Z" creationid="Carlos" creationdate="20260609T115924Z">
+        <seg>Per moure una carta des de la reserva a la selecció en qualsevol altre moment, s'ha de marcar una quantitat de caselles d'Estrès igual al &lt;g1&gt;cost d'Evocació&lt;/g1&gt; de la carta (s'indica a la cantonada superior dreta de la carta, al costat del símbol del llamp).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To provide copy text made available by Darrington Press for your own publications under their Community Gaming License (www.darringtonpress.com/license).</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T133118Z" creationid="litus" creationdate="20260511T202142Z">
@@ -1529,6 +1649,14 @@
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260512T133130Z" creationid="litus" creationdate="20260511T202105Z">
         <seg>consultar ràpidament les regles de Corferida durant les sessions de joc,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>USAGE LIMITS</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T120822Z" creationid="Carlos" creationdate="20260609T120822Z">
+        <seg>LIMITS D'ÚS</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you gain a new domain card at level-up, you can immediately move it into your loadout for free.</seg>
+      </tuv>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T120654Z" creationid="Carlos" creationdate="20260609T120654Z">
+        <seg>Quan s'aconsegueix una nova carta de Domini en pujar de Nivell, es pot moure a la selecció de manera immediata i gratuita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you're in doubt about how a rule applies, the GM should make a ruling that aligns with the narrative.</seg>
       </tuv>
       <tuv lang="ca-ES" changeid="litus" changedate="20260511T215803Z" creationid="litus" creationdate="20260511T215803Z">
@@ -1648,8 +1784,8 @@
       <tuv lang="en-US">
         <seg>You can have up to 5 domain cards in your loadout at one time.</seg>
       </tuv>
-      <tuv lang="ca-ES" changeid="litus" changedate="20260521T230109Z" creationid="litus" creationdate="20260521T230109Z">
-        <seg>Es poden tenir fins a 5 cartes de Domini alhora a la selecció.</seg>
+      <tuv lang="ca-ES" changeid="Carlos" changedate="20260609T113915Z" creationid="litus" creationdate="20260521T230109Z">
+        <seg>A la selecció, es poden tenir fins a 5 cartes de Domini a la vegada.</seg>
       </tuv>
     </tu>
     <tu>

@@ -146,3 +146,10 @@ loadout	selecció
 abilities	habilitats
 spell	conjur
 grimoire	grimori
+Spellcast	Llançament de conjurs
+Mastery	Mestratge
+Close	Proper
+range	abast
+Vulnerable	Vulnerable
+Far	Llunyà
+Help an Ally	Ajudar un aliat
